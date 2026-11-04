@@ -10,6 +10,7 @@ on:
     - cron: "10 6 * * *"   # 14:10
     - cron: "0 9 * * *"    # 17:00
     - cron: "0 13 * * *"   # 21:00
+    - cron: "35 15 * * *"  # 23:35，强制刷新当天快照
   workflow_dispatch:
     inputs:
       collect:
@@ -58,6 +59,7 @@ jobs:
         if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.collect)
         run: |
           ARGS=""
+          if [ "${{ github.event.schedule }}" = "35 15 * * *" ]; then ARGS="$ARGS --force"; fi
           if [ "${{ inputs.allow_stale }}" = "true" ]; then ARGS="$ARGS --allow-stale"; fi
           if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
           python -m radar collect $ARGS
