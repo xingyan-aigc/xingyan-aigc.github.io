@@ -6,31 +6,31 @@
 :root {
   color-scheme: light;
   /* 表面 */
-  --bg: #f8fafc;
-  --surface: #ffffff;
-  --surface-2: #f1f5f9;
-  --surface-3: #e9eef6;
-  --sidebar: #0f1d3d;
-  --sidebar-ink: #c7d2fe;
+  --bg: #F4F5F7;
+  --surface: #FFFFFF;
+  --surface-2: #F1F3F6;
+  --surface-3: #E8EBF2;
+  --sidebar: #07080A;
+  --sidebar-ink: #AEB3C2;
   --sidebar-ink-strong: #ffffff;
   --sidebar-active: rgba(255, 255, 255, 0.10);
   /* 文字 */
-  --ink: #0f172a;
-  --ink-2: #475569;
-  --muted: #64748b;
+  --ink: #07080A;
+  --ink-2: #4B5263;
+  --muted: #6B7280;
   /* 线条 */
-  --border: #e2e8f0;
-  --grid: #e2e8f0;
-  --axis: #cbd5e1;
+  --border: #DDE1EA;
+  --grid: #E7EAF0;
+  --axis: #C5CAD5;
   /* 品牌 */
-  --primary: #1e40af;
-  --primary-2: #3b82f6;
-  --primary-soft: #eff4ff;
-  --primary-ink: #1e3a8a;
-  --accent: #d97706;
-  --accent-soft: #fef3c7;
-  --accent-ink: #92400e;
-  --ring: #3b82f6;
+  --primary: #1737F2;
+  --primary-2: #3655F5;
+  --primary-soft: #EEF0FF;
+  --primary-ink: #1730BB;
+  --accent: #C74300;
+  --accent-soft: #FFF0E8;
+  --accent-ink: #A33700;
+  --ring: #1737F2;
   /* 状态 */
   --up: #15803d;
   --up-soft: #dcfce7;
@@ -58,13 +58,13 @@
 @media (prefers-color-scheme: dark) {
   :root:where(:not([data-theme="light"])) {
     color-scheme: dark;
-    --bg: #0b1120; --surface: #111827; --surface-2: #172033; --surface-3: #1e293b;
-    --sidebar: #0a1329; --sidebar-ink: #a5b4fc; --sidebar-active: rgba(255, 255, 255, 0.08);
-    --ink: #e5e7eb; --ink-2: #cbd5e1; --muted: #94a3b8;
-    --border: #1f2a3d; --grid: #1f2a3d; --axis: #334155;
-    --primary: #60a5fa; --primary-2: #93c5fd; --primary-soft: rgba(96, 165, 250, 0.14); --primary-ink: #bfdbfe;
-    --accent: #fbbf24; --accent-soft: rgba(251, 191, 36, 0.14); --accent-ink: #fde68a; --ring: #60a5fa;
-    --up: #4ade80; --up-soft: rgba(74, 222, 128, 0.14); --down: #f87171; --warn: #fbbf24;
+    --bg: #07080A; --surface: #111318; --surface-2: #191C24; --surface-3: #232733;
+    --sidebar: #07080A; --sidebar-ink: #AEB3C2; --sidebar-active: rgba(23, 55, 242, 0.18);
+    --ink: #ECEEF4; --ink-2: #BEC3D0; --muted: #959DAE;
+    --border: #2A2F3B; --grid: #232833; --axis: #41495B;
+    --primary: #899AFF; --primary-2: #AFBAFF; --primary-soft: rgba(23, 55, 242, 0.18); --primary-ink: #D4DAFF;
+    --accent: #FF8A4D; --accent-soft: rgba(255, 90, 0, 0.12); --accent-ink: #FFC4A6; --ring: #899AFF;
+    --up: #4ade80; --up-soft: rgba(74, 222, 128, 0.14); --down: #f87171; --warn: #E9AE72;
     --kind-real: #60a5fa; --kind-ai: #a78bfa; --kind-comic: #fb923c; --kind-unknown: #64748b;
     --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500;
     --s5: #d55181; --s6: #008300; --s7: #9085e9; --s8: #e66767;
@@ -74,13 +74,13 @@
 }
 :root[data-theme="dark"] {
   color-scheme: dark;
-  --bg: #0b1120; --surface: #111827; --surface-2: #172033; --surface-3: #1e293b;
-  --sidebar: #0a1329; --sidebar-ink: #a5b4fc; --sidebar-active: rgba(255, 255, 255, 0.08);
-  --ink: #e5e7eb; --ink-2: #cbd5e1; --muted: #94a3b8;
-  --border: #1f2a3d; --grid: #1f2a3d; --axis: #334155;
-  --primary: #60a5fa; --primary-2: #93c5fd; --primary-soft: rgba(96, 165, 250, 0.14); --primary-ink: #bfdbfe;
-  --accent: #fbbf24; --accent-soft: rgba(251, 191, 36, 0.14); --accent-ink: #fde68a; --ring: #60a5fa;
-  --up: #4ade80; --up-soft: rgba(74, 222, 128, 0.14); --down: #f87171; --warn: #fbbf24;
+  --bg: #07080A; --surface: #111318; --surface-2: #191C24; --surface-3: #232733;
+  --sidebar: #07080A; --sidebar-ink: #AEB3C2; --sidebar-active: rgba(23, 55, 242, 0.18);
+  --ink: #ECEEF4; --ink-2: #BEC3D0; --muted: #959DAE;
+  --border: #2A2F3B; --grid: #232833; --axis: #41495B;
+  --primary: #899AFF; --primary-2: #AFBAFF; --primary-soft: rgba(23, 55, 242, 0.18); --primary-ink: #D4DAFF;
+  --accent: #FF8A4D; --accent-soft: rgba(255, 90, 0, 0.12); --accent-ink: #FFC4A6; --ring: #899AFF;
+  --up: #4ade80; --up-soft: rgba(74, 222, 128, 0.14); --down: #f87171; --warn: #E9AE72;
   --kind-real: #60a5fa; --kind-ai: #a78bfa; --kind-comic: #fb923c; --kind-unknown: #64748b;
   --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500;
   --s5: #d55181; --s6: #008300; --s7: #9085e9; --s8: #e66767;
