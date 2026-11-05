@@ -1,0 +1,2532 @@
+{
+  "collectedAt": "2026-11-05T09:22:55.158Z",
+  "listCount": 0,
+  "eligible": 5,
+  "verification": true,
+  "batchIds": [
+    "7690487060252478489",
+    "7577370089536619033",
+    "7690601273957157913",
+    "7699076786229365785",
+    "7693611209945336856"
+  ],
+  "works": [
+    {
+      "id": "7693611209945336856",
+      "title": "快穿只抢男主不洗白",
+      "author": "资深书虫114",
+      "wordCount": 440811,
+      "detailUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856?biz_tab=motion_comic&book_id=7676897728806276158",
+      "chapterCount": 20,
+      "characters": 39546,
+      "status": "ip_readable_complete",
+      "coverage": {
+        "expected": 20,
+        "stored": 20,
+        "missing": [],
+        "unexpected": [],
+        "complete": true
+      },
+      "market": {
+        "score": 8.15,
+        "votes": 1150,
+        "readers": 74570
+      },
+      "release": {
+        "listedCount": 0,
+        "selectedCount": 0,
+        "eligible": true,
+        "verification": "detail_snapshot",
+        "observedAt": "2026-11-05T09:22:55.153Z"
+      },
+      "collectedAt": "2026-11-05T09:22:55.157Z",
+      "sourceHash": "28256a73cb72f64d461199911d7b72c616dca722a56878c3b091c4f17f640799",
+      "serializationStatus": "连载中",
+      "platformTags": [
+        "女频",
+        "快穿",
+        "系统",
+        "幻想言情",
+        "穿越",
+        "青梅竹马"
+      ],
+      "genreTags": [
+        "女频",
+        "年代婚恋",
+        "利益择偶",
+        "退婚换局",
+        "家族博弈"
+      ],
+      "assessment": {
+        "version": "1.0",
+        "status": "scored",
+        "opening": 52.5,
+        "openingParts": {
+          "hook": 11.25,
+          "progression": 11.25,
+          "characters": 7.5,
+          "emotion": 7.5,
+          "distinction": 7.5,
+          "adaptability": 7.5
+        },
+        "contributions": {
+          "opening": 52.5,
+          "readers": 20.47
+        },
+        "marketParts": {
+          "rating": 9.22,
+          "readership": 9.75,
+          "trend": 1.5
+        },
+        "provisionalMetrics": [
+          "在读趋势"
+        ],
+        "releaseObservedAt": "2026-11-05T09:22:55.153Z",
+        "selectedCount": 0,
+        "releaseStatus": {
+          "fresh": true,
+          "verified": true,
+          "listedCount": 0,
+          "eligible": true
+        },
+        "total": 72.97,
+        "criteria": {
+          "hook": {
+            "grade": 3,
+            "chapters": [
+              4,
+              5
+            ],
+            "reason": "按已采范围内可用切入点评价。第4—5章可从围观婚约危机进入，再由女主祝贺、断联交代失去原定婚配和转向的选择，目标与阻力清楚。仍需前补其择偶自保目标、后补梦中风险；原第1章长履历不能原样照搬，未达独特强钩子的4档。",
+            "evidence": [
+              {
+                "chapter": 4,
+                "point": "P3",
+                "lineStart": 169,
+                "lineEnd": 173,
+                "observation": "徐允知到江家门外，围观与议论使婚约危机公开。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7676906073348915774?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 5,
+                "point": "P1",
+                "lineStart": 196,
+                "lineEnd": 206,
+                "observation": "江母以家族大局要求儿子改娶林桃花，原婚约失去支持。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7676906576866705982?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 5,
+                "point": "P4",
+                "lineStart": 222,
+                "lineEnd": 230,
+                "observation": "徐允知当面祝贺并要求以后不再联系，结束关系而非继续求复合。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7676906576866705982?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              }
+            ],
+            "label": "开场冲突与追看期待",
+            "rawScore": 11.25,
+            "maxRawScore": 15
+          },
+          "progression": {
+            "grade": 3,
+            "chapters": [
+              6,
+              7,
+              10,
+              13,
+              20
+            ],
+            "reason": "婚变触发工作安排与梦后避险，退婚赔罪转成家族联盟，女主借旧人的愧疚推动新择偶；行动有连续资源和关系后果。中段对手家庭多章讨价还价延后女主行动，最终婚配尚未落定，未达多轮代价逼迫换策略的突出程度。",
+            "evidence": [
+              {
+                "chapter": 6,
+                "point": "P8",
+                "lineStart": 304,
+                "lineEnd": 306,
+                "observation": "父亲宣布岗位落实，女主获得当前现实后路。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7676907025581752894?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 7,
+                "point": "P7",
+                "lineStart": 341,
+                "lineEnd": 344,
+                "observation": "梦见风险后，她决定工作外尽快婚配并反制对手。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7676907438129300030?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 10,
+                "point": "P2",
+                "lineStart": 476,
+                "lineEnd": 486,
+                "observation": "两位父亲把婚约破裂转为家族互利联盟。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7676914795332764222?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 13,
+                "point": "P5",
+                "lineStart": 658,
+                "lineEnd": 660,
+                "observation": "女主提出半个月成婚时限并追问对手反制进度。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7677583765635351102?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 20,
+                "point": "P2",
+                "lineStart": 983,
+                "lineEnd": 988,
+                "observation": "她将顾家两人划出名单，保留谢昀毅和宋辞。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7678337206443835966?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 20,
+                "point": "P7",
+                "lineStart": 1020,
+                "lineEnd": 1031,
+                "observation": "顾明言因家人的午餐安排重新进入女主的现实场景。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7678337206443835966?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              }
+            ],
+            "label": "因果推进与节奏",
+            "rawScore": 11.25,
+            "maxRawScore": 15
+          },
+          "characters": {
+            "grade": 3,
+            "chapters": [
+              8,
+              11,
+              17,
+              20
+            ],
+            "reason": "女主看重现实保护，江景行想保留复合可能，宋辞借机接近，家族各自经营资源，目标不同且会改变关系。许多动机先由内心解释，兄妹无声互知和省略的谈判未被行动充分展示；因此有关系张力，但不足4档。",
+            "evidence": [
+              {
+                "chapter": 8,
+                "point": "P2",
+                "lineStart": 365,
+                "lineEnd": 373,
+                "observation": "徐允知向哥哥确认会不会为别人放弃她，取得忠诚承诺。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7676909603736535614?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 11,
+                "point": "P4",
+                "lineStart": 546,
+                "lineEnd": 553,
+                "observation": "江景行计划替她找一个过渡丈夫，试图同时补偿与保留未来机会。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7677109131299258942?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 17,
+                "point": "P7",
+                "lineStart": 876,
+                "lineEnd": 880,
+                "observation": "女主因家庭资源重叠，只把谢昀毅放在备选。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7677926558010442302?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 20,
+                "point": "P5",
+                "lineStart": 1000,
+                "lineEnd": 1007,
+                "observation": "宋辞表面勉强，要求看女主意愿后才同意尝试。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7678337206443835966?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 20,
+                "point": "P6",
+                "lineStart": 1008,
+                "lineEnd": 1018,
+                "observation": "宋辞心里承认喜欢女主，江景行却误以为他没有私情。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7678337206443835966?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              }
+            ],
+            "label": "人物动机与关系张力",
+            "rawScore": 7.5,
+            "maxRawScore": 10
+          },
+          "emotion": {
+            "grade": 3,
+            "chapters": [
+              5,
+              11,
+              16,
+              17,
+              20
+            ],
+            "reason": "退婚受损后，家族照顾、玉镯到账和对手婚后预期落空形成局部兑现；第20章旧人把机会送给真情敌，有明确反讽收益。重要婚配与生存反制仍悬置，且对手冷遇并非全由女主直接造成，不把它夸成复仇已成功。",
+            "evidence": [
+              {
+                "chapter": 5,
+                "point": "P4",
+                "lineStart": 222,
+                "lineEnd": 230,
+                "observation": "女主断联，江景行挽留失败，双方情感权力发生转移。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7676906576866705982?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 11,
+                "point": "P6",
+                "lineStart": 559,
+                "lineEnd": 561,
+                "observation": "玉镯被收下，徐家开始发动人脉找对象。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7677109131299258942?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 16,
+                "point": "P6",
+                "lineStart": 811,
+                "lineEnd": 815,
+                "observation": "林家以告发施压令江家同意彩礼，但婚事更显交易性。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7677926212089414206?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 17,
+                "point": "P1",
+                "lineStart": 827,
+                "lineEnd": 833,
+                "observation": "林母拿走彩礼，女主对手领证后仍未获得丈夫陪伴。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7677926558010442302?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 17,
+                "point": "P2",
+                "lineStart": 834,
+                "lineEnd": 840,
+                "observation": "林桃花被安排到宿舍，住大屋的期待落空。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7677926558010442302?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 20,
+                "point": "P6",
+                "lineStart": 1008,
+                "lineEnd": 1018,
+                "observation": "旧未婚夫主动把婚配机会交到实际喜欢女主的人手里。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7678337206443835966?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              }
+            ],
+            "label": "情绪铺垫与兑现",
+            "rawScore": 7.5,
+            "maxRawScore": 10
+          },
+          "distinction": {
+            "grade": 3,
+            "chapters": [
+              6,
+              10,
+              11,
+              20
+            ],
+            "reason": "可辨看点是把柔弱形象和亲密关系当作利益工具，内心自保与外在体面相反，退婚后也不必彻底放弃旧人的资源。它实际改变哭泣、赠物、替她择偶等场面，非只有标签。年代/梦知情节仍属常见框架，灵液与跨世界系统在当前范围未形成持续独特引擎，未给4档。",
+            "evidence": [
+              {
+                "chapter": 6,
+                "point": "P4",
+                "lineStart": 273,
+                "lineEnd": 280,
+                "observation": "她先确认镜中红眼，再维持强颜欢笑的受损形象。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7676907025581752894?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 10,
+                "point": "P5",
+                "lineStart": 509,
+                "lineEnd": 514,
+                "observation": "她内心打算利用江景行对付对手，口头却表示从未怪他。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7676914795332764222?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 11,
+                "point": "P5",
+                "lineStart": 554,
+                "lineEnd": 558,
+                "observation": "她内心质疑旧人的能力，同时以推还玉镯强化其赠予执念。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7677109131299258942?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 20,
+                "point": "P2",
+                "lineStart": 983,
+                "lineEnd": 988,
+                "observation": "择偶名单按风险重新排序，没有直接沿用最强背景者。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7678337206443835966?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              }
+            ],
+            "label": "题材看点与差异化",
+            "rawScore": 7.5,
+            "maxRawScore": 10
+          },
+          "adaptability": {
+            "grade": 2,
+            "chapters": [
+              3,
+              7,
+              9,
+              10,
+              20
+            ],
+            "reason": "家庭与办公室多为低至中等场景负担，公开退婚、彩礼争执和礼物有可直接呈现的动作。但故事关键差异来自心口反差、梦境预知和缺省交易，需转换核心表达，不能只压缩篇幅便保住效果；叙事转换比场景数量更影响这一档。",
+            "evidence": [
+              {
+                "chapter": 3,
+                "point": "P5",
+                "lineStart": 130,
+                "lineEnd": 135,
+                "observation": "成长直接跳到18岁及既定婚配，需要重新组织背景信息。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7676905659010400830?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 7,
+                "point": "P5",
+                "lineStart": 336,
+                "lineEnd": 338,
+                "observation": "女主通过梦境获知未来死亡链，现实中并未发生。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7676907438129300030?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 9,
+                "point": "P1",
+                "lineStart": 407,
+                "lineEnd": 417,
+                "observation": "兄妹对视后关系缓和，但实际交换信息未写明。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7676912104493826622?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 10,
+                "point": "P1",
+                "lineStart": 467,
+                "lineEnd": 475,
+                "observation": "两家谈核心利益时，关键底牌被省略号遮去。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7676914795332764222?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 10,
+                "point": "P5",
+                "lineStart": 509,
+                "lineEnd": 514,
+                "observation": "女主口头体谅与内心利用相反，单拍台词会丢失核心看点。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7676914795332764222?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              },
+              {
+                "chapter": 20,
+                "point": "P6",
+                "lineStart": 1008,
+                "lineEnd": 1018,
+                "observation": "宋辞的真实感情与江景行的误判主要由内心信息支撑。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7693611209945336856/chapter/7678337206443835966?title=%E5%BF%AB%E7%A9%BF%E5%8F%AA%E6%8A%A2%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%B4%97%E7%99%BD&biz_tab=motion_comic&book_id=7676897728806276158"
+              }
+            ],
+            "label": "短剧呈现与改编负担",
+            "rawScore": 7.5,
+            "maxRawScore": 15
+          }
+        },
+        "summary": "婚约遭算计破坏后，徐允知保住工作与家庭补偿，再利用旧情和新择偶关系规避梦中危机。温柔表象与利益判断的反差是主要看点，但关键盘算大量依赖内心叙述；第20章尚未确定新婚配。",
+        "strengths": [
+          "退婚现场与主动断联有清晰的受损、选择和关系变化，可作为前置切入点（第4—5章）。",
+          "哭泣表演、收玉镯和旧人替她找丈夫形成连续的心口反差与戏剧性信息差（第6、10—11、20章）。",
+          "两家补偿、对手婚后冷遇与女主重新择偶互相牵动，存在可回查的资源后果（第10、16—20章）。"
+        ],
+        "risks": [
+          "核心看点依靠心口不一、梦境预知和省略的利益谈判，改编需找到可见载体；不能直接删掉内心就认为故事仍完整。",
+          "第20章仍未完成新的婚配和对梦中死亡链的反制，不能将预知未来或婚姻候选当作已发生结果。",
+          "前3章背景与成长跨度大；第13—17章对手家庭支线持续，需防止主角目标在多方婚事中失焦。",
+          "顾明远/顾明言、谢泽凯等名称存在疑似异写；亲属间无声互知及江父底牌省略，部分关系信息需澄清。"
+        ],
+        "scope": "完整阅读已采第1—20章，仅覆盖年代干部家庭单元；不推断全书快穿世界、结局或系统机制。",
+        "method": "逐章阅读后按统一档位评估，程序计算加权分；非成功概率"
+      },
+      "reportUrl": "./reports/7693611209945336856.html",
+      "assessedAt": "2026-11-05T18:27:30+08:00",
+      "rank": 1
+    },
+    {
+      "id": "7690487060252478489",
+      "title": "糟糕末世：系统给我发了六个糙汉",
+      "author": "学委三号",
+      "wordCount": 308028,
+      "detailUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489?biz_tab=motion_comic&book_id=7673725082853723160",
+      "chapterCount": 20,
+      "characters": 43079,
+      "status": "ip_readable_complete",
+      "coverage": {
+        "expected": 20,
+        "stored": 20,
+        "missing": [],
+        "unexpected": [],
+        "complete": true
+      },
+      "market": {
+        "score": 6.8,
+        "votes": 286,
+        "readers": 22744
+      },
+      "release": {
+        "listedCount": 0,
+        "selectedCount": 0,
+        "eligible": true,
+        "verification": "detail_snapshot",
+        "observedAt": "2026-11-05T09:22:30.502Z"
+      },
+      "collectedAt": "2026-11-05T09:22:30.505Z",
+      "sourceHash": "2d16b20a975b6b2802abfd330cecda712a3af6935a3a4c4dbd0f361d118fd75f",
+      "serializationStatus": "连载中",
+      "platformTags": [
+        "女频",
+        "科幻末世",
+        "系统",
+        "穿越",
+        "末世",
+        "甜宠"
+      ],
+      "genreTags": [
+        "女频",
+        "末世求生",
+        "公路冒险",
+        "多男主",
+        "甜宠",
+        "智斗喜剧",
+        "穿越系统"
+      ],
+      "assessment": {
+        "version": "1.0",
+        "status": "scored",
+        "opening": 55.0,
+        "openingParts": {
+          "hook": 11.25,
+          "progression": 11.25,
+          "characters": 7.5,
+          "emotion": 7.5,
+          "distinction": 10.0,
+          "adaptability": 7.5
+        },
+        "contributions": {
+          "opening": 55.0,
+          "readers": 17.48
+        },
+        "marketParts": {
+          "rating": 7.27,
+          "readership": 8.71,
+          "trend": 1.5
+        },
+        "provisionalMetrics": [
+          "在读趋势"
+        ],
+        "releaseObservedAt": "2026-11-05T09:22:30.502Z",
+        "selectedCount": 0,
+        "releaseStatus": {
+          "fresh": true,
+          "verified": true,
+          "listedCount": 0,
+          "eligible": true
+        },
+        "total": 72.48,
+        "criteria": {
+          "hook": {
+            "grade": 3,
+            "chapters": [
+              1,
+              6
+            ],
+            "reason": "开篇怪物袭击和带伤跳窗能当场交代目标阻力，音响解围可作更鲜明切入；扣分在穿越回忆与含删减的成人化碰触占用表达，系统给物承诺在后续未持续承担主引擎。",
+            "evidence": [
+              {
+                "chapter": 1,
+                "point": "P5",
+                "lineStart": 70,
+                "lineEnd": 78,
+                "observation": "阮糯用道具卡住怪物后爬出床底，小腿被划伤；用伤势换取移动机会",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673736225240384025?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 1,
+                "point": "P6",
+                "lineStart": 79,
+                "lineEnd": 90,
+                "observation": "系统建议向西南跳窗，阮糯撞破二楼玻璃落入怀抱；离开酒店并承担高处坠落风险",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673736225240384025?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 6,
+                "point": "P4",
+                "lineStart": 446,
+                "lineEnd": 455,
+                "observation": "阮糯发现音响，要求接电瓶串喇叭找三轮车，战霆批准；日用品转为替代战术",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673751054839726654?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 6,
+                "point": "P7",
+                "lineStart": 469,
+                "lineEnd": 480,
+                "observation": "尸群改追商场歌声，啼哭尸声囊破损，队员看向阮糯；不靠正面杀伤解除围困并赢得认可",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673751054839726654?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              }
+            ],
+            "label": "开场冲突与追看期待",
+            "rawScore": 11.25,
+            "maxRawScore": 15
+          },
+          "progression": {
+            "grade": 3,
+            "chapters": [
+              5,
+              6,
+              7,
+              9,
+              11,
+              14,
+              18,
+              20
+            ],
+            "reason": "伤腿限制突围、迁尸导致商场重逢、补药得材料救人、缺油赴险再出城，连续后果能触发下一选择；扣分在危机常以临时发现现成物资和弱点顺利解决，照顾竞争多轮重置，18章装置规则冲突削弱因果。",
+            "evidence": [
+              {
+                "chapter": 5,
+                "point": "P8",
+                "lineStart": 421,
+                "lineEnd": 425,
+                "observation": "阮糯想起墙上变异体警告并大喊阻止开门；观察信息转成全队保命预警",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673750886266438206?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 6,
+                "point": "P7",
+                "lineStart": 469,
+                "lineEnd": 480,
+                "observation": "尸群改追商场歌声，啼哭尸声囊破损，队员看向阮糯；不靠正面杀伤解除围困并赢得认可",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673751054839726654?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 7,
+                "point": "P1",
+                "lineStart": 485,
+                "lineEnd": 491,
+                "observation": "街角车灯退去，众人次晨出发补药，商场还困着尸群；昨夜解围保留了新的地形后果",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673751179007902270?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 9,
+                "point": "P5",
+                "lineStart": 608,
+                "lineEnd": 615,
+                "observation": "阮糯要打火机并从药箱拿出材料，叫霍山低头；现有收获被转成救援工具",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673765239556424216?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 11,
+                "point": "P2",
+                "lineStart": 691,
+                "lineEnd": 694,
+                "observation": "信号许诺柴油备件，白祈说明油量不足及轮胎磨损；资源需求使风险地点难以回避",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673770294007317016?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 14,
+                "point": "P7",
+                "lineStart": 949,
+                "lineEnd": 955,
+                "observation": "战霆问处置，阮糯要求把暴徒锁冷库并表示油胎已备好；女主参与生死决策并完成补给目标",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673773945979404824?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 18,
+                "point": "P2",
+                "lineStart": 1148,
+                "lineEnd": 1151,
+                "observation": "陆温装定时引火装置并解释火焰不足直接引爆怪物；设置后续行动的爆炸限制",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673775411431473688?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 18,
+                "point": "P7",
+                "lineStart": 1184,
+                "lineEnd": 1192,
+                "observation": "陆温按键引火，怪物连爆并叠加厂内原料，气浪推动车；迁移危险完成但波及己方",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673775411431473688?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 20,
+                "point": "P10",
+                "lineStart": 1336,
+                "lineEnd": 1350,
+                "observation": "战霆下令冲，白祈驾车碾过怪物驶出隧道，阮糯看见城外蓝天；逃出A市的阶段目标兑现",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673778992708583960?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              }
+            ],
+            "label": "因果推进与节奏",
+            "rawScore": 11.25,
+            "maxRawScore": 15
+          },
+          "characters": {
+            "grade": 3,
+            "chapters": [
+              2,
+              3,
+              9,
+              13,
+              15,
+              16,
+              19
+            ],
+            "reason": "女主从示弱求活到反救队员，裴枭公开称队友；顾烈嘴硬与送糖喂狗、白祈揭穿之间有行动差异；扣分在六人长远目标和各自代价薄，关照常同质化为占有与吃醋，女主未真正改变该模式。",
+            "evidence": [
+              {
+                "chapter": 2,
+                "point": "P2",
+                "lineStart": 130,
+                "lineEnd": 138,
+                "observation": "顾烈举枪质疑她是丧尸，阮糯向霍山求证自己是活人；感染嫌疑成为留队门槛",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673748609673740862?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 3,
+                "point": "P3",
+                "lineStart": 231,
+                "lineEnd": 243,
+                "observation": "霍山愿让出消炎药，战霆踢裴枭让其上药，陆温递糖；小队介入终止恐吓",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673749024989528638?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 9,
+                "point": "P3",
+                "lineStart": 598,
+                "lineEnd": 603,
+                "observation": "霍山举盾挡舌，舌头缠盾将他拖走；救人者付出被拖离的风险",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673765239556424216?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 13,
+                "point": "P8",
+                "lineStart": 866,
+                "lineEnd": 877,
+                "observation": "裴枭称车内只有杀怪队友，陆温亮出串联手雷；队内身份获得公开背书",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673773764277977624?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 15,
+                "point": "P6",
+                "lineStart": 1006,
+                "lineEnd": 1009,
+                "observation": "霍山白祈赞成，战霆许可并要求阮糯负责清理；新成员以明确责任换来入队",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673774484385432088?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 16,
+                "point": "P3",
+                "lineStart": 1047,
+                "lineEnd": 1055,
+                "observation": "夜间顾烈确认无人注意后拿牛肉干喂煤球；口头嫌弃被私下付出反证",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673774953195373080?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 16,
+                "point": "P5",
+                "lineStart": 1066,
+                "lineEnd": 1072,
+                "observation": "白祈以照片要求顾烈洗下周碗，顾烈抢相机；私密破功变成现实劳务筹码",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673774953195373080?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 19,
+                "point": "P7",
+                "lineStart": 1250,
+                "lineEnd": 1255,
+                "observation": "白祈挽住阮糯装不舒服，阮糯让众人别吓他；她开始约束过度排斥",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673775534014202392?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              }
+            ],
+            "label": "人物动机与关系张力",
+            "rawScore": 7.5,
+            "maxRawScore": 10
+          },
+          "emotion": {
+            "grade": 3,
+            "chapters": [
+              4,
+              7,
+              8,
+              9,
+              10,
+              15,
+              20
+            ],
+            "reason": "厨艺打脸、献车羞辱后的搜物反杀、救霍山后的投喂以及养狗预警形成可对照的局部回报；扣分在多次嘴硬和争宠更多重复前一体验，方舟只吊悬念，后续未连续加深前一情绪。",
+            "evidence": [
+              {
+                "chapter": 4,
+                "point": "P8",
+                "lineStart": 358,
+                "lineEnd": 364,
+                "observation": "顾烈嘴上嫌碳水，阮糯递专留饭后他抢去吃净；口头敌意与实际接受出现落差",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673750449459036734?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 7,
+                "point": "P5",
+                "lineStart": 515,
+                "lineEnd": 517,
+                "observation": "李浩要求让士兵下车献车作为复合条件，白祈停车反问；对方羞辱从感情控制扩展到资源",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673751179007902270?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 8,
+                "point": "P2",
+                "lineStart": 538,
+                "lineEnd": 545,
+                "observation": "阮糯说其裤衩藏表和牛肉干，赵天虎命搜身并搜出物品；可验证事实使同伙转为敌人",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673764274103140888?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 8,
+                "point": "P5",
+                "lineStart": 561,
+                "lineEnd": 565,
+                "observation": "响声惊动尸群，啼哭尸引其冲向二楼，赵天虎责骂李浩；内斗转成生存崩溃",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673764274103140888?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 9,
+                "point": "P8",
+                "lineStart": 632,
+                "lineEnd": 635,
+                "observation": "霍山感谢裴枭称赞，战霆允许阮糯去旁店自取奖励；队友地位兑现为奖赏",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673765239556424216?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 10,
+                "point": "P6",
+                "lineStart": 667,
+                "lineEnd": 674,
+                "observation": "白祈揭露挑糖经过，顾烈追他，车开成S形；嘴硬被公共证据拆穿",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673766884080108056?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 15,
+                "point": "P5",
+                "lineStart": 998,
+                "lineEnd": 1005,
+                "observation": "阮糯请求收留并说能预警，战霆质疑食量，大犬甩水；喜爱必须面对资源成本",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673774484385432088?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 20,
+                "point": "P2",
+                "lineStart": 1273,
+                "lineEnd": 1281,
+                "observation": "煤球朝车顶低吼，阮糯令关远光开夜视；收养预警承诺转成及时侦察",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673778992708583960?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              }
+            ],
+            "label": "情绪铺垫与兑现",
+            "rawScore": 7.5,
+            "maxRawScore": 10
+          },
+          "distinction": {
+            "grade": 4,
+            "chapters": [
+              6,
+              8,
+              9,
+              13,
+              18,
+              20
+            ],
+            "reason": "同一日用品智斗看点连续产生不同结果：音响迁尸、声响报复、药房物资反救、异味扰乱埋伏、玩具迁尸再清桥及禁声空间换策略；替为枪战会使关键戏失效。扣分风险是声音和气味解法可能公式化，系统本体存在感低，此项4档仅限已读范围内持续变体。",
+            "evidence": [
+              {
+                "chapter": 6,
+                "point": "P7",
+                "lineStart": 469,
+                "lineEnd": 480,
+                "observation": "尸群改追商场歌声，啼哭尸声囊破损，队员看向阮糯；不靠正面杀伤解除围困并赢得认可",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673751054839726654?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 8,
+                "point": "P4",
+                "lineStart": 555,
+                "lineEnd": 560,
+                "observation": "李浩向车扔砖，防弹玻璃弹开砖块撞响路灯；对方自行制造新危险",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673764274103140888?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 9,
+                "point": "P6",
+                "lineStart": 616,
+                "lineEnd": 624,
+                "observation": "阮糯泼洒药房材料，白祈配合点火，怪物缩舌吞回材料；借怪物反应形成反制",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673765239556424216?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 13,
+                "point": "P5",
+                "lineStart": 844,
+                "lineEnd": 849,
+                "observation": "喷射者遭异味刺激而失控乱喷强酸；特殊攻击能力失去准头",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673773764277977624?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 18,
+                "point": "P5",
+                "lineStart": 1166,
+                "lineEnd": 1176,
+                "observation": "遥控车三路上桥，普通与自爆尸跟随车队；敌人移动规则兑现",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673775411431473688?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 20,
+                "point": "P5",
+                "lineStart": 1298,
+                "lineEnd": 1304,
+                "observation": "阮糯在心里排除枪声加速和炸弹，转向嗅觉；迫使策略再次更换",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673778992708583960?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 20,
+                "point": "P9",
+                "lineStart": 1326,
+                "lineEnd": 1335,
+                "observation": "怪物失去抓力掉落并打滚，挡车者不再攻击；上方包围被拆解",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673778992708583960?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              }
+            ],
+            "label": "题材看点与差异化",
+            "rawScore": 10.0,
+            "maxRawScore": 10
+          },
+          "adaptability": {
+            "grade": 2,
+            "chapters": [
+              1,
+              6,
+              12,
+              13,
+              15,
+              17,
+              18,
+              20
+            ],
+            "reason": "核心行动可见且厨房车厢段可演出，能保住看点；叙事负担为宠物出场顺序、车顶结构、临时弱点和爆炸装置规则需修，制作负担为六男主群戏、变形怪、重卡、万尸桥爆与洞顶群怪，拖低至2档。不能按可见点多直接判低成本。",
+            "evidence": [
+              {
+                "chapter": 1,
+                "point": "P8",
+                "lineStart": 104,
+                "lineEnd": 122,
+                "observation": "阮糯因腿伤无法起身，几名男人对落车和碰触作出反应；女主被置于多人审视和保护可能之中",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673736225240384025?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 6,
+                "point": "P6",
+                "lineStart": 464,
+                "lineEnd": 468,
+                "observation": "霍山开门推车，顾烈射断手刹线，音响车滑入商场；将诱饵从己方据点移走",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673751054839726654?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 12,
+                "point": "P3",
+                "lineStart": 745,
+                "lineEnd": 752,
+                "observation": "王主管看向阮糯并邀茶，阮糯缩到战霆后并在心里判断目光像看货物；女主察觉自己可能是目标",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673772474084885016?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 13,
+                "point": "P9",
+                "lineStart": 878,
+                "lineEnd": 890,
+                "observation": "王主管令开枪，地下组杀出且车顶武器转向，战霆摆怪物残骸在其脚上；敌方包围变成被夹击威慑",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673773764277977624?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 15,
+                "point": "P2",
+                "lineStart": 970,
+                "lineEnd": 984,
+                "observation": "战霆入库顾烈掩护，手电照出笼中阿拉斯加犬；危险疑云变成可救助对象",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673774484385432088?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 17,
+                "point": "P1",
+                "lineStart": 1095,
+                "lineEnd": 1105,
+                "observation": "车停桥前，桥上废车密堵、尸群中混着十余膨胀变异体；道路和敌人形成双重阻隔",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673775294666261016?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 18,
+                "point": "P7",
+                "lineStart": 1184,
+                "lineEnd": 1192,
+                "observation": "陆温按键引火，怪物连爆并叠加厂内原料，气浪推动车；迁移危险完成但波及己方",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673775411431473688?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              },
+              {
+                "chapter": 20,
+                "point": "P9",
+                "lineStart": 1326,
+                "lineEnd": 1335,
+                "observation": "怪物失去抓力掉落并打滚，挡车者不再攻击；上方包围被拆解",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690487060252478489/chapter/7673778992708583960?title=%E7%B3%9F%E7%B3%95%E6%9C%AB%E4%B8%96%EF%BC%9A%E7%B3%BB%E7%BB%9F%E7%BB%99%E6%88%91%E5%8F%91%E4%BA%86%E5%85%AD%E4%B8%AA%E7%B3%99%E6%B1%89&biz_tab=motion_comic&book_id=7673725082853723160"
+              }
+            ],
+            "label": "短剧呈现与改编负担",
+            "rawScore": 7.5,
+            "maxRawScore": 15
+          }
+        },
+        "summary": "带伤穿越女主搭上六人武装车队，以生活物智斗换取队友认可和多男主照顾，完成补给、反伏击及逃出A市的阶段目标；方舟实验体与交易组织暗线尚未兑现。",
+        "strengths": [
+          "日用品克制怪物在多场危机产生不同效果",
+          "救霍山把单向保护改为互护并获得奖励",
+          "补给与出城目标可追踪，局部爽点有可见回报"
+        ],
+        "risks": [
+          "煤球在第12、14章先于第15章救出出现，存在连续性错误",
+          "第18章火焰能否引爆及定时遥控规则矛盾，桥区空间与爆炸波及需重建",
+          "多男主争宠反复重置，长期动机与代价较薄",
+          "尸潮车辆群怪和爆破制作负担高；方舟暗线与系统主机制在当前范围未充分兑现"
+        ],
+        "scope": {
+          "type": "opening",
+          "chapterStart": 1,
+          "chapterEnd": 20,
+          "chaptersRead": 20,
+          "chaptersAvailable": 20,
+          "coverageRatio": 1,
+          "sourceStatus": "ip_readable_complete",
+          "notFullBook": true,
+          "source": "输入/开篇.txt",
+          "index": "项目开发/source-analysis/_index.json",
+          "skipped": []
+        },
+        "method": "逐章阅读后按统一档位评估，程序计算加权分；非成功概率"
+      },
+      "reportUrl": "./reports/7690487060252478489.html",
+      "assessedAt": "2026-11-05T18:27:30+08:00",
+      "rank": 2
+    },
+    {
+      "id": "7690601273957157913",
+      "title": "重生后，村里的她们都慌了",
+      "author": "枫叶黄了",
+      "wordCount": 474607,
+      "detailUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913?biz_tab=motion_comic&book_id=7660774238969678873",
+      "chapterCount": 20,
+      "characters": 28821,
+      "status": "ip_readable_complete",
+      "coverage": {
+        "expected": 20,
+        "stored": 20,
+        "missing": [],
+        "unexpected": [],
+        "complete": true
+      },
+      "market": {
+        "score": 7.3,
+        "votes": 435,
+        "readers": 31664
+      },
+      "release": {
+        "listedCount": 0,
+        "selectedCount": 0,
+        "eligible": true,
+        "verification": "detail_snapshot",
+        "observedAt": "2026-11-05T09:22:39.465Z"
+      },
+      "collectedAt": "2026-11-05T09:22:39.469Z",
+      "sourceHash": "18ae0bdd32d8db820b8c0be4cac8098e5616a0882768c81cbd8472139c0caf80",
+      "serializationStatus": "连载中",
+      "platformTags": [
+        "男频",
+        "都市修真",
+        "乡村",
+        "神医",
+        "多女主"
+      ],
+      "genreTags": [
+        "男频",
+        "乡村异能",
+        "逆袭成长",
+        "种植经营",
+        "神医",
+        "婚姻关系"
+      ],
+      "assessment": {
+        "version": "1.0",
+        "status": "scored",
+        "opening": 53.75,
+        "openingParts": {
+          "hook": 11.25,
+          "progression": 11.25,
+          "characters": 7.5,
+          "emotion": 7.5,
+          "distinction": 5.0,
+          "adaptability": 11.25
+        },
+        "contributions": {
+          "opening": 53.75,
+          "readers": 18.39
+        },
+        "marketParts": {
+          "rating": 7.89,
+          "readership": 9.0,
+          "trend": 1.5
+        },
+        "provisionalMetrics": [
+          "在读趋势"
+        ],
+        "releaseObservedAt": "2026-11-05T09:22:39.465Z",
+        "selectedCount": 0,
+        "releaseStatus": {
+          "fresh": true,
+          "verified": true,
+          "listedCount": 0,
+          "eligible": true
+        },
+        "total": 72.14,
+        "criteria": {
+          "hook": {
+            "grade": 3,
+            "chapters": [
+              1,
+              2
+            ],
+            "reason": "第一场有拒绝强迫接近、村长权力阻力与濒危翻身期待，后续可用夺田场面强化主动性；原开场主角被动获力，独特追看机制只经口头授予尚未形成选择，故3档。",
+            "evidence": [
+              {
+                "chapter": 1,
+                "point": "P1",
+                "lineStart": 2,
+                "lineEnd": 17,
+                "observation": "陈慧芬要求李大炮接受亲密接触，他以她已婚和自身情况拒绝",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7660907144975237657?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 1,
+                "point": "P3",
+                "lineStart": 39,
+                "lineEnd": 60,
+                "observation": "陈慧芬继续强行接近，李大炮后退跌倒、呼吸困难",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7660907144975237657?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 1,
+                "point": "P5",
+                "lineStart": 87,
+                "lineEnd": 103,
+                "observation": "陈慧芬决定埋尸，遮住李大炮后回家拿铁锹",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7660907144975237657?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 1,
+                "point": "P6",
+                "lineStart": 104,
+                "lineEnd": 119,
+                "observation": "李大炮在混沌中听九阳仙人授十二阴阳诀，称术法随修为觉醒且十二纯阴女子关联机缘",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7660907144975237657?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 2,
+                "point": "P6",
+                "lineStart": 221,
+                "lineEnd": 250,
+                "observation": "李大炮假装再次气喘发抖，陈慧芬害怕后放弃并离开",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7661842938837598745?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              }
+            ],
+            "label": "开场冲突与追看期待",
+            "rawScore": 11.25,
+            "maxRawScore": 15
+          },
+          "progression": {
+            "grade": 3,
+            "chapters": [
+              3,
+              7,
+              8,
+              12,
+              15,
+              17,
+              20
+            ],
+            "reason": "获力→反制→收地证→买苗救店→种下有连续资源后果，关系求助也经历同意反复；但多次纠缠重置及绝对力量一击服软，未迫使多轮换策略，3档。",
+            "evidence": [
+              {
+                "chapter": 3,
+                "point": "P1",
+                "lineStart": 258,
+                "lineEnd": 274,
+                "observation": "李大炮求陈慧芬帮忙要回王德发五年前拿走的三亩田，她拒绝且说即使丈夫答应她也不准",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7662572909512114713?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 7,
+                "point": "P6",
+                "lineStart": 695,
+                "lineEnd": 712,
+                "observation": "王德发拒还田并威胁，李大炮坚持留照曝光",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7662980112140206617?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 8,
+                "point": "P2",
+                "lineStart": 739,
+                "lineEnd": 762,
+                "observation": "李大炮要求还地并保留照片威慑，王德发承诺次日送证",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7664506884430250521?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 12,
+                "point": "P3",
+                "lineStart": 1198,
+                "lineEnd": 1207,
+                "observation": "李大炮确认土地证上姓名和印章，盘算种什么",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7664882894698971673?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 15,
+                "point": "P6",
+                "lineStart": 1537,
+                "lineEnd": 1557,
+                "observation": "林玉娆感谢并坚持送一百株苗，李大炮接受",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7667601409533035033?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 17,
+                "point": "P1",
+                "lineStart": 1659,
+                "lineEnd": 1677,
+                "observation": "李大炮带苗到田，一上午挖百坑并栽完百株桃苗",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7667821824700318233?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 20,
+                "point": "P6",
+                "lineStart": 1968,
+                "lineEnd": 1975,
+                "observation": "周丽芳装平静提若未成功要再找李，孙说已经安排",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7668493572806541849?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              }
+            ],
+            "label": "因果推进与节奏",
+            "rawScore": 11.25,
+            "maxRawScore": 15
+          },
+          "characters": {
+            "grade": 3,
+            "chapters": [
+              4,
+              5,
+              6,
+              15,
+              20
+            ],
+            "reason": "孙二虎求保婚、周丽芳求孩子与新私人期待、主角权衡名声与机缘形成分歧；林玉娆护客改变互助关系。多名女性外貌标签重且独立生活目标较少，关系代价尚未持续引出后果，不到4档。",
+            "evidence": [
+              {
+                "chapter": 4,
+                "point": "P1",
+                "lineStart": 362,
+                "lineEnd": 373,
+                "observation": "孙二虎说婚后五年无子，医院查出自己不育且受村人嘲笑",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7662573430083961369?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 4,
+                "point": "P6",
+                "lineStart": 419,
+                "lineEnd": 427,
+                "observation": "李大炮要求孙二虎先取得周丽芳同意，再承诺帮忙",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7662573430083961369?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 5,
+                "point": "P6",
+                "lineStart": 511,
+                "lineEnd": 522,
+                "observation": "周丽芳听见人选是李大炮后甩手退开，嫌他病弱",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7662698657833042457?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 6,
+                "point": "P1",
+                "lineStart": 525,
+                "lineEnd": 547,
+                "observation": "孙二虎保证李大炮身体已好，周丽芳思考后同意",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7662979735932125721?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 15,
+                "point": "P1",
+                "lineStart": 1441,
+                "lineEnd": 1454,
+                "observation": "林玉娆挡在李大炮前，刘华强以不打客人换她答应",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7667601409533035033?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 20,
+                "point": "P4",
+                "lineStart": 1950,
+                "lineEnd": 1957,
+                "observation": "孙二虎回屋向妻子道歉，叙述说他心里不好受",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7668493572806541849?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 20,
+                "point": "P6",
+                "lineStart": 1968,
+                "lineEnd": 1975,
+                "observation": "周丽芳装平静提若未成功要再找李，孙说已经安排",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7668493572806541849?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              }
+            ],
+            "label": "人物动机与关系张力",
+            "rawScore": 7.5,
+            "maxRawScore": 10
+          },
+          "emotion": {
+            "grade": 3,
+            "chapters": [
+              8,
+              11,
+              12,
+              15,
+              17,
+              20
+            ],
+            "reason": "受辱夺田有证件与种植回报，救邻有送面洗衣回馈，店主受胁后获得保护与赠苗；丈夫内疚和妻子隐瞒形成余波。生育和机缘未兑现，重复脸红与一击反制未加深体验，故3档。",
+            "evidence": [
+              {
+                "chapter": 8,
+                "point": "P1",
+                "lineStart": 715,
+                "lineEnd": 738,
+                "observation": "王德发挥拳，李大炮抓住不放，王德发求饶改称炮哥",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7664506884430250521?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 11,
+                "point": "P1",
+                "lineStart": 1025,
+                "lineEnd": 1037,
+                "observation": "李大炮收回灵力，吴秀霞称腿已不痛并道谢",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7664589671837483545?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 12,
+                "point": "P3",
+                "lineStart": 1198,
+                "lineEnd": 1207,
+                "observation": "李大炮确认土地证上姓名和印章，盘算种什么",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7664882894698971673?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 12,
+                "point": "P4",
+                "lineStart": 1208,
+                "lineEnd": 1230,
+                "observation": "吴秀霞端荷包蛋面道谢，李大炮高兴接受",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7664882894698971673?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 15,
+                "point": "P6",
+                "lineStart": 1537,
+                "lineEnd": 1557,
+                "observation": "林玉娆感谢并坚持送一百株苗，李大炮接受",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7667601409533035033?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 17,
+                "point": "P1",
+                "lineStart": 1659,
+                "lineEnd": 1677,
+                "observation": "李大炮带苗到田，一上午挖百坑并栽完百株桃苗",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7667821824700318233?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 20,
+                "point": "P5",
+                "lineStart": 1958,
+                "lineEnd": 1967,
+                "observation": "周丽芳想自己并不太委屈，告诉丈夫没有怪他",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7668493572806541849?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              }
+            ],
+            "label": "情绪铺垫与兑现",
+            "rawScore": 7.5,
+            "maxRawScore": 10
+          },
+          "distinction": {
+            "grade": 2,
+            "chapters": [
+              1,
+              10,
+              17,
+              19,
+              20
+            ],
+            "reason": "十二阴阳诀和十二生肖纯阴女子是具体设定，灵力作用于力量与治伤；但前20章未实际筛选或完成机缘任务，替换为常见神医异能多数关键戏仍成立，故2档而非凭设定标签给3。",
+            "evidence": [
+              {
+                "chapter": 1,
+                "point": "P6",
+                "lineStart": 104,
+                "lineEnd": 119,
+                "observation": "李大炮在混沌中听九阳仙人授十二阴阳诀，称术法随修为觉醒且十二纯阴女子关联机缘",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7660907144975237657?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 10,
+                "point": "P5",
+                "lineStart": 1001,
+                "lineEnd": 1016,
+                "observation": "李大炮掌贴小腿运转灵力，疼痛减轻，探得骨无损",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7664507719746847257?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 17,
+                "point": "P4",
+                "lineStart": 1705,
+                "lineEnd": 1730,
+                "observation": "李大炮回家打坐三小时，感觉灵力更浓、皮肤皱纹更淡",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7667821824700318233?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 19,
+                "point": "P4",
+                "lineStart": 1876,
+                "lineEnd": 1884,
+                "observation": "周丽芳叫李大炮进屋，他接触她手背后房灯熄灭",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7667822975223071257?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 20,
+                "point": "P6",
+                "lineStart": 1968,
+                "lineEnd": 1975,
+                "observation": "周丽芳装平静提若未成功要再找李，孙说已经安排",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7668493572806541849?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              }
+            ],
+            "label": "题材看点与差异化",
+            "rawScore": 5.0,
+            "maxRawScore": 10
+          },
+          "adaptability": {
+            "grade": 3,
+            "chapters": [
+              7,
+              12,
+              15,
+              17,
+              19,
+              20
+            ],
+            "reason": "夺田、救伤、护店、种苗和饭局都有可演行动，主要场景有限，制作低至中；亲密可沿原文关灯省略，核心不依赖露骨画面。主要扣分为心理吸引和妻子私心的转换、重复场面压缩及意愿条件可见化，属局部叙事调整，未需重建主要冲突，3档。",
+            "evidence": [
+              {
+                "chapter": 7,
+                "point": "P2",
+                "lineStart": 637,
+                "lineEnd": 646,
+                "observation": "李大炮把照片发王德发求其来救妻，王德发到场踢倒朱老疤",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7662980112140206617?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 12,
+                "point": "P1",
+                "lineStart": 1155,
+                "lineEnd": 1177,
+                "observation": "李大炮快移取走信封，查看并收起自己的土地证",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7664882894698971673?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 15,
+                "point": "P3",
+                "lineStart": 1473,
+                "lineEnd": 1485,
+                "observation": "林玉娆睁眼见刘华强倒地、李大炮保持出掌姿势",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7667601409533035033?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 17,
+                "point": "P1",
+                "lineStart": 1659,
+                "lineEnd": 1677,
+                "observation": "李大炮带苗到田，一上午挖百坑并栽完百株桃苗",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7667821824700318233?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 19,
+                "point": "P4",
+                "lineStart": 1876,
+                "lineEnd": 1884,
+                "observation": "周丽芳叫李大炮进屋，他接触她手背后房灯熄灭",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7667822975223071257?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              },
+              {
+                "chapter": 20,
+                "point": "P6",
+                "lineStart": 1968,
+                "lineEnd": 1975,
+                "observation": "周丽芳装平静提若未成功要再找李，孙说已经安排",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7690601273957157913/chapter/7668493572806541849?title=%E9%87%8D%E7%94%9F%E5%90%8E%EF%BC%8C%E6%9D%91%E9%87%8C%E7%9A%84%E5%A5%B9%E4%BB%AC%E9%83%BD%E6%85%8C%E4%BA%86&biz_tab=motion_comic&book_id=7660774238969678873"
+              }
+            ],
+            "label": "短剧呈现与改编负担",
+            "rawScore": 11.25,
+            "maxRawScore": 15
+          }
+        },
+        "summary": "病弱村民李大炮遭村长妻子强迫纠缠后濒危获祖传能力，借力量和证据夺回土地，治伤回报邻居并在买苗时帮助店主；同时参与孙家生育安排，妻子的新期待形成尚未兑现的婚姻信息差。",
+        "strengths": [
+          "夺田—获苗—种下形成具体资源积累",
+          "救邻、护客、赠苗有可见行动和互惠回报",
+          "村镇有限场景与少量异能有成本优势"
+        ],
+        "risks": [
+          "纠缠、脸红注视及一击制敌反复复用",
+          "能力限制、十二女子机缘和生育结果未兑现",
+          "关系动机多依赖心理与亲密暗示，须转成可见选择并统一年龄表述"
+        ],
+        "scope": "已采连续开篇第1—20章，20/20章完整阅读，31043字符；非全书，不计平台或总分",
+        "method": "逐章阅读后按统一档位评估，程序计算加权分；非成功概率"
+      },
+      "reportUrl": "./reports/7690601273957157913.html",
+      "assessedAt": "2026-11-05T18:27:30+08:00",
+      "rank": 3
+    },
+    {
+      "id": "7699076786229365785",
+      "title": "沃土之上：从互联网开始",
+      "author": "不远复",
+      "wordCount": 344747,
+      "detailUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785?biz_tab=motion_comic&book_id=7681139943778815038",
+      "chapterCount": 20,
+      "characters": 42855,
+      "status": "ip_readable_complete",
+      "coverage": {
+        "expected": 20,
+        "stored": 20,
+        "missing": [],
+        "unexpected": [],
+        "complete": true
+      },
+      "market": {
+        "score": null,
+        "votes": 1,
+        "readers": 98
+      },
+      "release": {
+        "listedCount": 0,
+        "selectedCount": 0,
+        "eligible": true,
+        "verification": "detail_snapshot",
+        "observedAt": "2026-11-05T09:22:45.207Z"
+      },
+      "collectedAt": "2026-11-05T09:22:45.212Z",
+      "sourceHash": "dde4b858f3c42f70d024288ddd4aacb6fdfc31293df05ee7a044d315895c2725",
+      "serializationStatus": "连载中",
+      "platformTags": [
+        "男频",
+        "都市种田",
+        "都市",
+        "神豪",
+        "重生"
+      ],
+      "genreTags": [
+        "男频",
+        "重生",
+        "都市创业",
+        "互联网",
+        "校园",
+        "兄弟情"
+      ],
+      "assessment": {
+        "version": "1.0",
+        "status": "scored",
+        "opening": 52.5,
+        "openingParts": {
+          "hook": 11.25,
+          "progression": 11.25,
+          "characters": 7.5,
+          "emotion": 7.5,
+          "distinction": 7.5,
+          "adaptability": 7.5
+        },
+        "contributions": {
+          "opening": 52.5,
+          "readers": 11.49
+        },
+        "marketParts": {
+          "rating": 6.0,
+          "readership": 3.99,
+          "trend": 1.5
+        },
+        "provisionalMetrics": [
+          "平台口碑",
+          "在读趋势"
+        ],
+        "releaseObservedAt": "2026-11-05T09:22:45.207Z",
+        "selectedCount": 0,
+        "releaseStatus": {
+          "fresh": true,
+          "verified": true,
+          "listedCount": 0,
+          "eligible": true
+        },
+        "total": 63.99,
+        "criteria": {
+          "hook": {
+            "grade": 3,
+            "chapters": [
+              1,
+              3,
+              5,
+              20
+            ],
+            "reason": "按已采范围内可用切入点评价：第20章冷电招商被当骗子挂断，反复联系后争取到递交资料，一场戏可交代创业者目标、信用阻力和会面期待，可经局部重排保留。第5章招聘受阻也有候选入口。原著第1章仍以财富和愿望说明为主，不能直接沿用；场面尚未体现独特内容机制，未达4档。",
+            "evidence": [
+              {
+                "chapter": 1,
+                "point": "P1",
+                "lineStart": 6,
+                "lineEnd": 7,
+                "observation": "云克明卖完账户股票，看到1500万元余额。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7681139948493210174?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 1,
+                "point": "P7",
+                "lineStart": 56,
+                "lineEnd": 65,
+                "observation": "他除夕看春晚，在医护人员等影像后否定当咸鱼的想法，决定做事业。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7681139948493210174?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 3,
+                "point": "P6",
+                "lineStart": 168,
+                "lineEnd": 171,
+                "observation": "云克明在其他人讨论时想到，先拉兄弟创业，等赚到钱再让他们做旅游。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7681466694174245401?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 5,
+                "point": "P7",
+                "lineStart": 337,
+                "lineEnd": 341,
+                "observation": "他约见三名候选者，对方得知公司是空壳都不愿入职，只剩最后一个面试。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7681514675955040793?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 20,
+                "point": "P2",
+                "lineStart": 1264,
+                "lineEnd": 1270,
+                "observation": "云克明与柏斯无客户关系，冷电招商被当作骗子并遭挂断。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7683043276571558462?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 20,
+                "point": "P3",
+                "lineStart": 1271,
+                "lineEnd": 1274,
+                "observation": "第四次联系抢先说明目的，取得转交资料机会并传真关键数据。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7683043276571558462?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 20,
+                "point": "P4",
+                "lineStart": 1275,
+                "lineEnd": 1277,
+                "observation": "等待四五天仍无决策答复，两人只能继续争取会面。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7683043276571558462?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              }
+            ],
+            "label": "开场冲突与追看期待",
+            "rawScore": 11.25,
+            "maxRawScore": 15
+          },
+          "progression": {
+            "grade": 3,
+            "chapters": [
+              7,
+              8,
+              10,
+              15,
+              19,
+              20
+            ],
+            "reason": "分歧促入伙、冷场促送水、增长失速促扩圈、信用不足促数据招商，后果能引下一步。扣分在12至15章经营停顿、多轮增长用数字跳叙；19章纠错突出，但连续后果施压未覆盖全段，不上调4档。",
+            "evidence": [
+              {
+                "chapter": 7,
+                "point": "P8",
+                "lineStart": 473,
+                "lineEnd": 483,
+                "observation": "会议气氛凝重，柏斯说有理念分歧，云克明点出高并发与快速交付的冲突。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7681841891830153753?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 8,
+                "point": "P4",
+                "lineStart": 518,
+                "lineEnd": 524,
+                "observation": "柏斯说李驰因外包身份想一次交完，自己此前差点与老友争吵。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7681860175396880921?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 10,
+                "point": "P3",
+                "lineStart": 674,
+                "lineEnd": 680,
+                "observation": "云克明买冰镇矿泉水免费送，不强迫留信息，宣传点围满人。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7681958076718531097?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 15,
+                "point": "P8",
+                "lineStart": 1017,
+                "lineEnd": 1020,
+                "observation": "叙述说众人多次参加晚会，最大约千人，公司电话沟通也没有意外。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7682619750219776574?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 19,
+                "point": "P1",
+                "lineStart": 1200,
+                "lineEnd": 1204,
+                "observation": "年底注册只930万，十一十二月新增160万，云克明想不明白预期差并独自散步。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7682997683375587902?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 19,
+                "point": "P3",
+                "lineStart": 1211,
+                "lineEnd": 1215,
+                "observation": "他在次日会上说明判断，要求尽快面向大专宣传、邀请毕业生并上线游戏。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7682997683375587902?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 20,
+                "point": "P3",
+                "lineStart": 1271,
+                "lineEnd": 1274,
+                "observation": "第四次电话时云克明抢先说明公司与招商目的，取得转交机会并传真关键数据方案。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7683043276571558462?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              }
+            ],
+            "label": "因果推进与节奏",
+            "rawScore": 11.25,
+            "maxRawScore": 15
+          },
+          "characters": {
+            "grade": 3,
+            "chapters": [
+              4,
+              6,
+              7,
+              8,
+              20
+            ],
+            "reason": "柏斯担心炒股后出资，室友重公平，技术人员由交易转共同创业，双方不同判断与选择改变关系。多数矛盾以资金和顺利同意化解，实际机会成本与持续关系反噬较弱，不到双方持续付代价的4档。",
+            "evidence": [
+              {
+                "chapter": 4,
+                "point": "P9",
+                "lineStart": 271,
+                "lineEnd": 276,
+                "observation": "云克明提到把三百万元投股市，柏斯打断责问并建议至少割肉退出。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7681489203793314329?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 6,
+                "point": "P3",
+                "lineStart": 367,
+                "lineEnd": 377,
+                "observation": "穆凌愿减薪免车以换晚到早退，云克明保持待遇并允许自主工时，她含泪道谢并同意合作。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7681652829735354905?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 6,
+                "point": "P6",
+                "lineStart": 393,
+                "lineEnd": 400,
+                "observation": "他邀请室友先工作、上市后套现回旅游，李文勇说愿支持却担心赠股影响公司管理。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7681652829735354905?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 7,
+                "point": "P2",
+                "lineStart": 420,
+                "lineEnd": 428,
+                "observation": "柏斯决定加入并出资500万元占20%，云克明认为比例偏低，他说创意也值钱。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7681841891830153753?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 8,
+                "point": "P6",
+                "lineStart": 538,
+                "lineEnd": 555,
+                "observation": "李驰说原本当交易，如今愿与梁伟一起创业，梁伟附和，云克明正式聘任两人。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7681860175396880921?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 20,
+                "point": "P8",
+                "lineStart": 1300,
+                "lineEnd": 1303,
+                "observation": "郑泽聪追问缺点，刘指出实名门槛、学生圈封闭和数量天花板。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7683043276571558462?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              }
+            ],
+            "label": "人物动机与关系张力",
+            "rawScore": 7.5,
+            "maxRawScore": 10
+          },
+          "emotion": {
+            "grade": 3,
+            "chapters": [
+              4,
+              5,
+              15,
+              16,
+              17
+            ],
+            "reason": "财富怀疑到余额反转、低估到骑术、反复搜索落空到回信均有铺垫和局部释放；16章最完整，社交日志传播又接增长。扣分在奖赏多为阶段性，未持续加深同一关系代价；兄弟上市套现仍只是承诺，不记已兑现，也不因材料未含结尾判烂尾。",
+            "evidence": [
+              {
+                "chapter": 4,
+                "point": "P9",
+                "lineStart": 271,
+                "lineEnd": 276,
+                "observation": "云克明提到把三百万元投股市，柏斯打断责问并建议至少割肉退出。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7681489203793314329?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 5,
+                "point": "P2",
+                "lineStart": 292,
+                "lineEnd": 303,
+                "observation": "云克明递手机给柏斯看银行通知，柏斯数到一千多万后问他是否抢了银行。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7681514675955040793?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 15,
+                "point": "P3",
+                "lineStart": 989,
+                "lineEnd": 998,
+                "observation": "次日五人虽酸痛仍要学骑马，都想找海雪，海嘉表示不服要表演。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7682619750219776574?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 15,
+                "point": "P5",
+                "lineStart": 1006,
+                "lineEnd": 1008,
+                "observation": "他放开缰绳侧挂马身又做多种动作，云克明鼓掌叫好。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7682619750219776574?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 16,
+                "point": "P6",
+                "lineStart": 1069,
+                "lineEnd": 1074,
+                "observation": "暑假他每隔五天去搜，出现同名者却都不是她，今天打好名字后迟迟不按确定。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7682673164337283646?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 16,
+                "point": "P8",
+                "lineStart": 1081,
+                "lineEnd": 1085,
+                "observation": "他喊YES并申请好友，尚小池两分钟内通过，发来记得同班两年的消息。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7682673164337283646?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 17,
+                "point": "P1",
+                "lineStart": 1089,
+                "lineEnd": 1096,
+                "observation": "后台查出八月下旬注册激增来自一篇寻回旧同学的日志，被好友点赞转发。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7683313502815011390?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              }
+            ],
+            "label": "情绪铺垫与兑现",
+            "rawScore": 7.5,
+            "maxRawScore": 10
+          },
+          "distinction": {
+            "grade": 3,
+            "chapters": [
+              1,
+              9,
+              16,
+              19
+            ],
+            "reason": "缺位导航提供本金，校园实名决定身份核验，真人照片改变人人秀，学生总量约束增长，替换设定会使关键戏失效，超过标签级。扣分在记忆优势大多复制既有路线，差异后果以解释与预判为多，尚少多方持续实际对抗支撑突出4档。",
+            "evidence": [
+              {
+                "chapter": 1,
+                "point": "P3",
+                "lineStart": 20,
+                "lineEnd": 29,
+                "observation": "他发现浏览器缺少网址大全，做出网站并经过谈判以320万元卖给千度。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7681139948493210174?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 9,
+                "point": "P3",
+                "lineStart": 609,
+                "lineEnd": 616,
+                "observation": "网站允许教育网或教育邮箱快速注册，要求补齐学校班级，其他人可获邀请并接受举报核验。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7681940098862023193?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 16,
+                "point": "P7",
+                "lineStart": 1075,
+                "lineEnd": 1080,
+                "observation": "他再搜索后发现新头像，先核对小学初中资料，再点开放大照片。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7682673164337283646?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 19,
+                "point": "P2",
+                "lineStart": 1205,
+                "lineEnd": 1210,
+                "observation": "听见迎2005年的广播后，他拍头想到2004年在校生总量有限且约半数为大专生，本科覆盖已高。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7682997683375587902?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 19,
+                "point": "P4",
+                "lineStart": 1216,
+                "lineEnd": 1221,
+                "observation": "人人秀十二月中旬上线，与支付宝合作拿300万元推广费，月底人人秀收入30万元，头像保留真人头部。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7682997683375587902?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              }
+            ],
+            "label": "题材看点与差异化",
+            "rawScore": 7.5,
+            "maxRawScore": 10
+          },
+          "adaptability": {
+            "grade": 2,
+            "chapters": [
+              1,
+              10,
+              13,
+              15,
+              16,
+              18,
+              19,
+              20
+            ],
+            "reason": "核心创业和关系能保留，无须重建主要动机；余额、招聘、送水、搜索、招商有可见行动。主要拖低的是叙事转译：20项主导表达中10项需要换载体，会议、统计、内心预判占关键推进；另有多校群戏、跨地旅行和高难马术负担。办公室可复用不足以抵消核心表达转换。",
+            "evidence": [
+              {
+                "chapter": 1,
+                "point": "P3",
+                "lineStart": 20,
+                "lineEnd": 29,
+                "observation": "他发现浏览器缺少网址大全，做出网站并经过谈判以320万元卖给千度。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7681139948493210174?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 10,
+                "point": "P3",
+                "lineStart": 674,
+                "lineEnd": 680,
+                "observation": "云克明买冰镇矿泉水免费送，不强迫留信息，宣传点围满人。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7681958076718531097?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 13,
+                "point": "P5",
+                "lineStart": 878,
+                "lineEnd": 885,
+                "observation": "云克明想到自己此前不试改良奶茶的坚持，品尝咸奶茶后称幸有先见。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7682570882446803518?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 15,
+                "point": "P5",
+                "lineStart": 1006,
+                "lineEnd": 1008,
+                "observation": "他放开缰绳侧挂马身又做多种动作，云克明鼓掌叫好。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7682619750219776574?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 16,
+                "point": "P8",
+                "lineStart": 1081,
+                "lineEnd": 1085,
+                "observation": "他喊YES并申请好友，尚小池两分钟内通过，发来记得同班两年的消息。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7682673164337283646?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 18,
+                "point": "P1",
+                "lineStart": 1143,
+                "lineEnd": 1153,
+                "observation": "柏斯主持闭门会议，说明实缴2000万元可撑到明年六月，网站尚无收益且规模越大投入越多。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7682692029100327486?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 19,
+                "point": "P9",
+                "lineStart": 1245,
+                "lineEnd": 1248,
+                "observation": "一月底注册1300万，单月增370万，公司决定主广告找饮料厂、副广告找移动公司。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7682997683375587902?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              },
+              {
+                "chapter": 20,
+                "point": "P3",
+                "lineStart": 1271,
+                "lineEnd": 1274,
+                "observation": "第四次电话时云克明抢先说明公司与招商目的，取得转交机会并传真关键数据方案。",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7699076786229365785/chapter/7683043276571558462?title=%E6%B2%83%E5%9C%9F%E4%B9%8B%E4%B8%8A%EF%BC%9A%E4%BB%8E%E4%BA%92%E8%81%94%E7%BD%91%E5%BC%80%E5%A7%8B&biz_tab=motion_comic&book_id=7681139943778815038"
+              }
+            ],
+            "label": "短剧呈现与改编负担",
+            "rawScore": 7.5,
+            "maxRawScore": 15
+          }
+        },
+        "summary": "重生者先致富后带兄弟做校园实名社交，组队、上线与地推构成增长链；失联同桌重联证明产品价值，增长天花板和现金时限促扩圈变现，20章止于广告商决定会面。原开篇阻力弱，会议和数据旁白多，四章草原旅行冷却主线。",
+        "strengths": [
+          "后果能引下一步，19章承认增长预判失误并换策略。",
+          "16章实名搜索带来旧同学重联，有独立可见情绪回报。",
+          "朋友、技术人员与室友各有合作前判断，关系选择可演。"
+        ],
+        "risks": [
+          "开篇先交付1500万成功，项目到第3章才明确。",
+          "12至15章旅行连续冷却经营，感官和观念长述需压缩。",
+          "增长、竞争和变现多靠会议、数字与内心，需换关键表达。",
+          "穆凌与林雅南不同名未说明同人；法务姓名异写、资金构成待核。",
+          "20章仅获会面，未签广告合同，也未证明持续盈利或大厂交锋结果。"
+        ],
+        "scope": {
+          "kind": "continuous_accessible_opening",
+          "chapterStart": 1,
+          "chapterEnd": 20,
+          "chaptersRead": 20,
+          "chapterCount": 20,
+          "coverageRatio": 1.0,
+          "source": "输入/开篇.txt",
+          "index": "项目开发/source-analysis/_index.json",
+          "lineStart": 1,
+          "lineEnd": 1306,
+          "charCount": 44351,
+          "skippedChapters": [],
+          "note": "当前已采20章全覆盖，不推测全书，不算平台分和总分。"
+        },
+        "method": "逐章阅读后按统一档位评估，程序计算加权分；非成功概率"
+      },
+      "reportUrl": "./reports/7699076786229365785.html",
+      "assessedAt": "2026-11-05T18:27:30+08:00",
+      "rank": 4
+    },
+    {
+      "id": "7577370089536619033",
+      "title": "中派盗墓笔记",
+      "author": "俊锋",
+      "wordCount": 342015,
+      "detailUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033?biz_tab=motion_comic&book_id=7534737743390182425",
+      "chapterCount": 20,
+      "characters": 52741,
+      "status": "ip_readable_complete",
+      "coverage": {
+        "expected": 20,
+        "stored": 20,
+        "missing": [],
+        "unexpected": [],
+        "complete": true
+      },
+      "market": {
+        "score": null,
+        "votes": 68,
+        "readers": 1482
+      },
+      "release": {
+        "listedCount": 0,
+        "selectedCount": 0,
+        "eligible": true,
+        "verification": "detail_snapshot",
+        "observedAt": "2026-11-05T09:22:35.822Z"
+      },
+      "collectedAt": "2026-11-05T09:22:35.826Z",
+      "sourceHash": "24b73347bff72f14d61425f76ea4251d9ab2448877de794b5396d4e92611d05d",
+      "serializationStatus": "已完结",
+      "platformTags": [
+        "男频",
+        "悬疑灵异",
+        "悬疑",
+        "盗墓",
+        "风水秘术"
+      ],
+      "genreTags": [
+        "男频",
+        "盗墓探险",
+        "悬疑惊险",
+        "新人入行",
+        "团队求生"
+      ],
+      "assessment": {
+        "version": "1.0",
+        "status": "scored",
+        "opening": 50.0,
+        "openingParts": {
+          "hook": 11.25,
+          "progression": 11.25,
+          "characters": 7.5,
+          "emotion": 7.5,
+          "distinction": 5.0,
+          "adaptability": 7.5
+        },
+        "contributions": {
+          "opening": 50.0,
+          "readers": 13.84
+        },
+        "marketParts": {
+          "rating": 6.0,
+          "readership": 6.34,
+          "trend": 1.5
+        },
+        "provisionalMetrics": [
+          "平台口碑",
+          "在读趋势"
+        ],
+        "releaseObservedAt": "2026-11-05T09:22:35.822Z",
+        "selectedCount": 0,
+        "releaseStatus": {
+          "fresh": true,
+          "verified": true,
+          "listedCount": 0,
+          "eligible": true
+        },
+        "total": 63.84,
+        "criteria": {
+          "hook": {
+            "grade": 3,
+            "chapters": [
+              1,
+              3,
+              4
+            ],
+            "reason": "限时空墓一场可交代新人求入伙、取物阻力与交差期待，局部调整可保留；原始第一章背景过长，独特中派冲突尚未进入开场，未达4档。",
+            "evidence": [
+              {
+                "chapter": 1,
+                "point": "P3",
+                "lineStart": 25,
+                "lineEnd": 31,
+                "observation": "陈俊锋读盗墓小说后认真向二叔学风水，隐瞒寻墓打算",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7534737750738600473?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 3,
+                "point": "P4",
+                "lineStart": 148,
+                "lineEnd": 159,
+                "observation": "大叔要求限时寻墓取最值钱物品，陈俊锋判断时间不足正常开洞",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7535104146332992025?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 3,
+                "point": "P6",
+                "lineStart": 170,
+                "lineEnd": 180,
+                "observation": "两人打开保存完好的无钉棺材，却见空棺",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7535104146332992025?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 4,
+                "point": "P4",
+                "lineStart": 249,
+                "lineEnd": 259,
+                "observation": "两人准时返回如实报告，大叔宣布通过",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7535472939383128601?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              }
+            ],
+            "label": "开场冲突与追看期待",
+            "rawScore": 11.25,
+            "maxRawScore": 15
+          },
+          "progression": {
+            "grade": 3,
+            "chapters": [
+              2,
+              4,
+              9,
+              12,
+              16,
+              17
+            ],
+            "reason": "失财→入伙、委托→交付、私改路线→遇险→处分连续成立；后半段多次触险与水中救援重复，主角策略学习不充分，未达多重后果累积迫使稳定换策的4档。",
+            "evidence": [
+              {
+                "chapter": 2,
+                "point": "P6",
+                "lineStart": 106,
+                "lineEnd": 110,
+                "observation": "两人在游戏厅输去大部分钱，只剩不足八十元",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7535098109798400537?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 4,
+                "point": "P3",
+                "lineStart": 235,
+                "lineEnd": 247,
+                "observation": "陈俊锋怀疑考题不在财物，拒绝跑路并复原墓室",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7535472939383128601?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 9,
+                "point": "P5",
+                "lineStart": 548,
+                "lineEnd": 550,
+                "observation": "陈俊锋想让把头刮目相看，反复劝刘哥同行查看",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7537880155188888089?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 12,
+                "point": "P6",
+                "lineStart": 682,
+                "lineEnd": 683,
+                "observation": "把头剥夺陈俊锋百万酬金与所获物品分配权",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7538465382621790745?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 16,
+                "point": "P2",
+                "lineStart": 846,
+                "lineEnd": 850,
+                "observation": "陈俊锋登石台转动阴阳图白点，机关翻折，他与琳姐坠落",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7539909317902746137?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 17,
+                "point": "P1",
+                "lineStart": 878,
+                "lineEnd": 884,
+                "observation": "陈俊锋见百余铜铃，投石触发连锁铃响",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7539964606958010905?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              }
+            ],
+            "label": "因果推进与节奏",
+            "rawScore": 11.25,
+            "maxRawScore": 15
+          },
+          "characters": {
+            "grade": 3,
+            "chapters": [
+              9,
+              12,
+              14,
+              17,
+              19
+            ],
+            "reason": "主角贪功与把头纪律形成分歧，担责损失分成；琳姐救主角后主角背她求生，关系有变化。其他队员目标较标签化，琳姐独立诉求与关系代价还弱，不判4档。",
+            "evidence": [
+              {
+                "chapter": 9,
+                "point": "P5",
+                "lineStart": 548,
+                "lineEnd": 550,
+                "observation": "陈俊锋想让把头刮目相看，反复劝刘哥同行查看",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7537880155188888089?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 12,
+                "point": "P5",
+                "lineStart": 678,
+                "lineEnd": 681,
+                "observation": "陈俊锋主动承担私自下墓责任，向把头认错",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7538465382621790745?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 12,
+                "point": "P6",
+                "lineStart": 682,
+                "lineEnd": 683,
+                "observation": "把头剥夺陈俊锋百万酬金与所获物品分配权",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7538465382621790745?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 14,
+                "point": "P5",
+                "lineStart": 770,
+                "lineEnd": 777,
+                "observation": "陈俊锋水下缺气，琳姐为他送气并带出水面",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7539234550476456473?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 17,
+                "point": "P5",
+                "lineStart": 907,
+                "lineEnd": 915,
+                "observation": "陈俊锋拧干琳姐衣物，尝试处理伤口并背她前行",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7539964606958010905?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 19,
+                "point": "P6",
+                "lineStart": 1057,
+                "lineEnd": 1067,
+                "observation": "身后真琳姐赵姐追来，琳姐说出方便调侃与水下救命往事",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7540693674347217433?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              }
+            ],
+            "label": "人物动机与关系张力",
+            "rawScore": 7.5,
+            "maxRawScore": 10
+          },
+          "emotion": {
+            "grade": 3,
+            "chapters": [
+              4,
+              7,
+              8,
+              12,
+              17,
+              19,
+              20
+            ],
+            "reason": "空墓入伙、断臂寻骨验收、互救与私密记忆辨真有铺垫和局部兑现；林俊德死亡缺前期具体人物铺垫，长副本未闭合，诸多未来预告不计兑现，故3档。",
+            "evidence": [
+              {
+                "chapter": 4,
+                "point": "P4",
+                "lineStart": 249,
+                "lineEnd": 259,
+                "observation": "两人准时返回如实报告，大叔宣布通过",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7535472939383128601?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 7,
+                "point": "P2",
+                "lineStart": 435,
+                "lineEnd": 436,
+                "observation": "陈俊锋梦到左袖空着的白发老人求救",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7537367314585354777?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 8,
+                "point": "P5",
+                "lineStart": 503,
+                "lineEnd": 505,
+                "observation": "陈俊锋找到缺右臂尸骨，团队包裹后撤离",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7537716441320014361?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 12,
+                "point": "P1",
+                "lineStart": 658,
+                "lineEnd": 662,
+                "observation": "严老板让人验骨，返回后感谢完成三百年遗愿",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7538465382621790745?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 17,
+                "point": "P5",
+                "lineStart": 907,
+                "lineEnd": 915,
+                "observation": "陈俊锋拧干琳姐衣物，尝试处理伤口并背她前行",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7539964606958010905?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 19,
+                "point": "P7",
+                "lineStart": 1069,
+                "lineEnd": 1076,
+                "observation": "陈俊锋转身掷火，前方身影消失，他看见脚边悬崖",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7540693674347217433?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 20,
+                "point": "P2",
+                "lineStart": 1093,
+                "lineEnd": 1100,
+                "observation": "三人上山，陈俊锋绊到尸体，赵姐认出土工林俊德",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7541013131275797017?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              }
+            ],
+            "label": "情绪铺垫与兑现",
+            "rawScore": 7.5,
+            "maxRawScore": 10
+          },
+          "distinction": {
+            "grade": 2,
+            "chapters": [
+              5,
+              13,
+              15,
+              17,
+              18
+            ],
+            "reason": "中派身份、信义与一墓多卖可定位，梦与幻觉多次进入事件；但南北中派规则尚未真正左右关键对抗，标签替换后核心求生仍成立，独特看点未达到不可替换的3档。",
+            "evidence": [
+              {
+                "chapter": 5,
+                "point": "P6",
+                "lineStart": 337,
+                "lineEnd": 345,
+                "observation": "把头讲南北派边界和中派的中立活动方式",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7535699014201639449?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 13,
+                "point": "P3",
+                "lineStart": 708,
+                "lineEnd": 712,
+                "observation": "陈俊锋问一墓多卖，把头以多次合作和信义回应",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7538854226168906265?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 15,
+                "point": "P4",
+                "lineStart": 817,
+                "lineEnd": 823,
+                "observation": "墓道发现矿泉水瓶、脚印与新盗洞，把头决定继续",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7539406487831986713?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 17,
+                "point": "P7",
+                "lineStart": 926,
+                "lineEnd": 933,
+                "observation": "两人谢白衣女人，琳姐自报中派张琳琳，对方自报北派赵紫萱",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7539964606958010905?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 18,
+                "point": "P1",
+                "lineStart": 942,
+                "lineEnd": 948,
+                "observation": "赵姐一队也买到线索，四男失踪，她掉暗河清醒",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7540153038116241945?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              }
+            ],
+            "label": "题材看点与差异化",
+            "rawScore": 5.0,
+            "maxRawScore": 10
+          },
+          "adaptability": {
+            "grade": 2,
+            "chapters": [
+              8,
+              14,
+              15,
+              17,
+              19,
+              20
+            ],
+            "reason": "关键选择与后果可演，空墓、惩戒、真假同伴可保留；叙事需压缩知识和后见评论、统一幻觉规则。主要扣分是蝙蝠群、毒物、暗河潜游、暴雨塌洞等制作负担，亦有反复救援和目标转移需改写；不需推倒主要动机，故2档。",
+            "evidence": [
+              {
+                "chapter": 8,
+                "point": "P6",
+                "lineStart": 506,
+                "lineEnd": 511,
+                "observation": "众人互助爬出盗洞，之后洞口被雨水冲塌",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7537716441320014361?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 14,
+                "point": "P2",
+                "lineStart": 749,
+                "lineEnd": 757,
+                "observation": "众人见洞顶蝙蝠，落水个体鸣叫唤醒群体",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7539234550476456473?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 14,
+                "point": "P5",
+                "lineStart": 770,
+                "lineEnd": 777,
+                "observation": "陈俊锋水下缺气，琳姐为他送气并带出水面",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7539234550476456473?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 15,
+                "point": "P5",
+                "lineStart": 824,
+                "lineEnd": 829,
+                "observation": "主室三墙图案中出现四人持手电围红棺，棺中再现第五人",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7539406487831986713?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 17,
+                "point": "P3",
+                "lineStart": 890,
+                "lineEnd": 898,
+                "observation": "毒物持续聚来，琳姐判断铃声操控，拉陈俊锋跳河",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7539964606958010905?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 19,
+                "point": "P7",
+                "lineStart": 1069,
+                "lineEnd": 1076,
+                "observation": "陈俊锋转身掷火，前方身影消失，他看见脚边悬崖",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7540693674347217433?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              },
+              {
+                "chapter": 20,
+                "point": "P7",
+                "lineStart": 1123,
+                "lineEnd": 1127,
+                "observation": "琳姐找气口让陈俊锋撬椁，露出红棺",
+                "sourceUrl": "https://www.shortdramas.com/page/copyright/ip/detail/7577370089536619033/chapter/7541013131275797017?title=%E4%B8%AD%E6%B4%BE%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&biz_tab=motion_comic&book_id=7534737743390182425"
+              }
+            ],
+            "label": "短剧呈现与改编负担",
+            "rawScore": 7.5,
+            "maxRawScore": 15
+          }
+        },
+        "summary": "穷困青年陈俊锋与大胖因初次盗墓卖钱后失财而加入姚把头团队，经历雨墓寻骨、私自截货与惩戒，再在将军墓中失散互救；材料止于红棺打开前。",
+        "strengths": [
+          "空墓考验以诚实换入伙，存在完整局部反转",
+          "私自行动造成明确分成损失，行动有后果",
+          "琳姐与主角互救关系在真假同伴场景中回扣"
+        ],
+        "risks": [
+          "水下、洞塌、怪物群与毒物使制作负担较重",
+          "好奇触险与被救重复，部分关键解围依赖外援",
+          "多项知识解释与连续性瑕疵待核，长副本结尾尚未兑现"
+        ],
+        "scope": "已采连续开篇第1—20章，20/20完整阅读，54027字符；非全书，不计算平台或总分",
+        "method": "逐章阅读后按统一档位评估，程序计算加权分；非成功概率"
+      },
+      "reportUrl": "./reports/7577370089536619033.html",
+      "assessedAt": "2026-11-05T18:27:30+08:00",
+      "rank": 5
+    }
+  ],
+  "failures": [],
+  "top3": [
+    "7693611209945336856",
+    "7690487060252478489",
+    "7690601273957157913"
+  ],
+  "batchTop3": [
+    "7693611209945336856",
+    "7690487060252478489",
+    "7690601273957157913"
+  ],
+  "assessedAt": "2026-11-05T18:27:30+08:00",
+  "ruleVersion": "1.0"
+}

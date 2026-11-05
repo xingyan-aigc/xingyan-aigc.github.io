@@ -1,0 +1,338 @@
+{
+  "updatedAt": "2026-11-05T13:07:40.239714+00:00",
+  "state": "snapshot",
+  "startedAt": "2026-11-05T12:51:20.052Z",
+  "nextRunAt": null,
+  "batch": {
+    "id": "novels-47186077cde7",
+    "target": 30,
+    "startedAt": "2026-11-05T12:51:19.474362+00:00",
+    "state": "collecting",
+    "workIds": [
+      "7690892381995420697",
+      "7657692367486452249",
+      "7574703922502173208",
+      "7704385231394966552",
+      "7690010090411592729",
+      "7689067373296192574",
+      "7671688268775607358",
+      "7665427930259931673",
+      "7648087732446577214",
+      "7660492069076468248",
+      "7648364746759995929",
+      "7657660821245280793",
+      "7657858541612433944"
+    ]
+  },
+  "errors": [
+    {
+      "type": "可读目录",
+      "title": "卧鱼玉佩",
+      "reason": "源站未返回可读章节目录，尚不能确认正文范围，等待核查。",
+      "occurredAt": "2026-11-05T12:56:07.813Z"
+    },
+    {
+      "type": "可读目录",
+      "title": "转生，绑定了世另我，该如何相处",
+      "reason": "源站未返回可读章节目录，尚不能确认正文范围，等待核查。",
+      "occurredAt": "2026-11-05T12:51:32.907Z"
+    },
+    {
+      "type": "可读目录",
+      "title": "焚天血脉：我的熔炉吞万物",
+      "reason": "源站未返回可读章节目录，尚不能确认正文范围，等待核查。",
+      "occurredAt": "2026-11-05T12:56:53.342Z"
+    },
+    {
+      "type": "可读目录",
+      "title": "我的系统太欠了",
+      "reason": "源站未返回可读章节目录，尚不能确认正文范围，等待核查。",
+      "occurredAt": "2026-11-05T12:55:44.538Z"
+    },
+    {
+      "type": "可读目录",
+      "title": "我在749局斩妖神",
+      "reason": "源站未返回可读章节目录，尚不能确认正文范围，等待核查。",
+      "occurredAt": "2026-11-05T12:56:29.965Z"
+    }
+  ],
+  "errorCount": 5,
+  "message": "这是本次发布的采集快照。采集在Mac后台继续，线上数据需同步发布后更新。",
+  "scanned": 24,
+  "pages": 2,
+  "completeCount": 18,
+  "pendingCount": 13,
+  "incompleteCount": 6,
+  "chapterCount": 369,
+  "characters": 970257,
+  "current": {},
+  "pending": [
+    {
+      "id": "7671688268775607358",
+      "title": "山居携君独清欢",
+      "chapters": 20,
+      "collectedAt": "2026-11-05T12:37:17.212Z"
+    },
+    {
+      "id": "7690892381995420697",
+      "title": "压抑的顶级猎魔人变成萝莉？爽",
+      "chapters": 20,
+      "collectedAt": "2026-11-05T11:59:35.886Z"
+    },
+    {
+      "id": "7657692367486452249",
+      "title": "村野小神医，开局暴打恶霸",
+      "chapters": 20,
+      "collectedAt": "2026-11-05T12:03:08.904Z"
+    },
+    {
+      "id": "7574703922502173208",
+      "title": "何以无医",
+      "chapters": 20,
+      "collectedAt": "2026-11-05T12:05:40.553Z"
+    },
+    {
+      "id": "7648087732446577214",
+      "title": "替天行道，净化佛门",
+      "chapters": 20,
+      "collectedAt": "2026-11-05T12:50:08.612Z"
+    },
+    {
+      "id": "7648364746759995929",
+      "title": "心之轮回幻想",
+      "chapters": 20,
+      "collectedAt": "2026-11-05T13:00:04.087Z"
+    },
+    {
+      "id": "7657858541612433944",
+      "title": "九霄剑歌之林辰",
+      "chapters": 20,
+      "collectedAt": "2026-11-05T13:06:09.282Z"
+    },
+    {
+      "id": "7704385231394966552",
+      "title": "嫡女宋舒瑶：主业东家，副业宅斗",
+      "chapters": 20,
+      "collectedAt": "2026-11-05T12:08:02.807Z"
+    },
+    {
+      "id": "7660492069076468248",
+      "title": "道蚀进度条",
+      "chapters": 20,
+      "collectedAt": "2026-11-05T12:55:23.989Z"
+    },
+    {
+      "id": "7690010090411592729",
+      "title": "万古第一仙族，从多子多福开始",
+      "chapters": 20,
+      "collectedAt": "2026-11-05T12:10:22.488Z"
+    },
+    {
+      "id": "7665427930259931673",
+      "title": "他们都觉得我在装",
+      "chapters": 20,
+      "collectedAt": "2026-11-05T12:40:15.756Z"
+    },
+    {
+      "id": "7657660821245280793",
+      "title": "离职后，高岭总裁哭着求我回头",
+      "chapters": 20,
+      "collectedAt": "2026-11-05T13:03:04.574Z"
+    },
+    {
+      "id": "7689067373296192574",
+      "title": "魂灯：开局死而复生",
+      "chapters": 20,
+      "collectedAt": "2026-11-05T12:12:31.234Z"
+    }
+  ],
+  "recentErrors": [
+    {
+      "type": "章节读取",
+      "title": "山居携君独清欢",
+      "chapter": 15,
+      "reason": "page.goto: Target page, context or browser has been closed",
+      "occurredAt": "2026-11-05T12:35:11.844Z"
+    },
+    {
+      "type": "章节读取",
+      "title": "山居携君独清欢",
+      "chapter": 16,
+      "reason": "page.goto: Target page, context or browser has been closed",
+      "occurredAt": "2026-11-05T12:35:11.844Z"
+    },
+    {
+      "type": "章节读取",
+      "title": "山居携君独清欢",
+      "chapter": 17,
+      "reason": "page.goto: Target page, context or browser has been closed",
+      "occurredAt": "2026-11-05T12:35:11.844Z"
+    },
+    {
+      "type": "章节读取",
+      "title": "山居携君独清欢",
+      "chapter": 18,
+      "reason": "page.goto: Target page, context or browser has been closed",
+      "occurredAt": "2026-11-05T12:35:11.844Z"
+    },
+    {
+      "type": "章节读取",
+      "title": "山居携君独清欢",
+      "chapter": 19,
+      "reason": "page.goto: Target page, context or browser has been closed",
+      "occurredAt": "2026-11-05T12:35:11.844Z"
+    },
+    {
+      "type": "章节读取",
+      "title": "山居携君独清欢",
+      "chapter": 20,
+      "reason": "page.goto: Target page, context or browser has been closed",
+      "occurredAt": "2026-11-05T12:35:11.844Z"
+    },
+    {
+      "type": "可读目录",
+      "title": "转生，绑定了世另我，该如何相处",
+      "reason": "源站未返回可读章节目录，尚不能确认正文范围，等待核查。",
+      "occurredAt": "2026-11-05T12:35:46.320Z"
+    },
+    {
+      "type": "作品采集",
+      "title": "道蚀进度条",
+      "reason": "locator.click: Timeout 8000ms exceeded.",
+      "occurredAt": "2026-11-05T12:35:03.060Z"
+    },
+    {
+      "type": "作品采集",
+      "title": "何以无医",
+      "reason": "locator.click: Timeout 8000ms exceeded.",
+      "occurredAt": "2026-11-05T12:35:03.060Z"
+    },
+    {
+      "type": "作品采集",
+      "title": "嫡女宋舒瑶：主业东家，副业宅斗",
+      "reason": "locator.click: Timeout 8000ms exceeded.",
+      "occurredAt": "2026-11-05T12:35:03.060Z"
+    },
+    {
+      "type": "作品采集",
+      "title": "沃土之上：从互联网开始",
+      "reason": "locator.click: Timeout 8000ms exceeded.",
+      "occurredAt": "2026-11-05T12:35:03.060Z"
+    },
+    {
+      "type": "作品采集",
+      "title": "万古第一仙族，从多子多福开始",
+      "reason": "locator.click: Timeout 8000ms exceeded.",
+      "occurredAt": "2026-11-05T12:35:03.060Z"
+    },
+    {
+      "type": "作品采集",
+      "title": "魂灯：开局死而复生",
+      "reason": "locator.click: Timeout 8000ms exceeded.",
+      "occurredAt": "2026-11-05T12:35:03.060Z"
+    },
+    {
+      "type": "作品采集",
+      "title": "转生，绑定了世另我，该如何相处",
+      "reason": "locator.click: Timeout 8000ms exceeded.",
+      "occurredAt": "2026-11-05T12:35:03.060Z"
+    },
+    {
+      "type": "作品采集",
+      "title": "山居携君独清欢",
+      "reason": "locator.click: Timeout 8000ms exceeded.",
+      "occurredAt": "2026-11-05T12:35:03.060Z"
+    },
+    {
+      "type": "作品采集",
+      "title": "他们都觉得我在装",
+      "reason": "locator.click: Timeout 8000ms exceeded.",
+      "occurredAt": "2026-11-05T12:35:03.060Z"
+    },
+    {
+      "type": "作品采集",
+      "title": "我的系统太欠了",
+      "reason": "locator.click: Timeout 8000ms exceeded.",
+      "occurredAt": "2026-11-05T12:35:03.060Z"
+    },
+    {
+      "type": "作品采集",
+      "title": "卧鱼玉佩",
+      "reason": "locator.click: Timeout 8000ms exceeded.",
+      "occurredAt": "2026-11-05T12:35:03.060Z"
+    },
+    {
+      "type": "作品采集",
+      "title": "我在749局斩妖神",
+      "reason": "locator.click: Timeout 8000ms exceeded.",
+      "occurredAt": "2026-11-05T12:35:03.060Z"
+    },
+    {
+      "type": "作品采集",
+      "title": "焚天血脉：我的熔炉吞万物",
+      "reason": "locator.click: Timeout 8000ms exceeded.",
+      "occurredAt": "2026-11-05T12:35:03.060Z"
+    },
+    {
+      "type": "作品采集",
+      "title": "心之轮回幻想",
+      "reason": "locator.click: Timeout 8000ms exceeded.",
+      "occurredAt": "2026-11-05T12:35:03.060Z"
+    },
+    {
+      "type": "作品采集",
+      "title": "离职后，高岭总裁哭着求我回头",
+      "reason": "locator.click: Timeout 8000ms exceeded.",
+      "occurredAt": "2026-11-05T12:35:03.060Z"
+    },
+    {
+      "type": "作品采集",
+      "title": "九霄剑歌之林辰",
+      "reason": "locator.click: Timeout 8000ms exceeded.",
+      "occurredAt": "2026-11-05T12:35:03.060Z"
+    },
+    {
+      "type": "作品采集",
+      "title": "永恒之战",
+      "reason": "locator.click: Timeout 8000ms exceeded.",
+      "occurredAt": "2026-11-05T12:35:03.060Z"
+    },
+    {
+      "type": "作品采集",
+      "title": "战神二叔今天晕血了吗",
+      "reason": "locator.click: Timeout 8000ms exceeded.",
+      "occurredAt": "2026-11-05T12:35:03.060Z"
+    },
+    {
+      "type": "可读目录",
+      "title": "转生，绑定了世另我，该如何相处",
+      "reason": "源站未返回可读章节目录，尚不能确认正文范围，等待核查。",
+      "occurredAt": "2026-11-05T12:51:32.907Z"
+    },
+    {
+      "type": "可读目录",
+      "title": "我的系统太欠了",
+      "reason": "源站未返回可读章节目录，尚不能确认正文范围，等待核查。",
+      "occurredAt": "2026-11-05T12:55:44.538Z"
+    },
+    {
+      "type": "可读目录",
+      "title": "卧鱼玉佩",
+      "reason": "源站未返回可读章节目录，尚不能确认正文范围，等待核查。",
+      "occurredAt": "2026-11-05T12:56:07.813Z"
+    },
+    {
+      "type": "可读目录",
+      "title": "我在749局斩妖神",
+      "reason": "源站未返回可读章节目录，尚不能确认正文范围，等待核查。",
+      "occurredAt": "2026-11-05T12:56:29.965Z"
+    },
+    {
+      "type": "可读目录",
+      "title": "焚天血脉：我的熔炉吞万物",
+      "reason": "源站未返回可读章节目录，尚不能确认正文范围，等待核查。",
+      "occurredAt": "2026-11-05T12:56:53.342Z"
+    }
+  ],
+  "sourceState": "running"
+}
