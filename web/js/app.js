@@ -62,7 +62,11 @@ async function renderStatus() {
   const pill = (text, cls = "") => h("span", { class: `pill ${cls}`.trim() }, text);
   try {
     const s = await app.data.get("status");
-    el.append(pill(`${s.label} · ${s.latest_date}`, "live"), pill(`已积累 ${s.history_days} 天`), pill(`追踪 ${s.tracked} 部`));
+    const collected = s.fetched_at ? new Date(s.fetched_at) : null;
+    const updatedAt = collected && !Number.isNaN(collected.getTime())
+      ? new Intl.DateTimeFormat("zh-CN", { timeZone: "Asia/Shanghai", year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hourCycle: "h23" }).format(collected).replaceAll("/", "-")
+      : null;
+    el.append(pill(`${s.label} · ${updatedAt ? `${updatedAt} 更新（北京时间）` : `${s.latest_date} · 采集时间未知`}`, "live"), pill(`已积累 ${s.history_days} 天`), pill(`追踪 ${s.tracked} 部`));
     if (s.stale) el.append(pill("官方今天未刷新", "warn"));
     if (s.error_count) el.append(pill(`${s.error_count} 个采集错误`, "warn"));
   } catch {
