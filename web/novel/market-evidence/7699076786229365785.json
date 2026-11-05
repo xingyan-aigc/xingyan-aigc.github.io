@@ -1,0 +1,204 @@
+{
+  "novelId": "7699076786229365785",
+  "novelSourceHash": "dde4b858f3c42f70d024288ddd4aacb6fdfc31293df05ee7a044d315895c2725",
+  "reviewedFetchedAt": "2026-11-05T02:53:01Z",
+  "reviewedAt": "2026-11-05",
+  "verdict": "创业逆袭有旁证，互联网社交创业直接依据不足",
+  "summary": "重生投资、校园商业实践和公司融资都出现过上榜样本；但没有检索到简介明确以校园实名社交产品的开发、增长和变现为主线的直接对照。本书的商业可读性不能由神豪或财富爽点自动证明。",
+  "businessAssumption": "按本项目业务假设，上榜作品视为已盈利样本；本模块据此对照，不读取实际收入。",
+  "coverage": {
+    "catalogCount": 995,
+    "currentUniqueRanked": 300,
+    "days": 24,
+    "method": "对全部995部目录的标题、标签、简介检索互联网、社交、创业、融资、校园、商业、股票等词，人工核对候选简介和历史轨迹。关键词命中仅供检索，不作市场占比。"
+  },
+  "strengths": [
+    "《重生，姐姐我只做富一代》包含校园、投资和初创项目，可佐证校园创业与财富成长需求。",
+    "《你们再脑补，我真成首富了》实际提到AI创业公司、版权危机及A轮融资，提供公司经营层面的相邻案例。",
+    "《重生了谁还继承家产啊》当前AI榜62、当日上升22位，说明创业投资并非只有历史样本。"
+  ],
+  "limits": [
+    "未找到校园实名社交产品这一精确商业主线的直接样本，不能据此判定不存在。",
+    "AI创业公司案例有幻想系统和身份误会驱动，与本书产品增长、团队会议驱动不同，且当前已不在榜。",
+    "校园富一代案例当前未在榜；另一创一代样本为第二季，不能靠其旧IP基础验证本书。",
+    "本书20章只推进到广告商会面，未签约盈利；会议、数据旁白和旅行段落的转换负担仍需处理。"
+  ],
+  "novelEvidence": [
+    {
+      "feature": "前世经验快速积累资本",
+      "chapters": "第1章",
+      "evidence": "网址大全交易与股票资金提供创业起点，但成功交付早于主要冲突。"
+    },
+    {
+      "feature": "团队协作与技术取舍",
+      "chapters": "第7—9章",
+      "evidence": "高并发与快速交付的分歧牵动外包和产品选择。"
+    },
+    {
+      "feature": "产品价值与经营压力",
+      "chapters": "第16、19—20章",
+      "evidence": "旧同学重联兑现产品价值，增长预判落空促成变现尝试。"
+    }
+  ],
+  "comparables": [
+    {
+      "id": "7696816511729536025",
+      "level": "部分匹配",
+      "match": "重生、校园、投资初创与建立商业版图。",
+      "difference": "女性投资者成长，不是社交产品经营；当前未在榜。",
+      "title": "重生，姐姐我只做富一代",
+      "url": "https://hongguoduanju.com/detail?series_id=7696816511729536025",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7696816511729536025",
+      "latest": {
+        "ranks": {},
+        "deltas": {},
+        "d_heat": -243930,
+        "d_fav": 1000,
+        "r_heat": -0.0053,
+        "age_days": 19,
+        "is_new": false,
+        "kind": "ai"
+      },
+      "bestRanks": {
+        "ai": 47,
+        "hot": 100
+      },
+      "lastPoint": {
+        "heat": 45411028,
+        "fav": 250000,
+        "like": 745000,
+        "rating": null,
+        "rating_count": null,
+        "review_count": 89,
+        "date": "2026-11-05",
+        "ranks": {}
+      },
+      "observedRankedDays": 7,
+      "lastRankedDate": "2026-10-28",
+      "synopsis": "重生回到大学开学前夕，苏云月手握五百万拆迁款，不再模仿富二代强行融入上流圈子。她凭借前世记忆，抓准行情做投资，淘古董、投潜力初创项目、购置商铺，步步积累财富。校园里面对室友的试探与博弈，苏云月坚守本心，靠眼光与实力创业，拿下一个个优质项目，打造属于自己的商业版图，活出富一代的精彩人生。"
+    },
+    {
+      "id": "7697557151367040024",
+      "level": "经营环节旁证",
+      "match": "创业公司、版权危机、A轮融资有具体经营事件。",
+      "difference": "幻想系统及误认富二代提供主要爽点，非真实产品增长逻辑。",
+      "title": "你们再脑补，我真成首富了",
+      "url": "https://hongguoduanju.com/detail?series_id=7697557151367040024",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7697557151367040024",
+      "latest": {
+        "ranks": {},
+        "deltas": {},
+        "d_heat": -251465,
+        "d_fav": 2000,
+        "r_heat": -0.0057,
+        "age_days": 17,
+        "is_new": false,
+        "kind": "comic"
+      },
+      "bestRanks": {
+        "comic": 36,
+        "hot": 86
+      },
+      "lastPoint": {
+        "heat": 44217818,
+        "fav": 473000,
+        "like": 1463000,
+        "rating": 7.9,
+        "rating_count": 1303,
+        "review_count": 347,
+        "date": "2026-11-05",
+        "ranks": {}
+      },
+      "observedRankedDays": 7,
+      "lastRankedDate": "2026-10-28",
+      "synopsis": "顾川意外觉醒三人成真系统，只要三个人真心相信某件事，就会化为现实。他本来句句是实话，却不断被旁人脑补，被认定是富二代。之后他接手餐厅，获得专业驾驶能力，又投资AI剪辑创业公司ai科技。在商业历练中解锁专业投资能力，妥善处理版权危机，完成A轮融资。顾川改善家庭处境，理性打理资产，开启新的人生篇章。"
+    },
+    {
+      "id": "7700536635405896728",
+      "level": "相邻需求",
+      "match": "前瞻眼光、投资布局和商业风险决策。",
+      "difference": "女性投资者与实业领域，不能验证软件产品叙事。",
+      "title": "重生了谁还继承家产啊",
+      "url": "https://hongguoduanju.com/detail?series_id=7700536635405896728",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7700536635405896728",
+      "latest": {
+        "ranks": {
+          "ai": 62
+        },
+        "deltas": {
+          "ai": 22
+        },
+        "d_heat": 479799,
+        "d_fav": 4000,
+        "r_heat": 0.0098,
+        "age_days": 10,
+        "is_new": false,
+        "kind": "ai"
+      },
+      "bestRanks": {
+        "ai": 62
+      },
+      "lastPoint": {
+        "heat": 49645310,
+        "fav": 117000,
+        "like": 608000,
+        "rating": null,
+        "rating_count": null,
+        "review_count": 47,
+        "date": "2026-11-05",
+        "ranks": {
+          "ai": 62
+        }
+      },
+      "observedRankedDays": 2,
+      "lastRankedDate": "2026-11-05",
+      "synopsis": "沈思月大学毕业脱离原生家庭，手握少量本金开启创业投资之路。她凭借超越时代的前瞻眼光，抓住黄金、原油等市场机遇，积累第一桶金。入读MBA总裁班结识一众商界伙伴，竞拍城南地块，布局直播电商、新能源产业链。面对高息理财暴雷风波，她坚守理性投资，规避巨大风险。历经商业博弈与世事考验，一步步夯实商业版图，跳出原生家庭的桎梏，靠自身实力成长为真正的实干女企业家。"
+    },
+    {
+      "id": "7699423377970187288",
+      "level": "既有IP续季样本",
+      "match": "重生青年利用资本起点和经验向上发展。",
+      "difference": "期货、捡漏和身份误会，第2季基础不等于互联网创业冷启动。",
+      "title": "重生，他只做创一代第二季",
+      "url": "https://hongguoduanju.com/detail?series_id=7699423377970187288",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7699423377970187288",
+      "latest": {
+        "ranks": {},
+        "deltas": {},
+        "d_heat": -134974,
+        "d_fav": 3000,
+        "r_heat": -0.0028,
+        "age_days": 11,
+        "is_new": false,
+        "kind": "ai"
+      },
+      "bestRanks": {
+        "ai": 21,
+        "hot": 44
+      },
+      "lastPoint": {
+        "heat": 48059277,
+        "fav": 246000,
+        "like": 485000,
+        "rating": 8.8,
+        "rating_count": 3478,
+        "review_count": 683,
+        "date": "2026-11-05",
+        "ranks": {}
+      },
+      "observedRankedDays": 8,
+      "lastRankedDate": "2026-11-02",
+      "synopsis": "顾景远前世用中彩票得来的五百万包装成了富二代，成功的混进了富二代的圈子，原本以为向上社交可以改变命运，结果十年后被人当场揭穿富二代的身份，并被当众羞辱，一梦初醒，发现自己竟重生回了高三暑假这一年，五百万开场，木料市场捡漏，橡胶期货，原油等一路腾达，而此时此刻，他明明说自己是农民家庭，却总被人坚定的认为是顶级二代。"
+    }
+  ],
+  "radar": {
+    "latest_date": "2026-11-05",
+    "fetched_at": "2026-11-05T02:53:01Z",
+    "first_date": "2026-10-13",
+    "history_days": 24,
+    "tracked": 724,
+    "error_count": 0
+  },
+  "needsReview": false,
+  "syncedAt": "2026-11-05T12:12:53.947438+00:00"
+}

@@ -1,0 +1,211 @@
+{
+  "novelId": "7690601273957157913",
+  "novelSourceHash": "18ae0bdd32d8db820b8c0be4cac8098e5616a0882768c81cbd8472139c0caf80",
+  "reviewedFetchedAt": "2026-11-05T02:53:01Z",
+  "reviewedAt": "2026-11-05",
+  "verdict": "医术逆袭有中等支持，乡村关系组合支持有限",
+  "summary": "医术获得认可、异能改变资源处境、受欺后反制均有样本；当前AI榜亦有医术逆袭较强作品。更贴近本书的乡村医术、夺地与复杂亲密关系组合，尚缺足够直接证据，不能用宽泛神医热度替它背书。",
+  "businessAssumption": "按本项目业务假设，上榜作品视为已盈利样本；本模块据此对照，不读取实际收入。",
+  "coverage": {
+    "catalogCount": 995,
+    "currentUniqueRanked": 300,
+    "days": 24,
+    "method": "对全部995部目录的标题、标签、简介检索神医、村医、乡村、灵泉、种田、土地纠纷等词，人工核对候选简介和历史轨迹。关键词命中仅供检索，不作市场占比。"
+  },
+  "strengths": [
+    "《天医下山：不爽一脚直接踹飞》当前AI榜10，医术救人和反不公具备近期在榜支持。",
+    "《女总裁的贴身神医2》简介同时出现治病、种玉米获利和多名女性示好，当前真人榜49，机制有交集。",
+    "下乡行医、乡邻资源纠纷均有历史上榜作品，可支撑局部情绪和行动。"
+  ],
+  "limits": [
+    "天医样本主要是校园与下山成长，不是本书村镇夺地和婚姻关系。",
+    "《女总裁的贴身神医2》是既有IP续作且真人制作，只能证明机制有交集，不能照搬其表现。",
+    "较近的下乡医术与宅地纠纷样本已不在当前所采四榜；近期强势支持集中在较宽的医术逆袭层。",
+    "小说的多女机缘、生育安排尚未兑现，简介相近也不能证明这些内容有持续回报。"
+  ],
+  "novelEvidence": [
+    {
+      "feature": "受欺濒危后得能力",
+      "chapters": "第1章",
+      "evidence": "冲突中濒危获得术法，处境与能力发生反转。"
+    },
+    {
+      "feature": "证据与力量夺回资源",
+      "chapters": "第3、7—8、12章",
+      "evidence": "讨回三亩田并收回土地证，受压者扭转权力关系。"
+    },
+    {
+      "feature": "治伤与互惠回报",
+      "chapters": "第10—11章",
+      "evidence": "灵力减轻邻居腿伤，形成可见帮助和感谢。"
+    }
+  ],
+  "comparables": [
+    {
+      "id": "7701003583759584281",
+      "level": "医术逆袭旁证",
+      "match": "医术救人、面对不公挺身而出。",
+      "difference": "校园和下山成长，不能直接验证乡村多关系故事。",
+      "title": "天医下山：不爽一脚直接踹飞",
+      "url": "https://hongguoduanju.com/detail?series_id=7701003583759584281",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7701003583759584281",
+      "latest": {
+        "ranks": {
+          "hot": 33,
+          "ai": 10
+        },
+        "deltas": {
+          "hot": -1,
+          "ai": 1
+        },
+        "d_heat": 431368,
+        "d_fav": 11000,
+        "r_heat": 0.0079,
+        "age_days": 7,
+        "is_new": true,
+        "kind": "ai"
+      },
+      "bestRanks": {
+        "ai": 10,
+        "hot": 32
+      },
+      "lastPoint": {
+        "heat": 55125610,
+        "fav": 257000,
+        "like": 579000,
+        "rating": null,
+        "rating_count": null,
+        "review_count": 144,
+        "date": "2026-11-05",
+        "ranks": {
+          "ai": 10,
+          "hot": 33
+        }
+      },
+      "observedRankedDays": 4,
+      "lastRankedDate": "2026-11-05",
+      "synopsis": "身患重病的少年叶天被叶家主放弃后，幸得老中医救治，并传承了一身医术。病愈下山重返校园，他刻苦求学，立志学有所成。面对病痛，他一次次用医术治病救人；面对不公，他挺身而出、见义勇为。他弘扬中医文化，在医术交流会上为校争光，还与伙伴携手创业。"
+    },
+    {
+      "id": "7686373033186954264",
+      "level": "既有IP续季样本",
+      "match": "医术、种植获利和女性关系互相联动。",
+      "difference": "都市总裁与婚约、真人续作，本书为村镇资源和婚姻矛盾。",
+      "title": "女总裁的贴身神医2",
+      "url": "https://hongguoduanju.com/detail?series_id=7686373033186954264",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7686373033186954264",
+      "latest": {
+        "ranks": {
+          "real": 49
+        },
+        "deltas": {
+          "real": -13
+        },
+        "d_heat": -603817,
+        "d_fav": 2000,
+        "r_heat": -0.0127,
+        "age_days": 12,
+        "is_new": true,
+        "kind": "real"
+      },
+      "bestRanks": {
+        "real": 33
+      },
+      "lastPoint": {
+        "heat": 46778588,
+        "fav": 206000,
+        "like": 337000,
+        "rating": 8.1,
+        "rating_count": 1075,
+        "review_count": 114,
+        "date": "2026-11-05",
+        "ranks": {
+          "real": 49
+        }
+      },
+      "observedRankedDays": 9,
+      "lastRankedDate": "2026-11-05",
+      "synopsis": "江然是玄机门新一代传人，医术大成后奉父命下山履行婚约，在云城偶然治好了任家二小姐的哑病，身为姐姐的美女总裁任冰颜得知激动惊喜，不计代价要找到江然。当江然来到柳家找未婚妻履行婚约，遭到柳家悔婚嘲讽，任冰颜霸气出场替江然出头，当众宣布与他成婚。从此，江然开启无敌路，随手种玉米卖千万，为黑道大佬补肾，给任家姐妹花治病，医仙影后倒追，悔婚的柳家也付出惨痛代价，悔不当初。"
+    },
+    {
+      "id": "7695697088058756158",
+      "level": "部分匹配",
+      "match": "乡村金手指、研习医术并利用村医机会改变处境。",
+      "difference": "年代知青生存线，非本书祖传术法和夺地；当前未在榜。",
+      "title": "重生70我选择下乡，黑土地上的岁月",
+      "url": "https://hongguoduanju.com/detail?series_id=7695697088058756158",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7695697088058756158",
+      "latest": {
+        "ranks": {},
+        "deltas": {},
+        "d_heat": -91246,
+        "d_fav": 0,
+        "r_heat": -0.002,
+        "age_days": 22,
+        "is_new": false,
+        "kind": "ai"
+      },
+      "bestRanks": {
+        "ai": 50
+      },
+      "lastPoint": {
+        "heat": 46559799,
+        "fav": 267000,
+        "like": 1030000,
+        "rating": 8.3,
+        "rating_count": 1476,
+        "review_count": 218,
+        "date": "2026-11-05",
+        "ranks": {}
+      },
+      "observedRankedDays": 6,
+      "lastRankedDate": "2026-10-27",
+      "synopsis": "现代青年周牧云穿越到1970年的四九城，面对家中复杂处境主动报名赴黑省下乡插队，意外激活天道酬勤系统，解锁随身空间这一金手指。他凭系统修炼国术、研习医术，暗中囤积各类物资，在知青岁月里低调应对人际纷争与繁重劳作，从伐木场崭露头角，又抓住老村医离任的契机，在艰苦的七十年代，一步步走出一条自在安稳的生存逆袭之路。"
+    },
+    {
+      "id": "7697246362970115097",
+      "level": "冲突机制旁证",
+      "match": "乡邻侵占资源后以具体行动反制。",
+      "difference": "围绕山林和通行权，无神医或亲密关系引擎。",
+      "title": "我家院子不借道",
+      "url": "https://hongguoduanju.com/detail?series_id=7697246362970115097",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7697246362970115097",
+      "latest": {
+        "ranks": {},
+        "deltas": {},
+        "d_heat": 19952,
+        "d_fav": 1000,
+        "r_heat": 0.0004,
+        "age_days": 16,
+        "is_new": false,
+        "kind": "ai"
+      },
+      "bestRanks": {
+        "ai": 58
+      },
+      "lastPoint": {
+        "heat": 46844674,
+        "fav": 110000,
+        "like": 268000,
+        "rating": 7.4,
+        "rating_count": 228,
+        "review_count": 15,
+        "date": "2026-11-05",
+        "ranks": {}
+      },
+      "observedRankedDays": 7,
+      "lastRankedDate": "2026-10-30",
+      "synopsis": "钱孙两家世代为邻，祖上口头约定平分山林。钱家三代人得寸进尺，设计三十年，一寸一寸侵占孙家山林大半；修房地基高出孙家三米，雨水灌进孙家院子，阳光被挡得一丝不剩；钱老爷子更是生前就把寿山修到孙家祖坟头上，扬言死后也要压着孙家。孙女孙小涵回村后，主动将自家宅基地捐给村里建垃圾站，紧贴钱家新楼，钱老爷子出殡当天，钱家才发现自家上山路已荒废，唯一好走的路必须从孙家院子里过。孙小涵院门一关，寸步不让。"
+    }
+  ],
+  "radar": {
+    "latest_date": "2026-11-05",
+    "fetched_at": "2026-11-05T02:53:01Z",
+    "first_date": "2026-10-13",
+    "history_days": 24,
+    "tracked": 724,
+    "error_count": 0
+  },
+  "needsReview": false,
+  "syncedAt": "2026-11-05T12:12:53.946044+00:00"
+}

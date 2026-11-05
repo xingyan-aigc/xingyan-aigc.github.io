@@ -1,0 +1,376 @@
+{
+  "novelId": "7693611209945336856",
+  "novelSourceHash": "28256a73cb72f64d461199911d7b72c616dca722a56878c3b091c4f17f640799",
+  "reviewedFetchedAt": "2026-11-05T02:53:01Z",
+  "reviewedAt": "2026-11-05",
+  "verdict": "市场支持中等，当前时机支持偏弱",
+  "summary": "有足够依据证明年代婚恋、摆脱不利婚约和主动调整关系有上榜验证；不足以确认本书的心口反差、利益择偶与家族交易组合正在走强。可保留第一候选，但市场证据不足以让它压倒性领先。",
+  "businessAssumption": "按本项目业务假设，上榜作品视为已盈利样本；本模块据此对照，不读取实际收入。",
+  "coverage": {
+    "catalogCount": 995,
+    "currentUniqueRanked": 300,
+    "days": 24,
+    "method": "检索全部995部在库剧目的书名、标签和简介，再人工核对相关作品。192条宽关键词命中仅用于检索，不当作同题材样本量或市场占比。"
+  },
+  "strengths": [
+    "年代婚恋与重新择偶有多个独立IP上榜，不只单部命中。",
+    "《帐中香》提供预知婚姻危险后主动改变关系策略的相近机制样本。",
+    "相关漫剧仍在榜，现代真人关系逆袭样本也有近期上升。"
+  ],
+  "limits": [
+    "最接近的《被退婚后，嫁给年代文里的野巷少年》观察期最佳AI榜61；11月2日起未见于所采四榜，不构成精确组合的强势证据。",
+    "《穿越八零》和《泡面教授》首季已不在11月5日所采榜单；续季在榜但近期下降，不能重复计算独立IP。",
+    "《帐中香》是古代救赎线，不能直接替代本书年代自保择偶的观众体验。",
+    "本书第20章仍未完成新婚配，其他剧的甜宠或事业兑现不能替代本书尚未发生的剧情。",
+    "依据为简介、标签和榜单轨迹，未拉片验证具体场面；相似性不是盈利因果证明。"
+  ],
+  "novelEvidence": [
+    {
+      "feature": "退婚后主动断联",
+      "chapters": "第4—5章",
+      "evidence": "婚约危机公开后，女主祝贺并要求不再联系。"
+    },
+    {
+      "feature": "预知危险后调整婚配",
+      "chapters": "第7、13、20章",
+      "evidence": "梦后明确避险目标，提出婚期并按风险筛选候选。"
+    },
+    {
+      "feature": "体面表象与利益算计相反",
+      "chapters": "第6、10—11章",
+      "evidence": "维持受损形象、口头体谅旧人，同时谋求资源与反制。"
+    },
+    {
+      "feature": "家族交易改变关系",
+      "chapters": "第10、16—20章",
+      "evidence": "补偿、联盟与婚配资源互相牵动，关键谈判仍有省略。"
+    }
+  ],
+  "comparables": [
+    {
+      "id": "7697925132244749336",
+      "match": "年代穿书、避开悲惨命运、借婚姻与家庭资源改变处境。",
+      "difference": "该剧以假婚约迁户口、合租谋生；本书保留旧人资源并筛选新婚配。",
+      "level": "直接相近",
+      "title": "被退婚后，嫁给年代文里的野巷少年",
+      "url": "https://hongguoduanju.com/detail?series_id=7697925132244749336",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7697925132244749336",
+      "latest": {
+        "ranks": {},
+        "deltas": {},
+        "d_heat": -355772,
+        "d_fav": 1000,
+        "r_heat": -0.0076,
+        "age_days": 16,
+        "is_new": false,
+        "kind": "ai"
+      },
+      "bestRanks": {
+        "ai": 61
+      },
+      "lastPoint": {
+        "heat": 46371766,
+        "fav": 273000,
+        "like": 989000,
+        "rating": 8.1,
+        "rating_count": 1482,
+        "review_count": 469,
+        "date": "2026-11-05",
+        "ranks": {}
+      },
+      "observedRankedDays": 5,
+      "lastRankedDate": "2026-11-01",
+      "synopsis": "1975年，现代江季玉猝死穿书，成年代文恶毒女配。为避开下乡悲惨命运，她巧取字据、逼陆修齐签下一年假婚约定，借力奶奶与陆家办妥户口迁出。她接连撕破家人阴谋，和陆修齐合租谋生，联手化解黑市危机，二人在互相算计间渐生情愫。"
+    },
+    {
+      "id": "7697297371822050328",
+      "match": "年代女配、旧人偏向他人、新关系重组。",
+      "difference": "该剧强调替身照护、甜宠和竞赛逆袭，本书更依赖心口反差。",
+      "level": "部分匹配",
+      "title": "穿越八零，我不是炮灰女配",
+      "url": "https://hongguoduanju.com/detail?series_id=7697297371822050328",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7697297371822050328",
+      "latest": {
+        "ranks": {},
+        "deltas": {},
+        "d_heat": -372737,
+        "d_fav": 3000,
+        "r_heat": -0.008,
+        "age_days": 19,
+        "is_new": false,
+        "kind": "comic"
+      },
+      "bestRanks": {
+        "comic": 25,
+        "hot": 58
+      },
+      "lastPoint": {
+        "heat": 46328638,
+        "fav": 660000,
+        "like": 1686000,
+        "rating": 7.5,
+        "rating_count": 2235,
+        "review_count": 583,
+        "date": "2026-11-05",
+        "ranks": {}
+      },
+      "observedRankedDays": 12,
+      "lastRankedDate": "2026-10-31",
+      "synopsis": "陆娇娇一觉醒来穿进八零年代失忆炮灰女配身上。那男为了陪我的养姐，竟把他的堂哥，推进了我的病房。让堂哥假冒自己，留在卫生院照顾我，他则带着白月光到处散心游玩，看到眼前的男人直接心动，而男人游玩几天回来后直接破破防了，而学渣陆娇娇靠着自己的本领拿到竞赛奖，惊呆了所有人。。。老公更是听话宠爱的行动派！"
+    },
+    {
+      "id": "7697594258743626814",
+      "match": "被退婚后重建处境、获得新关系。",
+      "difference": "该剧依靠厨艺与劳动，本书依靠关系策略。",
+      "level": "部分匹配",
+      "title": "不就是一碗泡面，高冷教授竟沦陷了",
+      "url": "https://hongguoduanju.com/detail?series_id=7697594258743626814",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7697594258743626814",
+      "latest": {
+        "ranks": {},
+        "deltas": {},
+        "d_heat": -601006,
+        "d_fav": 2000,
+        "r_heat": -0.0124,
+        "age_days": 16,
+        "is_new": false,
+        "kind": "comic"
+      },
+      "bestRanks": {
+        "comic": 22,
+        "hot": 60
+      },
+      "lastPoint": {
+        "heat": 47726921,
+        "fav": 463000,
+        "like": 985000,
+        "rating": 7.4,
+        "rating_count": 1182,
+        "review_count": 305,
+        "date": "2026-11-05",
+        "ranks": {}
+      },
+      "observedRankedDays": 11,
+      "lastRankedDate": "2026-11-03",
+      "synopsis": "为挣脱被安排的命运，农村姑娘宋青枝揣着五十块钱独闯京城。被定亲对象退婚羞辱，她不卑不亢，凭一手祖传厨艺应聘进周家。一碗热汤宵夜，意外敲开京大高冷教授周弦清冰封的心。从被人轻视的乡下丫头，到凭勤劳善良站稳脚跟、收获真挚爱情，她用人间烟火温暖了整个年代。"
+    },
+    {
+      "id": "7685699444766952473",
+      "match": "预知婚姻危险后主动改变关系策略。",
+      "difference": "该剧古代背景并保住原婚约，本书年代背景并另选对象。",
+      "level": "机制匹配",
+      "title": "帐中香",
+      "url": "https://hongguoduanju.com/detail?series_id=7685699444766952473",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7685699444766952473",
+      "latest": {
+        "ranks": {
+          "comic": 82
+        },
+        "deltas": {
+          "comic": -9
+        },
+        "d_heat": -191184,
+        "d_fav": 14000,
+        "r_heat": -0.0039,
+        "age_days": 46,
+        "is_new": false,
+        "kind": "comic"
+      },
+      "bestRanks": {
+        "comic": 4,
+        "hot": 9
+      },
+      "lastPoint": {
+        "heat": 48946458,
+        "fav": 4680000,
+        "like": 7218000,
+        "rating": 8.8,
+        "rating_count": 24602,
+        "review_count": 5233,
+        "date": "2026-11-05",
+        "ranks": {
+          "comic": 82
+        }
+      },
+      "observedRankedDays": 24,
+      "lastRankedDate": "2026-11-05",
+      "synopsis": "尚书府嫡女姒嫣做了一个预知梦——梦里她对落难的未婚夫江佑泽退婚弃之，日后江佑泽成了权倾朝野的九千岁，将她抓回金丝笼日夜折磨。梦醒后，她决意不退婚，变卖所有首饰替入宫为宦的落魄未婚夫打通关系，只求保命。然而江佑泽因自身残缺，一次次把她推开，她偏要一次次靠近。一个拼尽全力想给名分，一个赌上一切要救赎他，万般沉浮，皆我甘愿。"
+    },
+    {
+      "id": "7697835446113422360",
+      "match": "年代女性借关系支持改变人生处境。",
+      "difference": "该剧兑现求学与翻译事业，不能直接支持灰度择偶。",
+      "level": "相邻需求",
+      "title": "七零高干：从村花到翻译官",
+      "url": "https://hongguoduanju.com/detail?series_id=7697835446113422360",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7697835446113422360",
+      "latest": {
+        "ranks": {
+          "comic": 93
+        },
+        "deltas": {
+          "comic": -18
+        },
+        "d_heat": -452210,
+        "d_fav": 3000,
+        "r_heat": -0.0092,
+        "age_days": 16,
+        "is_new": false,
+        "kind": "comic"
+      },
+      "bestRanks": {
+        "comic": 24,
+        "hot": 69
+      },
+      "lastPoint": {
+        "heat": 48633013,
+        "fav": 399000,
+        "like": 1236000,
+        "rating": 8.8,
+        "rating_count": 1587,
+        "review_count": 440,
+        "date": "2026-11-05",
+        "ranks": {
+          "comic": 93
+        }
+      },
+      "observedRankedDays": 11,
+      "lastRankedDate": "2026-11-05",
+      "synopsis": "七十年代大山深处，少女赵书禾意外接收后世完整教学资源。家中拮据无力供她继续求学，眼看就要草草相亲嫁人。机缘之下，她与省城保卫科科长陆景峰相识，对方欣赏她的求知欲，愿意支持她读书。赵书禾抓住机会考上中专，凭借出众的外语能力崭露头角。她一边要补齐时代适配的旧知识避免露怯，一边努力求学，帮扶家人走出大山，抓住时代浪潮，实现学业与个人成长，和陆景峰双向扶持，活出属于自己的人生。"
+    },
+    {
+      "id": "7699884915277450264",
+      "match": "婚配危机下主动求婚，新的关系使女主脱困。",
+      "difference": "现代真人、护妻治愈线，时代和人物伦理不同。",
+      "level": "跨形式旁证",
+      "title": "一闪而婚，江先生他沦陷了",
+      "url": "https://hongguoduanju.com/detail?series_id=7699884915277450264",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7699884915277450264",
+      "latest": {
+        "ranks": {
+          "real": 37
+        },
+        "deltas": {
+          "real": 4
+        },
+        "d_heat": 116242,
+        "d_fav": 3000,
+        "r_heat": 0.0025,
+        "age_days": 9,
+        "is_new": true,
+        "kind": "real"
+      },
+      "bestRanks": {
+        "real": 37
+      },
+      "lastPoint": {
+        "heat": 47147842,
+        "fav": 154000,
+        "like": 315000,
+        "rating": 8.1,
+        "rating_count": 1394,
+        "review_count": 146,
+        "date": "2026-11-05",
+        "ranks": {
+          "real": 37
+        }
+      },
+      "observedRankedDays": 6,
+      "lastRankedDate": "2026-11-05",
+      "synopsis": "季秋被后妈逼嫁老男人，为继兄换彩礼。绝境之时，撞见大佬江执礼被未婚妻退婚。走投无路的她捡起戒指大胆求婚！恪守规矩的江执礼被她的勇敢打动，接下婚戒。闪婚后，名门千金步步刁难，原生家庭频拖后腿，人人等着看她被赶出名门的笑话，谁料冷漠无情的掌权人，偏偏为她破尽家规，而她也用温柔烟火，治愈江执礼荒芜孤寂的童年。"
+    },
+    {
+      "id": "7703479033782094873",
+      "match": "观察《穿越八零》同IP当前延续状态。",
+      "difference": "仅作时间补充，不新增独立验证票数。",
+      "level": "续季补充",
+      "title": "穿越八零，我不是炮灰女配第二季",
+      "url": "https://hongguoduanju.com/detail?series_id=7703479033782094873",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7703479033782094873",
+      "latest": {
+        "ranks": {
+          "comic": 66
+        },
+        "deltas": {
+          "comic": -17
+        },
+        "d_heat": -696489,
+        "d_fav": 8000,
+        "r_heat": -0.0138,
+        "age_days": 3,
+        "is_new": true,
+        "kind": "comic"
+      },
+      "bestRanks": {
+        "comic": 49
+      },
+      "lastPoint": {
+        "heat": 49673829,
+        "fav": 172000,
+        "like": 352000,
+        "rating": null,
+        "rating_count": null,
+        "review_count": 263,
+        "date": "2026-11-05",
+        "ranks": {
+          "comic": 66
+        }
+      },
+      "observedRankedDays": 3,
+      "lastRankedDate": "2026-11-05",
+      "synopsis": "陆娇娇一觉醒来穿进八零年代失忆炮灰女配身上。那男为了陪我的养姐，竟把他的堂哥，推进了我的病房。让堂哥假冒自己，留在卫生院照顾我，他则带着白月光到处散心游玩，看到眼前的男人直接心动，而男人游玩几天回来后直接破破防了，而学渣陆娇娇靠着自己的本领拿到竞赛奖，惊呆了所有人。。。老公更是听话宠爱的行动派！"
+    },
+    {
+      "id": "7702010148893510680",
+      "match": "观察《泡面教授》同IP当前延续状态。",
+      "difference": "仅作时间补充，不新增独立验证票数。",
+      "level": "续季补充",
+      "title": "不就是一碗泡面，高冷教授竟沦陷了第二季",
+      "url": "https://hongguoduanju.com/detail?series_id=7702010148893510680",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7702010148893510680",
+      "latest": {
+        "ranks": {
+          "comic": 75
+        },
+        "deltas": {
+          "comic": -16
+        },
+        "d_heat": -436805,
+        "d_fav": 2000,
+        "r_heat": -0.0088,
+        "age_days": 6,
+        "is_new": true,
+        "kind": "comic"
+      },
+      "bestRanks": {
+        "comic": 22,
+        "hot": 57
+      },
+      "lastPoint": {
+        "heat": 49155461,
+        "fav": 217000,
+        "like": 413000,
+        "rating": 8.1,
+        "rating_count": 577,
+        "review_count": 144,
+        "date": "2026-11-05",
+        "ranks": {
+          "comic": 75
+        }
+      },
+      "observedRankedDays": 6,
+      "lastRankedDate": "2026-11-05",
+      "synopsis": "为挣脱被安排的命运，农村姑娘宋青枝揣着五十块钱独闯京城。被定亲对象退婚羞辱，她不卑不亢，凭一手祖传厨艺应聘进周家。一碗热汤宵夜，意外敲开京大高冷教授周弦清冰封的心。从被人轻视的乡下丫\u0000头，到凭勤劳善良站稳脚跟、收获真挚爱情，她用人间烟火温暖了整个年代。"
+    }
+  ],
+  "radar": {
+    "latest_date": "2026-11-05",
+    "fetched_at": "2026-11-05T02:53:01Z",
+    "first_date": "2026-10-13",
+    "history_days": 24,
+    "tracked": 724,
+    "error_count": 0
+  },
+  "needsReview": false,
+  "syncedAt": "2026-11-05T12:12:53.949378+00:00"
+}

@@ -1,0 +1,212 @@
+{
+  "novelId": "7690487060252478489",
+  "novelSourceHash": "2d16b20a975b6b2802abfd330cecda712a3af6935a3a4c4dbd0f361d118fd75f",
+  "reviewedFetchedAt": "2026-11-05T02:53:01Z",
+  "reviewedAt": "2026-11-05",
+  "verdict": "末世小队有中等支持，多男主组合证据偏弱",
+  "summary": "末世、队伍协作、补给与移动求生有在榜样本；女性主角和系统式关系经营也有相邻作品。但现有简介不足以验证“六个男性队友争宠＋生活用品智斗怪物”这一完整组合，不能把男频尸王或兽世恋爱直接当成同一市场。",
+  "businessAssumption": "按本项目业务假设，上榜作品视为已盈利样本；本模块据此对照，不读取实际收入。",
+  "coverage": {
+    "catalogCount": 995,
+    "currentUniqueRanked": 300,
+    "days": 24,
+    "method": "对全部995部目录的标题、标签、简介检索末世、丧尸、车队、兽世、多男主、糙汉等词，人工核对候选简介和历史轨迹。关键词命中仅供检索，不作市场占比。"
+  },
+  "strengths": [
+    "《穿书末世，我的日常很滋润》女主组建小队、携宠物、收集物资，当前漫剧榜50，构成较近题材支持。",
+    "《末哥超凡公路第九季》当前漫剧榜57，提供车队移动求生与同类算计的已上榜样本。",
+    "兽世的照料互惠与收集好感有独立作品记录，可辅助理解关系经营需求。"
+  ],
+  "limits": [
+    "《穿书末世》的简介突出异能升级与主动战斗，不证明六人争宠的吸引力。",
+    "公路样本为第九季，不能将IP延续表现等同新IP冷启动；当天排名下降18位。",
+    "《家徒四壁我养活兽世哥哥》最近在榜10月24日；星际恋爱游戏样本仅观察到1天在榜、位次97，关系方向佐证有限。",
+    "目前没有找到简介足以确认“末世＋六男性队友争宠”整套机制的直接强样本；不能将未找到等同没有市场。",
+    "本书连续性、爆破规则和群怪制作负担仍在，市场样本不能抵消正文缺口。"
+  ],
+  "novelEvidence": [
+    {
+      "feature": "危险开场与小队接纳",
+      "chapters": "第1—3章",
+      "evidence": "女主受伤逃离酒店，经历感染质疑后获得药物和照顾。"
+    },
+    {
+      "feature": "日用品智斗与互护",
+      "chapters": "第5—6章",
+      "evidence": "观察警告、利用声音诱饵和小队协作摆脱尸群。"
+    },
+    {
+      "feature": "补给与出城目标",
+      "chapters": "第7—8、18—20章",
+      "evidence": "感情冲突牵动车辆资源，后续反伏击与出城形成阶段目标。"
+    }
+  ],
+  "comparables": [
+    {
+      "id": "7700904626136026137",
+      "level": "题材较近",
+      "match": "女主、末世小队、物资与宠物构成连续求生。",
+      "difference": "该剧以异能战斗升级为主，本书更重生活物智斗和多男性照顾。",
+      "title": "穿书末世，我的日常很滋润",
+      "url": "https://hongguoduanju.com/detail?series_id=7700904626136026137",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7700904626136026137",
+      "latest": {
+        "ranks": {
+          "comic": 50
+        },
+        "deltas": {
+          "comic": -2
+        },
+        "d_heat": 10581,
+        "d_fav": 6000,
+        "r_heat": 0.0002,
+        "age_days": 8,
+        "is_new": false,
+        "kind": "comic"
+      },
+      "bestRanks": {
+        "comic": 40,
+        "hot": 85
+      },
+      "lastPoint": {
+        "heat": 52514577,
+        "fav": 438000,
+        "like": 1203000,
+        "rating": 7.3,
+        "rating_count": 1010,
+        "review_count": 272,
+        "date": "2026-11-05",
+        "ranks": {
+          "comic": 50
+        }
+      },
+      "observedRankedDays": 7,
+      "lastRankedDate": "2026-11-05",
+      "synopsis": "江妍洛重生回末世降临前，凭借前世记忆提前囤满物资，觉醒空间与雷系异能，带着五位伙伴、变异犬豆宝和小猫壮壮组建旋风小队。极热、极寒、丧尸接连来袭，她一路收集物资、升级异能、斩杀丧尸，在天灾中救下伙伴、揭开阴谋。面对重生女主的步步算计，江妍洛带领小队杀出一条生路。"
+    },
+    {
+      "id": "7702016333881281561",
+      "level": "既有IP续季样本",
+      "match": "末世车队、公路逃亡、诡异危机与人际算计。",
+      "difference": "第九季有续作基础，简介未证明与本书相同受众及恋爱机制。",
+      "title": "末哥超凡公路第九季",
+      "url": "https://hongguoduanju.com/detail?series_id=7702016333881281561",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7702016333881281561",
+      "latest": {
+        "ranks": {
+          "comic": 57
+        },
+        "deltas": {
+          "comic": -18
+        },
+        "d_heat": -2881704,
+        "d_fav": 2000,
+        "r_heat": -0.0544,
+        "age_days": 4,
+        "is_new": true,
+        "kind": "comic"
+      },
+      "bestRanks": {
+        "comic": 16,
+        "hot": 26
+      },
+      "lastPoint": {
+        "heat": 50096607,
+        "fav": 195000,
+        "like": 465000,
+        "rating": 9.2,
+        "rating_count": 2550,
+        "review_count": 585,
+        "date": "2026-11-05",
+        "ranks": {
+          "comic": 57
+        }
+      },
+      "observedRankedDays": 4,
+      "lastRankedDate": "2026-11-05",
+      "synopsis": "末世降临，诡异横行，幸存者们组成的车队像老鼠一样的躲避危险，当他们面对恐怖的雾江大蛇、十死无生的规则母巢，以及暗处同类的险恶算计，看这支公平车队如何一路神挡杀神、诡挡劈诡，在血月末世中杀出一条求生之路！"
+    },
+    {
+      "id": "7694211210132081688",
+      "level": "关系机制旁证",
+      "match": "女主以照料、食物和现代知识建立互惠关系。",
+      "difference": "兽世家庭生存，并非丧尸公路队伍，不能直接合并赛道。",
+      "title": "家徒四壁我养活兽世哥哥",
+      "url": "https://hongguoduanju.com/detail?series_id=7694211210132081688",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7694211210132081688",
+      "latest": {
+        "ranks": {},
+        "deltas": {},
+        "d_heat": -51708,
+        "d_fav": 5000,
+        "r_heat": -0.0011,
+        "age_days": 26,
+        "is_new": false,
+        "kind": "comic"
+      },
+      "bestRanks": {
+        "comic": 36,
+        "hot": 78
+      },
+      "lastPoint": {
+        "heat": 46167449,
+        "fav": 1151000,
+        "like": 2226000,
+        "rating": 8.1,
+        "rating_count": 725,
+        "review_count": 4446,
+        "date": "2026-11-05",
+        "ranks": {}
+      },
+      "observedRankedDays": 7,
+      "lastRankedDate": "2026-10-24",
+      "synopsis": "现代女孩安瑜穿越到雌尊雄卑的兽人世界，刚睁眼就面临地狱开局，原主正要把蛇兽琉青卖给游商换食物。安瑜坚守良知，拒绝交易，将绝望的琉青带回家。面对家徒四壁，她一改原主暴戾，把仅有的兽皮披在琉青身上，亲手煮食，让他吃上第一顿饱饭。她果断打发虚荣相好绯昀，割裂过去。面对严酷寒季与饥饿，安瑜扛起家庭重担，用现代智慧与坚韧，带领受创的家人绝地求生，重塑温暖。"
+    },
+    {
+      "id": "7703491400456752153",
+      "level": "相邻需求",
+      "match": "异世界少女收集喜爱值、与不同兽人相处。",
+      "difference": "恋爱游戏与治愈冒险不等于末世争宠，当前在榜观察仅一天。",
+      "title": "信念开启之星际兽世制作恋爱游戏成顶流",
+      "url": "https://hongguoduanju.com/detail?series_id=7703491400456752153",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7703491400456752153",
+      "latest": {
+        "ranks": {
+          "comic": 97
+        },
+        "deltas": {},
+        "age_days": 3,
+        "is_new": true,
+        "kind": "comic"
+      },
+      "bestRanks": {
+        "comic": 97
+      },
+      "lastPoint": {
+        "heat": 48585552,
+        "fav": 226000,
+        "like": 633000,
+        "rating": null,
+        "rating_count": null,
+        "review_count": 1320,
+        "date": "2026-11-05",
+        "ranks": {
+          "comic": 97
+        }
+      },
+      "observedRankedDays": 1,
+      "lastRankedDate": "2026-11-05",
+      "synopsis": "少女意外来到雌雄比例差距悬殊的星际世界，为收集喜爱值获得重生机会，她没有选择刻意讨好他人，而是脑洞大开打造沉浸式恋爱游戏，用独特的构思搭建温暖的虚拟小屋，设计丰富互动玩法，在和形形色色的星际兽人相处的过程里，解锁不一样的相遇故事，见证陪伴与理解，收获真诚的好感，开启一段充满趣味与治愈的星际冒险旅程。"
+    }
+  ],
+  "radar": {
+    "latest_date": "2026-11-05",
+    "fetched_at": "2026-11-05T02:53:01Z",
+    "first_date": "2026-10-13",
+    "history_days": 24,
+    "tracked": 724,
+    "error_count": 0
+  },
+  "needsReview": false,
+  "syncedAt": "2026-11-05T12:12:53.951187+00:00"
+}
