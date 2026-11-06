@@ -77,7 +77,8 @@ def _bust_cache(out: Path, stamp: str) -> None:
 def build_site(config: Config, out: Path, sources: List[str], log: Callable[[str], None] = print) -> Dict[str, Any]:
     if out.exists():
         shutil.rmtree(out)
-    shutil.copytree(config.paths.web, out)
+    # Novel assessments are published separately behind password protection.
+    shutil.copytree(config.paths.web, out, ignore=shutil.ignore_patterns("novel"))
     (out / ".nojekyll").write_text("")
     stamp = utc_stamp()
     _bust_cache(out, stamp)
