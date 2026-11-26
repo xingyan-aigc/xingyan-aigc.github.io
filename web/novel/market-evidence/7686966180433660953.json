@@ -1,0 +1,49 @@
+{
+  "novelId": "7686966180433660953",
+  "novelSourceHash": "4bbddf9a58458a39b0201bf721df805dab8cee18fbc12de8fca7e2d430c0783e",
+  "reviewedFetchedAt": "2026-11-07T20:59:46Z",
+  "reviewedAt": "2026-11-08T08:20:53.164072+00:00",
+  "verdict": "未找到直接对应",
+  "summary": "职业上升与权力不对等构成主要矛盾，不能仅凭都市上下级、冷面男性和暧昧判为热点剧情一致。",
+  "novelEvidence": [
+    {
+      "feature": "转岗成长",
+      "chapters": [
+        3,
+        7,
+        11,
+        17
+      ],
+      "evidence": "经历拒录、考试、拒跑腿和会议辨责。"
+    },
+    {
+      "feature": "拒绝被当资源",
+      "chapters": [
+        15,
+        16,
+        17
+      ],
+      "evidence": "客户试探被拒，导师利用受到公开质疑。"
+    }
+  ],
+  "limits": [
+    "冻结雷达中尚无足够直接剧情证据覆盖该并购成长与权力边界组合。",
+    "榜内观察不代表全市场成功率。"
+  ],
+  "comparables": [],
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.831674+00:00"
+}

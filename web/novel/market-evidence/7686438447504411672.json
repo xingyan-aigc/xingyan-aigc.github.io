@@ -1,0 +1,76 @@
+{
+  "novelId": "7686438447504411672",
+  "novelSourceHash": "688cbf291fe37b167c21c434bb0c3980db08f21acb7230dd06c70d5cf306df34",
+  "reviewedFetchedAt": "2026-11-07T20:59:46Z",
+  "reviewedAt": "2026-11-08T05:54:58.603274+00:00",
+  "verdict": "血族契约有历史近邻，女尊校园多目标养成的直接证据不足",
+  "summary": "同命契可参考如何把好感与身体代价同时落到画面。原著特色是公开分手后转投第二目标与隐藏的定位、血瘾，悬念更多来自控制与反控制。",
+  "novelEvidence": [
+    {
+      "feature": "公开分手反而产生羁绊收益",
+      "chapters": "1",
+      "evidence": "ch1/P4–P5 L69–99"
+    },
+    {
+      "feature": "初拥与追踪手机的交换和代价",
+      "chapters": "9、10",
+      "evidence": "ch9/P2 L746–771；ch10/P4 L868–896"
+    },
+    {
+      "feature": "旧对象见到淤痕",
+      "chapters": "20",
+      "evidence": "ch20/P4 L1828–1839"
+    }
+  ],
+  "limits": [
+    "血族契约作品不同季不能当作独立市场验证；小说边界与知情同意需要单列。",
+    "榜内样本仅作机制参照，无法推断同题材成功率。"
+  ],
+  "comparables": [
+    {
+      "recentRanks": {},
+      "id": "7699080821285587992",
+      "title": "穿书救赎:驱散反派心底的阴影第三季",
+      "match": "超自然契约把靠近、依赖与身体代价绑在一起。",
+      "difference": "对照为同命救赎，主角教少年向善，原著的养成更像互相利用，另有显著的经济和行动控制。 观察期最高名次：漫剧榜第95。",
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 95
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7699080821285587992",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7699080821285587992",
+      "latest": {},
+      "bestRanks": {
+        "comic": 95
+      },
+      "lastPoint": {
+        "heat": 45073753,
+        "fav": 217000,
+        "like": 760000,
+        "rating": 8.9,
+        "rating_count": 3877,
+        "review_count": 1135,
+        "date": "2026-11-09",
+        "ranks": {}
+      },
+      "observedRankedDays": 1,
+      "lastRankedDate": "2026-10-26",
+      "synopsis": "女孩意外穿入血族小说，与半血族少年绑定同命契，必须阻止他献祭，否则两人都会殒命。少年身负禁咒，心生爱慕便会承受剧痛。女孩温柔陪伴，教他向善。孤独的少年深深依赖她，甘愿忍受禁咒折磨也不愿放手。看女孩如何用温暖驱散他心中阴霾，一同破除禁咒，改写两人的悲剧结局！"
+    }
+  ],
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.869855+00:00"
+}

@@ -1,0 +1,74 @@
+{
+  "novelId": "7690542650994347070",
+  "novelSourceHash": "ec53ea41c69e1a36dc5cde9e7e751af4efe7e5205c523700e9e3e0a13a58308d",
+  "reviewedFetchedAt": "2026-11-09T03:57:30Z",
+  "reviewedAt": "2026-11-09T04:42:21.190218+00:00",
+  "verdict": "partial",
+  "summary": "有炮灰身份、系统与被偏爱等泛类型交集；当前冻结雷达没有足以支持鲛人强制追逃核心机制的直接样本。",
+  "novelEvidence": [
+    {
+      "feature": "炮灰系统与关系错位",
+      "chapters": [
+        1,
+        12,
+        19
+      ],
+      "evidence": "女主想照任务离开，男主却持续把行为认作爱；与系统逆袭作品仅共享部分要素。"
+    }
+  ],
+  "limits": [
+    "没有鲛人追逃的直接可比剧，不能凭万人迷标签认定市场验证。",
+    "雷达简介强调自我成长与守住边界，本书人物关系机制不同。",
+    "榜内观察不代表全市场成功率。"
+  ],
+  "comparables": [
+    {
+      "recentRanks": {},
+      "id": "7682645700781296665",
+      "title": "重生！丑小鸭逆袭成了万人迷",
+      "match": "同有炮灰身份、系统介入与关系位置改变。",
+      "difference": "对标是主动重生逆袭与自我成长，本书是任务扮演和鲛人控制追逃，不能作为相同故事验证。",
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 36,
+        "hot": 69
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7682645700781296665",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7682645700781296665",
+      "latest": {},
+      "bestRanks": {
+        "comic": 36,
+        "hot": 69
+      },
+      "lastPoint": {
+        "heat": 47285540,
+        "fav": 5554000,
+        "like": 7924000,
+        "rating": 8.8,
+        "rating_count": 18498,
+        "review_count": 3882,
+        "date": "2026-11-06",
+        "ranks": {}
+      },
+      "observedRankedDays": 11,
+      "lastRankedDate": "2026-10-23",
+      "synopsis": "前世，米珂是万人迷女主宋静伊的炮灰闺蜜。一朝重生，她绑定系统，只要完成任务，就能兑换美貌，挣脱炮灰悲惨命运。米珂行事坦荡，摇身一变，成为津圈的顶级美人。米珂淡然一笑，善良不该只有虚名，这一世，我要为自己活。"
+    }
+  ],
+  "incrementalReview": "data/scoring-runs/novels-9340a6a7132f-all50/market-incremental/7690542650994347070.json",
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.825225+00:00"
+}

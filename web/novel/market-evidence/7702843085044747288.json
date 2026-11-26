@@ -1,0 +1,299 @@
+{
+  "novelId": "7702843085044747288",
+  "novelSourceHash": "f0e5777e2092c41bfd89b5d5124d283840e706f961380c56285b57587be6c33e",
+  "reviewedFetchedAt": "2026-11-07T16:12:22Z",
+  "reviewedAt": "2026-11-07T14:21:30.157736+00:00",
+  "verdict": "失忆后冒认伴侣有漫剧机制近邻；伤害后身体返生并继续控制的完整组合直接证据不足",
+  "summary": "对1060公共目录标题及简介检索病娇、失忆、复活、复生、重生复仇、占有、囚禁、恐怖、诡异、惊悚、前女友，56命中均核。再按近邻标题核续季；保留失忆与身份隐瞒、偏执禁锢和超自然恋爱部件，排除仅恐怖升级与普通重逢，不将副本热度当本书直接支持。",
+  "businessAssumption": "上榜视为盈利仅项目业务假设，未核收入和收益。",
+  "coverage": {
+    "catalogCount": 1060,
+    "searchHits": 56,
+    "method": "全目录标题及meta.synopsis关键词，命中逐条核对；近邻标题再检续季，非固定数量抽样。"
+  },
+  "novelEvidence": [
+    {
+      "feature": "返生失忆后伪造恋人身份、隐藏物证",
+      "chapters": "5—7",
+      "evidence": "ch5/P4—P6 L647—749；ch6/P2 L765—776；ch7/P2 L882—910。"
+    },
+    {
+      "feature": "求证遭筛证与监视干扰",
+      "chapters": "14—19",
+      "evidence": "ch14/P5—P6 L2054—2081；ch17/P2 L2497—2531；ch18/P5 L2818—2840；ch19/P2 L2908—2958。"
+    },
+    {
+      "feature": "控制、施痛与爱情回报并置",
+      "chapters": "20",
+      "evidence": "ch20/P1—P2 L3177—3279；P4 L3335—3365；P6 L3461—3477。"
+    }
+  ],
+  "comparables": [
+    {
+      "recentRanks": {},
+      "id": "7700153195934272574",
+      "match": "失忆男子被谎称为伴侣，真实身份与关系认知形成悬念",
+      "difference": "古装穿书与情蛊控制，最终情蛊可解爱意仍在；非伤害后从女方身体返生。",
+      "level": "漫剧机制近邻",
+      "ipGroup": "帝师娘子",
+      "observedLatest": {
+        "comic": 77
+      },
+      "observedBest": {
+        "comic": 63
+      },
+      "firstRankedDate": "2026-11-03",
+      "lastRankedDate": "2026-11-07",
+      "observedRankedDays": 5,
+      "title": "帝师大人，你认错娘子了",
+      "url": "https://hongguoduanju.com/detail?series_id=7700153195934272574",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7700153195934272574",
+      "latest": {},
+      "bestRanks": {
+        "comic": 63
+      },
+      "lastPoint": {
+        "heat": 44461350,
+        "fav": 1029000,
+        "like": 2096000,
+        "rating": 8.3,
+        "rating_count": 4189,
+        "review_count": 1285,
+        "date": "2026-11-21",
+        "ranks": {}
+      },
+      "synopsis": "穿书成炮灰女配，云想想刚觉醒，就发现自己竟给失忆男子下了情蛊，还骗他说自己是他的娘子。为了摆脱原定的悲惨结局，她断亲、回云家，只想好好过自己的日子。谁知捡回来的男人身份惊人，竟是炎国帝师南望月！更没想到，情蛊可解，可他的爱意却怎么也解不了"
+    },
+    {
+      "recentRanks": {},
+      "id": "7694490520436886552",
+      "match": "借失忆伪造关系身份，把人诱入婚恋",
+      "difference": "女频宠爱及前任追悔结构；不是施害前女友隐瞒死亡复活，且只真人。",
+      "level": "真人部件",
+      "ipGroup": "玫瑰轻颤",
+      "observedLatest": {},
+      "observedBest": {
+        "hot": 42,
+        "real": 5
+      },
+      "firstRankedDate": "2026-10-13",
+      "lastRankedDate": "2026-10-27",
+      "observedRankedDays": 15,
+      "title": "玫瑰轻颤时",
+      "url": "https://hongguoduanju.com/detail?series_id=7694490520436886552",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7694490520436886552",
+      "latest": {},
+      "bestRanks": {
+        "hot": 42,
+        "real": 5
+      },
+      "lastPoint": {
+        "heat": 43867575,
+        "fav": 1026000,
+        "like": 1890000,
+        "rating": 9.0,
+        "rating_count": 13317,
+        "review_count": 1715,
+        "date": "2026-11-10",
+        "ranks": {}
+      },
+      "synopsis": "七年错付，换来订婚宴上渣男为新欢的一巴掌。车祸失忆让棠若人生重启，醒来后多了个宠她上天的哥哥陆星泽。可她不知道，这男人根本不是她哥，而是前任的死对头，更是暗恋她十年的疯批大佬！他借失忆步步为营，化身披着羊皮的狼，半哄半骗将她诱入婚姻领地。当渣男红着眼发疯般追悔求复合时，却绝望发现，曾经满眼是他的女孩，早被宿敌宠成了高高在上的陆太太！十年蓄谋已久撞上迟来的追妻火葬场，极致拉扯就此开局！"
+    },
+    {
+      "recentRanks": {},
+      "id": "7694560624101035070",
+      "match": "强势禁锢、表里身份与双方拉扯",
+      "difference": "女主有筹谋反击并挣脱枷锁；本书男方尚未识破，施痛回报较集中。",
+      "level": "漫剧偏执关系旁证",
+      "ipGroup": "野骨绕指柔",
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 12,
+        "hot": 24
+      },
+      "firstRankedDate": "2026-10-15",
+      "lastRankedDate": "2026-10-23",
+      "observedRankedDays": 9,
+      "title": "野骨也成，绕指柔",
+      "url": "https://hongguoduanju.com/detail?series_id=7694560624101035070",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7694560624101035070",
+      "latest": {},
+      "bestRanks": {
+        "comic": 12,
+        "hot": 24
+      },
+      "lastPoint": {
+        "heat": 46401266,
+        "fav": 1142000,
+        "like": 988000,
+        "rating": 7.9,
+        "rating_count": 2953,
+        "review_count": 708,
+        "date": "2026-10-24",
+        "ranks": {}
+      },
+      "synopsis": "楚眠被楚家当作挡灾工具，扔进恐怖的风岛贫民窟苦苦求生，被厉氏财团掌权人厉天阙带回帝都蔷园。楚眠假意扮演精神病人暗中筹谋。她一边伪装疯癫躲避管控，一边步步反击楚醒与楚正铭，厉天阙早早识破她的伪装，一边被她的倔强吸引，一边强势禁锢。两人拉扯博弈，楚眠挣脱枷锁，而占有欲极强的厉天阙，渐渐再也镇不住这个强悍的女人"
+    },
+    {
+      "recentRanks": {},
+      "id": "7699494516272663577",
+      "match": "占有磨合、男方失忆后再相爱",
+      "difference": "第三季有危机舍身相救和记忆恢复，前两季是帮助受伤女孩；非女方杀伤后隐瞒再控。",
+      "level": "漫剧失忆再爱部件",
+      "ipGroup": "反派拿捏",
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 2,
+        "hot": 3
+      },
+      "firstRankedDate": "2026-10-25",
+      "lastRankedDate": "2026-11-05",
+      "observedRankedDays": 12,
+      "title": "反派拿捏！第三季",
+      "url": "https://hongguoduanju.com/detail?series_id=7699494516272663577",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7699494516272663577",
+      "latest": {},
+      "bestRanks": {
+        "comic": 2,
+        "hot": 3
+      },
+      "lastPoint": {
+        "heat": 46208310,
+        "fav": 1259000,
+        "like": 4586000,
+        "rating": 9.5,
+        "rating_count": 16401,
+        "review_count": 2112,
+        "date": "2026-11-19",
+        "ranks": {}
+      },
+      "synopsis": "祁南与夏柠柒确定恋情后，携手面对豪门施压与占有欲带来的磨合。祁南布局产业园，联合王庆、傅文轩反击李家；夏柠柒在学业与爱情间寻找自我。叶凡绑架夏柠柒，祁南舍命相救，却因爆炸失忆。两人在陪伴中重新相爱，身边的阴谋也逐渐显露。圣诞夜，摩天轮上的对视唤回往昔，祁南告白深吻，为第三季收束。"
+    },
+    {
+      "recentRanks": {},
+      "id": "7690136998509546521",
+      "match": "超自然危险与恋爱攻略结合，女诡进入现实",
+      "difference": "限时求生与系统攻略，非同一恋人身体返生和日常证据调查。",
+      "level": "漫剧超自然恋爱弱旁证",
+      "ipGroup": "女鬼APP",
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 44,
+        "hot": 80
+      },
+      "firstRankedDate": "2026-10-13",
+      "lastRankedDate": "2026-10-17",
+      "observedRankedDays": 5,
+      "title": "攻略诡异：我有一个女鬼催眠APP",
+      "url": "https://hongguoduanju.com/detail?series_id=7690136998509546521",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7690136998509546521",
+      "latest": {},
+      "bestRanks": {
+        "comic": 44,
+        "hot": 80
+      },
+      "lastPoint": {
+        "heat": 46986984,
+        "fav": 2244000,
+        "like": 4165000,
+        "rating": 9.1,
+        "rating_count": 12026,
+        "review_count": 2091,
+        "date": "2026-10-31",
+        "ranks": {}
+      },
+      "synopsis": "宅男秦明无意间下载了神秘催眠APP，被吸入了诡域，要求他必须在30天内攻略女鬼兰兰才能活命，并亲眼目睹女诡真的出现在现实世界，秦明不禁沉默了。为了能够活下去！也就只能攻略女诡了！女诡催眠APP——启动！"
+    }
+  ],
+  "strengths": [
+    "帝师大人，你认错娘子了：冻结日{'comic': 77}，观察期最佳{'comic': 63}，5个在榜日，最近2026-11-07；仅支持所列相似机制。",
+    "玫瑰轻颤时：冻结日{}，观察期最佳{'hot': 42, 'real': 5}，15个在榜日，最近2026-10-27；仅支持所列相似机制。",
+    "野骨也成，绕指柔：冻结日{}，观察期最佳{'comic': 12, 'hot': 24}，9个在榜日，最近2026-10-23；仅支持所列相似机制。",
+    "反派拿捏！第三季：冻结日{}，观察期最佳{'comic': 2, 'hot': 3}，12个在榜日，最近2026-11-05；仅支持所列相似机制。",
+    "攻略诡异：我有一个女鬼催眠APP：冻结日{}，观察期最佳{'comic': 44, 'hot': 80}，5个在榜日，最近2026-10-17；仅支持所列相似机制。"
+  ],
+  "limits": [
+    "目录与榜内轨迹无同期上新分母或收入，不估成功率、不推因果。",
+    "古装情蛊的身份谎言与本书相近，但没有身体返生和伤害获复合，不能直接验证完整组合。",
+    "真人失忆婚恋仅为关系机制旁证，不能替代AI/漫剧收益。",
+    "偏执禁锢样本有挣脱或互相守护方向；本书当前仍持续受骗，且未采追责。",
+    "副本惊悚、无限复活、末世诡异多命中但引擎不同，未纳入直接对照。",
+    "未拉片核镜头、尺度或制作成本；不能以榜位豁免本书导向风险。",
+    "相同IP续季归组不计独立验证。关键词可能漏掉不同表述；仅对本轮冻结公共材料负责。"
+  ],
+  "seriesChecks": [
+    {
+      "id": "7696029520809167897",
+      "title": "野骨也成，绕指柔第四季",
+      "ipGroup": "野骨绕指柔",
+      "countAsIndependent": false,
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 77
+      },
+      "firstRankedDate": "2026-10-16",
+      "lastRankedDate": "2026-10-18",
+      "observedRankedDays": 3
+    },
+    {
+      "id": "7682778663716146200",
+      "title": "反派拿捏！",
+      "ipGroup": "反派拿捏",
+      "countAsIndependent": false,
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 49,
+        "hot": 93
+      },
+      "firstRankedDate": "2026-10-13",
+      "lastRankedDate": "2026-10-25",
+      "observedRankedDays": 13
+    },
+    {
+      "id": "7690412195565276184",
+      "title": "反派拿捏！第二季",
+      "ipGroup": "反派拿捏",
+      "countAsIndependent": false,
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 55
+      },
+      "firstRankedDate": "2026-10-13",
+      "lastRankedDate": "2026-10-21",
+      "observedRankedDays": 8
+    },
+    {
+      "id": "7693826185179974680",
+      "title": "我有一个女鬼催眠APP第二季",
+      "ipGroup": "女鬼APP",
+      "countAsIndependent": false,
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 37,
+        "hot": 70
+      },
+      "firstRankedDate": "2026-10-13",
+      "lastRankedDate": "2026-10-18",
+      "observedRankedDays": 6
+    }
+  ],
+  "adaptationMarketReviewed": true,
+  "adaptationMarketReason": "保留关系辨伪方向可参考身份谎言近邻；需独立解决伤害回报和身体恐怖呈现，市场不加分、不改七维与读者公式。",
+  "frozenReviewedFetchedAt": "2026-11-07T09:28:33Z",
+  "publicationRevalidation": "对照作品标题、简介、最新及最佳名次已核对。",
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.818019+00:00"
+}

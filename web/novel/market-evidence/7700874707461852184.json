@@ -1,0 +1,116 @@
+{
+  "novelId": "7700874707461852184",
+  "novelSourceHash": "70073feef62b5ef0689a8d0265a3636300dcd1635f7eb5f2a87d833215d61a14",
+  "reviewedFetchedAt": "2026-11-09T03:57:30Z",
+  "reviewedAt": "2026-11-09T04:53:06.323874+00:00",
+  "verdict": "partial",
+  "summary": "冻结雷达有万人迷关系和自我边界主题，能够比较多线靠近与女性主体，但本书是无系统日常，不能按万人迷一词直接认作重生逆袭。",
+  "novelEvidence": [
+    {
+      "feature": "多位男性不同方式靠近",
+      "chapters": [
+        5,
+        9,
+        13,
+        19
+      ],
+      "evidence": "主播合作引入竞争，职场对谈延伸私域联系"
+    },
+    {
+      "feature": "朋友与自我生活优先",
+      "chapters": [
+        14,
+        17,
+        20
+      ],
+      "evidence": "珍惜踏实朋友，母女离开不良关系，感情未定"
+    }
+  ],
+  "limits": [
+    "无重生系统变美或恶女洗白机制",
+    "没有校园舞蹈或娱乐圈复仇主线",
+    "榜内观察不代表全市场成功率。"
+  ],
+  "comparables": [
+    {
+      "recentRanks": {},
+      "id": "7699782110483074072",
+      "title": "万人迷的男主们，开始为她失控第二季",
+      "match": "真实简介强调多段复杂关系中守边界、提升自我，本书也有多线接近但不急于确定关系，朋友与母女自主是相关观察点。",
+      "difference": "对照是校园恶女标签与舞蹈成长，本书是工作日常、主播拍摄和利益往来。",
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 15,
+        "hot": 30
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7699782110483074072",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7699782110483074072",
+      "latest": {},
+      "bestRanks": {
+        "comic": 15,
+        "hot": 30
+      },
+      "lastPoint": {
+        "heat": 43718604,
+        "fav": 378000,
+        "like": 1024000,
+        "rating": 8.9,
+        "rating_count": 3298,
+        "review_count": 1166,
+        "date": "2026-11-18",
+        "ranks": {}
+      },
+      "observedRankedDays": 5,
+      "lastRankedDate": "2026-11-04",
+      "synopsis": "沈念禾曾因外界偏见被贴上“恶女”标签。经历人生转折后，她决定撕下定义自己的标签，凭借清醒、勇气与舞蹈才华，在校园与人生选择中不断成长。面对复杂关系，她守住边界、提升自我，终于赢得理解与尊重，也找到真正属于自己的方向。"
+    },
+    {
+      "recentRanks": {},
+      "id": "7690829699181710361",
+      "title": "重生！丑小鸭逆袭成了万人迷第三季",
+      "match": "真实简介中米珂既接受资源又区分边界、拒绝恋爱附庸，可与女方收报酬仍重视朋友和工作比较。",
+      "difference": "对照有重生系统、特工和公开反击，本书没有这些强情节，热度不能直接迁移。",
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 28,
+        "hot": 57
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7690829699181710361",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7690829699181710361",
+      "latest": {},
+      "bestRanks": {
+        "comic": 28,
+        "hot": 57
+      },
+      "lastPoint": {
+        "heat": 47210569,
+        "fav": 2518000,
+        "like": 10429000,
+        "rating": 9.2,
+        "rating_count": 21484,
+        "review_count": 4068,
+        "date": "2026-11-14",
+        "ranks": {}
+      },
+      "observedRankedDays": 19,
+      "lastRankedDate": "2026-10-31",
+      "synopsis": "重生归来，米珂不再是任人拿捏的炮灰闺蜜。包厢遭副导演暗算，她冷静留下证据，等霍言庭送恶人进警局；面对价值百万的杀青礼，她毫不扭捏，全兑成系统魅力连升三级。她用蝶形发饰化钩爪、宝石耳饰破指纹锁，凭特工身手护住外交官；转专业遭举报作弊，她当众要求对卷硬刚。深夜醒酒汤、名义女友戒指接踵而至，她接得住资源，也划得清界限——帮忙挡联姻可以，做恋爱附庸，绝无可能！这一世，她不攀附任何人，努力活得闪闪发光。"
+    }
+  ],
+  "incrementalReview": "data/scoring-runs/novels-9340a6a7132f-all50/market-incremental/7700874707461852184.json",
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.860553+00:00"
+}

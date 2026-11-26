@@ -1,0 +1,47 @@
+{
+  "novelId": "7695013831324847128",
+  "novelSourceHash": "be696661bb556863cf2fc0876ddff833153398db8d9745dd17c1cef01869d89f",
+  "reviewedFetchedAt": "2026-11-08T13:30:09Z",
+  "reviewedAt": "2026-11-08T14:58:26.522496+00:00",
+  "verdict": "未找到直接对标",
+  "summary": "婚约退出、工作攒钱和身份倒计时构成组合；豪门或真假千金标签本身不足以建立具体剧情对标。",
+  "novelEvidence": [
+    {
+      "feature": "退婚和自立",
+      "chapters": [
+        9,
+        13,
+        16
+      ],
+      "evidence": "争取退婚节点，通过工作筹钱并获得实际奖金"
+    },
+    {
+      "feature": "身份暴露倒计时",
+      "chapters": [
+        16,
+        20
+      ],
+      "evidence": "旧疤引出编号并被追查"
+    }
+  ],
+  "limits": [
+    "样本范围内尚无正式退婚或身份揭晓。",
+    "榜内观察不代表全市场成功率。"
+  ],
+  "comparables": [],
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.811594+00:00"
+}

@@ -1,0 +1,48 @@
+{
+  "novelId": "7696796269725715518",
+  "novelSourceHash": "ba15aaa104e9c1ba0d99d5837b7831813588cf46d509903af77dd9fb7d1d6eaa",
+  "reviewedFetchedAt": "2026-11-08T13:30:09Z",
+  "reviewedAt": "2026-11-08T15:08:40.749459+00:00",
+  "verdict": "未找到直接匹配",
+  "summary": "雷达有艺人翻身与娱乐圈情感剧，未发现现有简介同时包含幕后导演主导制作、收视续命和发行赢股份的机制。",
+  "novelEvidence": [
+    {
+      "feature": "职业指标与续命",
+      "chapters": [
+        1,
+        7,
+        14
+      ],
+      "evidence": "影视评分过线续命，真实宣发有额外奖励，股份按成绩兑现"
+    },
+    {
+      "feature": "导演创业",
+      "chapters": [
+        2,
+        17,
+        19
+      ],
+      "evidence": "创作和经营分工，女主主持试镜及现场调度"
+    }
+  ],
+  "limits": [
+    "娱乐圈背景不足以证明制作创业机制相近。",
+    "榜内观察不代表全市场成功率。"
+  ],
+  "comparables": [],
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.826509+00:00"
+}

@@ -1,0 +1,125 @@
+{
+  "novelId": "7699258750368074776",
+  "novelSourceHash": "445745ac18f3e223fa4eb5059ed4cc2145239eae95e5929878bf5ecfa67eed8c",
+  "reviewedFetchedAt": "2026-11-09T03:57:30Z",
+  "reviewedAt": "2026-11-09T04:42:21.163503+00:00",
+  "verdict": "神怪求生有旁证，壁画天狐与大唐组合直接支持有限",
+  "summary": "冻结目录检索神怪、诡异、求生和升级作品，存在诡域求生与能力试验受众。最接近的灰雾斩诡样本近期榜位退出，另一规则挑战样本仍在榜且热度收藏增长；不能据此认定古代天狐求生组合正在升温。",
+  "novelEvidence": [
+    {
+      "feature": "壁画本体规则求生",
+      "chapters": [
+        3,
+        6,
+        8
+      ],
+      "evidence": "墙体污染、断尾和借天光改变战术。"
+    },
+    {
+      "feature": "救助带来共同代价",
+      "chapters": [
+        18,
+        19,
+        20
+      ],
+      "evidence": "护持段成式后引怪，双方耗力协防。"
+    }
+  ],
+  "limits": [
+    "未找到已核的壁画天狐与大唐死城直接可比剧。",
+    "对照限雷达简介、标签和轨迹，未逐集观看。",
+    "榜内观察不代表全市场成功率。"
+  ],
+  "comparables": [
+    {
+      "recentRanks": {},
+      "id": "7698627102320364569",
+      "title": "末日手艺人斩诡强化万物",
+      "match": "灰雾诡异环境、穿越者靠特殊能力斩诡求生相近",
+      "difference": "对照核心是制造强化，本书是墙画本体和正气修行；11月8日已不在榜，热度较昨日下降。",
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 86
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7698627102320364569",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7698627102320364569",
+      "latest": {},
+      "bestRanks": {
+        "comic": 86
+      },
+      "lastPoint": {
+        "heat": 44326688,
+        "fav": 374000,
+        "like": 971000,
+        "rating": 7.2,
+        "rating_count": 1441,
+        "review_count": 375,
+        "date": "2026-11-15",
+        "ranks": {}
+      },
+      "observedRankedDays": 4,
+      "lastRankedDate": "2026-11-01",
+      "synopsis": "我叫顾满，穿来的。睁眼就是灰雾遮天、诡异遍地。唯一的好消息，我能强化万物。咱主打的是硬核制造，东西全靠搓。手艺人的我在研发新武器。末日求生必须懂得物尽其用。老铁们，跟我学好这门手艺。以后不管流落荒岛还是穿越废土，全都用得上。"
+    },
+    {
+      "recentRanks": {},
+      "id": "7703063103029644350",
+      "title": "诡异入侵，当值者异闻录",
+      "match": "诡域中观察规则、运用智慧求生的期待相近",
+      "difference": "对照是都市打工女孩规则挑战，本书是古代神怪与异类修行；不能把跨题材共同求生当直接同款。",
+      "observedLatest": {
+        "hot": 56,
+        "comic": 31
+      },
+      "observedBest": {
+        "comic": 31,
+        "hot": 56
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7703063103029644350",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7703063103029644350",
+      "latest": {
+        "ranks": {},
+        "deltas": {},
+        "d_heat": -73376,
+        "d_fav": 12000,
+        "r_heat": -0.0016,
+        "age_days": 24,
+        "is_new": false,
+        "kind": "comic"
+      },
+      "bestRanks": {
+        "comic": 28,
+        "hot": 55
+      },
+      "lastPoint": {
+        "heat": 45852375,
+        "fav": 1043000,
+        "like": 2267000,
+        "rating": 8.6,
+        "rating_count": 5006,
+        "review_count": 1607,
+        "date": "2026-11-25",
+        "ranks": {}
+      },
+      "observedRankedDays": 9,
+      "lastRankedDate": "2026-11-14",
+      "synopsis": "普通的打工女孩柔嘉在兼职途中意外开启了一场奇妙的规则挑战，面对令人头疼的古怪要求和各种考验，她总能凭借乐观的本性和灵活的头脑巧妙过关，柔嘉用她阳光般的心态感染着周围，在努力适应规则的过程中展现了非凡的智慧，最终顺利通关拿到了丰厚奖励，用自己的双手创造了充满正能量的精彩未来。"
+    }
+  ],
+  "incrementalReview": "data/scoring-runs/novels-9340a6a7132f-all50/market-incremental/7699258750368074776.json",
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.867137+00:00"
+}

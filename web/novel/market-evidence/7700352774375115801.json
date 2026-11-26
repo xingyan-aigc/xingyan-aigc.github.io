@@ -1,0 +1,345 @@
+{
+  "novelId": "7700352774375115801",
+  "novelSourceHash": "851bdc15a51292548fa4d40e57b2cf49d6ef77032b6041d7d5c62290115675ef",
+  "reviewedFetchedAt": "2026-11-07T16:12:22Z",
+  "reviewedAt": "2026-11-07T15:32:37.335409+00:00",
+  "verdict": "偏执表里反差与富豪追爱存在漫剧机制近邻；异国双财阀、短期考察及职业自主组合直接证据不足",
+  "summary": "全冻结1060目录标题与详情简介14词检索52命中逐条核对；按选中四独立IP追同名续季。豪门、服装、财阀标签不自动算直接支持，设计师复仇与创业、萌宝家族线不混入。",
+  "businessAssumption": "上榜视为盈利仅项目业务假设，未核成本营收。",
+  "coverage": {
+    "catalogCount": 1060,
+    "searchHits": 52,
+    "searchRecord": "market-search-eighth.json",
+    "observationStart": "2026-10-13",
+    "observationEnd": "2026-11-07",
+    "method": "全目录关键词检索及全部命中简介核读，同IP季数归组"
+  },
+  "novelEvidence": [
+    {
+      "feature": "表层温柔、内里排他与信息差",
+      "chapters": "1、4、14、18",
+      "evidence": "ch1/P4 L43—50；ch4/P3 L224—230；ch14/P1 L861—872；ch18/P3 L1126—1133"
+    },
+    {
+      "feature": "女方保留并执行选择，事业自主未兑现",
+      "chapters": "6、17、19",
+      "evidence": "ch6/P2 L355—364；ch17/P5 L1083—1093；ch19/P1—P2 L1159—1191"
+    },
+    {
+      "feature": "睡中性化接触与清醒互动须分别评估",
+      "chapters": "20",
+      "evidence": "ch20/P1 L1216—1226对照P5 L1265—1279"
+    }
+  ],
+  "comparables": [
+    {
+      "recentRanks": {
+        "ai": {
+          "best": 39,
+          "days": 7
+        }
+      },
+      "id": "7703109492040272921",
+      "title": "婚后娇养，偏执大佬的掌心宠",
+      "ipGroup": "婚后娇养，偏执大佬的掌心宠",
+      "match": "温润表面、偏执内里与极致宠爱并置。",
+      "difference": "穿书冒领恩情、求生跑路为核心，本书女方主动追求且自带财阀保障。",
+      "observedLatest": {
+        "hot": 87,
+        "comic": 46
+      },
+      "observedBest": {
+        "comic": 46,
+        "hot": 87
+      },
+      "firstRankedDate": "2026-11-06",
+      "lastRankedDate": "2026-11-25",
+      "observedRankedDays": 20,
+      "url": "https://hongguoduanju.com/detail?series_id=7703109492040272921",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7703109492040272921",
+      "latest": {
+        "ranks": {
+          "hot": 89,
+          "ai": 45
+        },
+        "deltas": {
+          "hot": -3,
+          "ai": 0
+        },
+        "d_heat": -64883,
+        "d_fav": 47000,
+        "r_heat": -0.0012,
+        "age_days": 24,
+        "is_new": false,
+        "kind": "ai"
+      },
+      "bestRanks": {
+        "comic": 25,
+        "hot": 27,
+        "ai": 11
+      },
+      "lastPoint": {
+        "heat": 52903460,
+        "fav": 2317000,
+        "like": 2890000,
+        "rating": 9.0,
+        "rating_count": 8964,
+        "review_count": 2099,
+        "date": "2026-11-25",
+        "ranks": {
+          "ai": 45,
+          "hot": 89
+        }
+      },
+      "synopsis": "阮玉真一朝穿书，成了冒领男主救命之恩的恶毒女配，按原书结局，她迟早要被男主清算。为求活命，她决定洗心革面、装乖卖怂，伺机跑路。可表面温润、实则偏执的贺珣将她步步紧逼、宠到极致，让她每次跑路都功亏一篑。谎言终有败露的一天，究竟是困局，还是真心救赎？"
+    },
+    {
+      "recentRanks": {},
+      "id": "7694560624101035070",
+      "title": "野骨也成，绕指柔",
+      "ipGroup": "野骨也成，绕指柔",
+      "match": "财团掌权者占有与女方应对形成关系拉扯。",
+      "difference": "女方有生存复仇与摆脱管控的强外部目标，本书缺同等反制与代价。",
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 12,
+        "hot": 24
+      },
+      "firstRankedDate": "2026-10-15",
+      "lastRankedDate": "2026-10-23",
+      "observedRankedDays": 9,
+      "url": "https://hongguoduanju.com/detail?series_id=7694560624101035070",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7694560624101035070",
+      "latest": {},
+      "bestRanks": {
+        "comic": 12,
+        "hot": 24
+      },
+      "lastPoint": {
+        "heat": 46401266,
+        "fav": 1142000,
+        "like": 988000,
+        "rating": 7.9,
+        "rating_count": 2953,
+        "review_count": 708,
+        "date": "2026-10-24",
+        "ranks": {}
+      },
+      "synopsis": "楚眠被楚家当作挡灾工具，扔进恐怖的风岛贫民窟苦苦求生，被厉氏财团掌权人厉天阙带回帝都蔷园。楚眠假意扮演精神病人暗中筹谋。她一边伪装疯癫躲避管控，一边步步反击楚醒与楚正铭，厉天阙早早识破她的伪装，一边被她的倔强吸引，一边强势禁锢。两人拉扯博弈，楚眠挣脱枷锁，而占有欲极强的厉天阙，渐渐再也镇不住这个强悍的女人"
+    },
+    {
+      "recentRanks": {},
+      "id": "7693823855940357144",
+      "title": "京夜诱温",
+      "ipGroup": "京夜诱温",
+      "match": "醉遇后男方隐藏信息、步步靠近。",
+      "difference": "医生邻居与预谋相遇，本书初遇监控证意外，不能套用全程设局。",
+      "observedLatest": {
+        "real": 37
+      },
+      "observedBest": {
+        "hot": 7,
+        "real": 1
+      },
+      "firstRankedDate": "2026-10-13",
+      "lastRankedDate": "2026-11-15",
+      "observedRankedDays": 34,
+      "url": "https://hongguoduanju.com/detail?series_id=7693823855940357144",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7693823855940357144",
+      "latest": {
+        "ranks": {},
+        "deltas": {},
+        "d_heat": -18005,
+        "d_fav": 6000,
+        "r_heat": -0.0004,
+        "age_days": 46,
+        "is_new": false,
+        "kind": "real"
+      },
+      "bestRanks": {
+        "hot": 7,
+        "real": 1
+      },
+      "lastPoint": {
+        "heat": 44174153,
+        "fav": 1953000,
+        "like": 3141000,
+        "rating": 9.1,
+        "rating_count": 16102,
+        "review_count": 2098,
+        "date": "2026-11-25",
+        "ranks": {}
+      },
+      "synopsis": "京台女记者温稚醉酒赴闺蜜安排的相亲，意外和陌生男人产生交集，醒来却不知对方身份。再次碰面，对方既是她的新邻居，也是她要采访的医生贺宴今。贺宴今隐藏起自己是闺蜜口中难相处弟弟的真相，以邻居身份步步靠近。直到温稚慢慢发现，所有不期而遇，全是他蓄谋已久的相遇。"
+    },
+    {
+      "recentRanks": {},
+      "id": "7702724487975799832",
+      "title": "一江春水",
+      "ipGroup": "一江春水",
+      "match": "母胎单身女大学生主动与总裁交往、男方蓄意靠近。",
+      "difference": "多年暗恋而非本书一见后数日追求，未证明异国财阀组合。",
+      "observedLatest": {
+        "hot": 26,
+        "real": 3
+      },
+      "observedBest": {
+        "hot": 18,
+        "real": 3
+      },
+      "firstRankedDate": "2026-11-06",
+      "lastRankedDate": "2026-11-24",
+      "observedRankedDays": 19,
+      "url": "https://hongguoduanju.com/detail?series_id=7702724487975799832",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7702724487975799832",
+      "latest": {
+        "ranks": {},
+        "deltas": {},
+        "d_heat": -164940,
+        "d_fav": 7000,
+        "r_heat": -0.0036,
+        "age_days": 20,
+        "is_new": false,
+        "kind": "real"
+      },
+      "bestRanks": {
+        "hot": 18,
+        "real": 3
+      },
+      "lastPoint": {
+        "heat": 45542186,
+        "fav": 1141000,
+        "like": 2334000,
+        "rating": 9.2,
+        "rating_count": 16385,
+        "review_count": 3267,
+        "date": "2026-11-25",
+        "ranks": {}
+      },
+      "synopsis": "京大学生母胎solo少女江春水，满心憧憬谈一场浪漫恋爱。在校友讲座现场，她一腔莽撞，当众向优秀校友、颂成科技总裁宋明清大胆表白。出乎所有人意料，宋明清竟应允了这段关系。江春水抱着先谈后爱心态踏入恋情，可慢慢发觉，这场看似由她主动开启的爱恋，早已藏着宋明清绵延多年、蓄谋已久暗恋。懵懂直球少女遇上隐忍深情总裁，在一来一回的暧昧试探与心动拉扯里，两颗心慢慢向彼此靠拢。"
+    }
+  ],
+  "seriesChecks": [
+    {
+      "group": "婚后娇养，偏执大佬的掌心宠",
+      "records": [
+        {
+          "id": "7703109492040272921",
+          "title": "婚后娇养，偏执大佬的掌心宠",
+          "synopsis": "阮玉真一朝穿书，成了冒领男主救命之恩的恶毒女配，按原书结局，她迟早要被男主清算。为求活命，她决定洗心革面、装乖卖怂，伺机跑路。可表面温润、实则偏执的贺珣将她步步紧逼、宠到极致，让她每次跑路都功亏一篑。谎言终有败露的一天，究竟是困局，还是真心救赎？",
+          "latest": {
+            "hot": 87,
+            "comic": 46
+          },
+          "best": {
+            "comic": 46,
+            "hot": 87
+          },
+          "rankedDays": 2,
+          "lastRankedDate": "2026-11-07"
+        }
+      ],
+      "independentIpCount": 1
+    },
+    {
+      "group": "野骨也成，绕指柔",
+      "records": [
+        {
+          "id": "7696029520809167897",
+          "title": "野骨也成，绕指柔第四季",
+          "synopsis": "弃婴楚眠被楚家养大，却被当作亲生女儿楚醒的挡灾工具，扔进法外孤岛风岛求生。权势滔天的厉天阙将她带回蔷园，偏执破碎的厉天阙，在交锋中看穿她的伪装，被她的坚韧锋芒吸引。两个满身伤痕的强者彼此拉扯试探，一边向仇人清算过往，一边互相治愈救赎，野骨历经磨难，终化为绕指柔情。",
+          "latest": {},
+          "best": {
+            "comic": 77
+          },
+          "rankedDays": 3,
+          "lastRankedDate": "2026-10-18"
+        },
+        {
+          "id": "7694560624101035070",
+          "title": "野骨也成，绕指柔",
+          "synopsis": "楚眠被楚家当作挡灾工具，扔进恐怖的风岛贫民窟苦苦求生，被厉氏财团掌权人厉天阙带回帝都蔷园。楚眠假意扮演精神病人暗中筹谋。她一边伪装疯癫躲避管控，一边步步反击楚醒与楚正铭，厉天阙早早识破她的伪装，一边被她的倔强吸引，一边强势禁锢。两人拉扯博弈，楚眠挣脱枷锁，而占有欲极强的厉天阙，渐渐再也镇不住这个强悍的女人",
+          "latest": {},
+          "best": {
+            "comic": 12,
+            "hot": 24
+          },
+          "rankedDays": 9,
+          "lastRankedDate": "2026-10-23"
+        }
+      ],
+      "independentIpCount": 1
+    },
+    {
+      "group": "京夜诱温",
+      "records": [
+        {
+          "id": "7693823855940357144",
+          "title": "京夜诱温",
+          "synopsis": "京台女记者温稚醉酒赴闺蜜安排的相亲，意外和陌生男人产生交集，醒来却不知对方身份。再次碰面，对方既是她的新邻居，也是她要采访的医生贺宴今。贺宴今隐藏起自己是闺蜜口中难相处弟弟的真相，以邻居身份步步靠近。直到温稚慢慢发现，所有不期而遇，全是他蓄谋已久的相遇。",
+          "latest": {
+            "real": 37
+          },
+          "best": {
+            "hot": 7,
+            "real": 1
+          },
+          "rankedDays": 26,
+          "lastRankedDate": "2026-11-07"
+        }
+      ],
+      "independentIpCount": 1
+    },
+    {
+      "group": "一江春水",
+      "records": [
+        {
+          "id": "7702724487975799832",
+          "title": "一江春水",
+          "synopsis": "京大学生母胎solo少女江春水，满心憧憬谈一场浪漫恋爱。在校友讲座现场，她一腔莽撞，当众向优秀校友、颂成科技总裁宋明清大胆表白。出乎所有人意料，宋明清竟应允了这段关系。江春水抱着先谈后爱心态踏入恋情，可慢慢发觉，这场看似由她主动开启的爱恋，早已藏着宋明清绵延多年、蓄谋已久暗恋。懵懂直球少女遇上隐忍深情总裁，在一来一回的暧昧试探与心动拉扯里，两颗心慢慢向彼此靠拢。",
+          "latest": {
+            "hot": 26,
+            "real": 3
+          },
+          "best": {
+            "hot": 18,
+            "real": 3
+          },
+          "rankedDays": 2,
+          "lastRankedDate": "2026-11-07"
+        }
+      ],
+      "independentIpCount": 1
+    }
+  ],
+  "strengths": [
+    "相近表里反差宠爱有漫剧上榜记录，具体当前与观察期轨迹见comparables/seriesChecks；同IP各季只计一个独立证据。"
+  ],
+  "limits": [
+    "观察期2026-10-13至2026-11-07，非全市场且缺同期上新分母，无营收及因果证据。",
+    "本书女方富裕、自愿关系进度为主，与求生逃离/复仇女主差异明显，不能据偏执标签推出同组合强支持。",
+    "只核目录简介与榜位，未拉片，不验证镜头质量或内容尺度。",
+    "同名续季保守归组，异名同IP无法自动合并；关键词可能漏检。",
+    "市场不能抵消已采正文睡中接触问题，不改变综合分。",
+    "京夜诱温、一江春水仅真人旁证，不将真人榜位计作AI/漫剧直接验证。"
+  ],
+  "adaptationMarketReviewed": true,
+  "adaptationMarketReason": "相似机制保留参考，完整异国双财阀组合直接依据不足；市场独立不加分。",
+  "frozenReviewedFetchedAt": "2026-11-07T09:28:33Z",
+  "publicationRevalidation": "对照作品标题、简介、最新及最佳名次已核对。",
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.833757+00:00"
+}

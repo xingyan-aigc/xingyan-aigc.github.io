@@ -1,0 +1,140 @@
+{
+  "novelId": "7691313196905221182",
+  "novelSourceHash": "812ff2455240985e710bd0449fa15792a86737139aa17def41bec7a6a01f1217",
+  "reviewedFetchedAt": "2026-11-09T03:57:30Z",
+  "reviewedAt": "2026-11-09T04:42:21.175993+00:00",
+  "verdict": "求生升级有旁证，领主指数暴兵直接市场证据不足",
+  "summary": "冻结目录中检索领主、兵种、亡灵、骷髅未取得直接可比作品，公路求生和诡域系统升级可提供生存竞争与能力压制的外围旁证。它们不能证明每日复制亡灵军团的具体组合已有近期热度。",
+  "novelEvidence": [
+    {
+      "feature": "零点成长与基地建设",
+      "chapters": [
+        3,
+        7,
+        20
+      ],
+      "evidence": "复制兵种提升生存能力并进入大考。"
+    },
+    {
+      "feature": "求生竞争与资源交易",
+      "chapters": [
+        5,
+        14,
+        20
+      ],
+      "evidence": "频道交易、悬赏和庇护资源构成竞争。"
+    }
+  ],
+  "limits": [
+    "雷达目录无直接兵种翻倍领主样本，题材信号较弱。",
+    "对照只据简介与榜位轨迹，未逐集观看。",
+    "榜内观察不代表全市场成功率。"
+  ],
+  "comparables": [
+    {
+      "recentRanks": {
+        "comic": {
+          "best": 20,
+          "days": 7
+        }
+      },
+      "id": "7691938290202577944",
+      "title": "公路求生榜一说他要走到公路尽头",
+      "match": "危险世界资源争夺、系统频道与个人变强相近",
+      "difference": "对照为公路重生求生，不是领主基地与兵种复制；共同爽感不能当直接同款。",
+      "observedLatest": {
+        "comic": 71
+      },
+      "observedBest": {
+        "comic": 3,
+        "hot": 7
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7691938290202577944",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7691938290202577944",
+      "latest": {
+        "ranks": {
+          "hot": 49,
+          "comic": 20
+        },
+        "deltas": {
+          "hot": 3,
+          "comic": 0
+        },
+        "d_heat": 453917,
+        "d_fav": 75000,
+        "r_heat": 0.0084,
+        "age_days": 51,
+        "is_new": false,
+        "kind": "comic"
+      },
+      "bestRanks": {
+        "comic": 3,
+        "hot": 7
+      },
+      "lastPoint": {
+        "heat": 54420000,
+        "fav": 3799000,
+        "like": 6412000,
+        "rating": null,
+        "rating_count": null,
+        "review_count": null,
+        "date": "2026-11-25",
+        "ranks": {
+          "comic": 20,
+          "hot": 49
+        }
+      },
+      "observedRankedDays": 44,
+      "lastRankedDate": "2026-11-25",
+      "synopsis": "末路求生世界正在降临，倒计时5，4，3，2，1这里是强者的天堂，弱者的地狱，上辈子苟活八年终成炮灰，这一世他不再低调。抢物资、选三轮车、一刀秒杀嚣张保安，更拿下全区首杀，响彻频道，这一次，他要走到最后！"
+    },
+    {
+      "recentRanks": {},
+      "id": "7694959546460015641",
+      "title": "让你当保安，没让你镇压SSS级诡异",
+      "match": "系统获取超常战力并压制诡异敌人相近",
+      "difference": "对照都市保安与赚钱强化，本书亡灵军团经营，最新无榜位，历史高位不能当当前升温。",
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 6,
+        "hot": 15
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7694959546460015641",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7694959546460015641",
+      "latest": {},
+      "bestRanks": {
+        "comic": 6,
+        "hot": 15
+      },
+      "lastPoint": {
+        "heat": 45569631,
+        "fav": 1456000,
+        "like": 3296000,
+        "rating": 6.1,
+        "rating_count": 3621,
+        "review_count": 708,
+        "date": "2026-11-13",
+        "ranks": {}
+      },
+      "observedRankedDays": 17,
+      "lastRankedDate": "2026-10-30",
+      "synopsis": "全球诡异降临，吊车尾学生姚远毕业后绑定系统，成为汤臣壹品保安，只要赚钱就能变强。他的小区内竟住满了SSS级诡异，对他敬畏有加。姚远凭借绝对实力，一边敲诈勒索镇诡局，一边强行收缴各路诡异为业主。从镇诡局高层到樱花国御诡者，乃至漂亮国的SSSS级诡异与诡异之神，皆被他视为“提款机”和升级养料。最终，他一己之力打破天地规则，成为凌驾于众神之上的真正主宰。"
+    }
+  ],
+  "incrementalReview": "data/scoring-runs/novels-9340a6a7132f-all50/market-incremental/7691313196905221182.json",
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.793570+00:00"
+}

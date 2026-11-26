@@ -1,0 +1,114 @@
+{
+  "novelId": "7695665768558873662",
+  "novelSourceHash": "f84c24e7bc2ca00015b2bb1a75c8b21c9b9ab0a7b339d536c9f2989d7e6512cd",
+  "reviewedFetchedAt": "2026-11-09T03:57:30Z",
+  "reviewedAt": "2026-11-09T04:42:21.177406+00:00",
+  "verdict": "系统万人迷有局部对照，强控制玩法未获验证",
+  "summary": "雷达的系统改命、校园多人关注和女性自主有可比作品。匹配的是炮灰借系统改变命运及关系竞争，不能把强迫性化或权贵监控当作已验证热点。",
+  "novelEvidence": [
+    {
+      "feature": "炮灰任务者主动反击",
+      "chapters": [
+        4,
+        5,
+        20
+      ],
+      "evidence": "手机质询救人、扇耳光逃离"
+    },
+    {
+      "feature": "系统与多人关注",
+      "chapters": [
+        2,
+        13,
+        17
+      ],
+      "evidence": "关注与爱意双数值，多条攻略线"
+    }
+  ],
+  "limits": [
+    "对照以雷达官方简介为限，没有逐集核验或转化数据；同IP续季合并看待。",
+    "榜内观察不代表全市场成功率。"
+  ],
+  "comparables": [
+    {
+      "recentRanks": {},
+      "id": "7690829699181710361",
+      "title": "重生！丑小鸭逆袭成了万人迷第三季",
+      "match": "系统炮灰逆袭、校园与明确边界的女性主动性相近",
+      "difference": "米珂以事业和证据反击并设边界，本书仍处依附与强制接触中",
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 28,
+        "hot": 57
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7690829699181710361",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7690829699181710361",
+      "latest": {},
+      "bestRanks": {
+        "comic": 28,
+        "hot": 57
+      },
+      "lastPoint": {
+        "heat": 47210569,
+        "fav": 2518000,
+        "like": 10429000,
+        "rating": 9.2,
+        "rating_count": 21484,
+        "review_count": 4068,
+        "date": "2026-11-14",
+        "ranks": {}
+      },
+      "observedRankedDays": 19,
+      "lastRankedDate": "2026-10-31",
+      "synopsis": "重生归来，米珂不再是任人拿捏的炮灰闺蜜。包厢遭副导演暗算，她冷静留下证据，等霍言庭送恶人进警局；面对价值百万的杀青礼，她毫不扭捏，全兑成系统魅力连升三级。她用蝶形发饰化钩爪、宝石耳饰破指纹锁，凭特工身手护住外交官；转专业遭举报作弊，她当众要求对卷硬刚。深夜醒酒汤、名义女友戒指接踵而至，她接得住资源，也划得清界限——帮忙挡联姻可以，做恋爱附庸，绝无可能！这一世，她不攀附任何人，努力活得闪闪发光。"
+    },
+    {
+      "recentRanks": {},
+      "id": "7699782110483074072",
+      "title": "万人迷的男主们，开始为她失控第二季",
+      "match": "校园复杂关系、恶女标签与自我成长有受众交集",
+      "difference": "对照简介强调才华边界与尊重，本书核心是吸气运的双向欺骗与控制",
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 15,
+        "hot": 30
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7699782110483074072",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7699782110483074072",
+      "latest": {},
+      "bestRanks": {
+        "comic": 15,
+        "hot": 30
+      },
+      "lastPoint": {
+        "heat": 43718604,
+        "fav": 378000,
+        "like": 1024000,
+        "rating": 8.9,
+        "rating_count": 3298,
+        "review_count": 1166,
+        "date": "2026-11-18",
+        "ranks": {}
+      },
+      "observedRankedDays": 5,
+      "lastRankedDate": "2026-11-04",
+      "synopsis": "沈念禾曾因外界偏见被贴上“恶女”标签。经历人生转折后，她决定撕下定义自己的标签，凭借清醒、勇气与舞蹈才华，在校园与人生选择中不断成长。面对复杂关系，她守住边界、提升自我，终于赢得理解与尊重，也找到真正属于自己的方向。"
+    }
+  ],
+  "incrementalReview": "data/scoring-runs/novels-9340a6a7132f-all50/market-incremental/7695665768558873662.json",
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.821528+00:00"
+}

@@ -1,0 +1,132 @@
+{
+  "novelId": "7693602705957751833",
+  "novelSourceHash": "0434dc0f133d83a7c6c4ba54c55f6cdaab063467bbb08f24956a3d33bfc0e875",
+  "reviewedFetchedAt": "2026-11-09T03:57:30Z",
+  "reviewedAt": "2026-11-09T04:42:21.180376+00:00",
+  "verdict": "身份错位与穿越成长有旁证，直接题材匹配不足",
+  "summary": "冻结雷达可见穿入不合适身份后改命、穿越后能力成长的样本，但未找到足够女魂男身侯爷适应社会的直接对照。可把身份选择与女性互助作为开发看点，不能宣称本书题材已有强热度验证。",
+  "novelEvidence": [
+    {
+      "feature": "异位身份下改命",
+      "chapters": [
+        1,
+        2,
+        11,
+        20
+      ],
+      "evidence": "非自愿身份改变，催婚与通房困局，最后自定新身份。"
+    },
+    {
+      "feature": "成长保人",
+      "chapters": [
+        5,
+        13,
+        14
+      ],
+      "evidence": "以能力履职，救被名节舆论伤害的赵令书。"
+    }
+  ],
+  "limits": [
+    "旁证类型跨度大，不以穿越标签认定直接匹配。",
+    "只观察榜内作品，未统计同题材失败样本或全市场分母。",
+    "榜内观察不代表全市场成功率。"
+  ],
+  "comparables": [
+    {
+      "recentRanks": {},
+      "id": "7680187265020070937",
+      "title": "反派亲妈：反派漂亮亲妈十斤反骨",
+      "match": "穿成带既定坏命运的人物后，以自主行动重建生活，角色身份与内心有反差。",
+      "difference": "母亲养崽身份与女魂男将军完全不同，缺催婚政治压力直接验证。",
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 90
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7680187265020070937",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7680187265020070937",
+      "latest": {},
+      "bestRanks": {
+        "comic": 90
+      },
+      "lastPoint": {
+        "heat": 46011142,
+        "fav": 6529000,
+        "like": 13139000,
+        "rating": 9.0,
+        "rating_count": 20978,
+        "review_count": 3490,
+        "date": "2026-10-27",
+        "ranks": {}
+      },
+      "observedRankedDays": 1,
+      "lastRankedDate": "2026-10-13",
+      "synopsis": "穿成反派亲妈？还是刚把五岁儿子丢了的缺德版！苏缈人都麻了，家里穷得只剩泡面袋，这娃未来还要黑化囚禁亲妈？为了活命，她一路搞钱养崽——可谁能告诉她，为什么她这个当妈的被五岁儿子管得死死的？！不许抽烟、不许吃炸鸡，小大人冷着脸说教的样子，又奶又爷！"
+    },
+    {
+      "recentRanks": {
+        "comic": {
+          "best": 59,
+          "days": 3
+        }
+      },
+      "id": "7668904735717477400",
+      "title": "谁让这个文盲修仙的",
+      "match": "穿越者因特殊条件改变常规能力用法，并从被误判进入更大势力。",
+      "difference": "修仙误读成长喜剧不涉及将门婚姻和女魂男身。",
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 61
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7668904735717477400",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7668904735717477400",
+      "latest": {
+        "ranks": {
+          "comic": 59
+        },
+        "deltas": {
+          "comic": 15
+        },
+        "d_heat": 564655,
+        "d_fav": 59000,
+        "r_heat": 0.0115,
+        "age_days": 113,
+        "is_new": false,
+        "kind": "comic"
+      },
+      "bestRanks": {
+        "comic": 59
+      },
+      "lastPoint": {
+        "heat": 49647602,
+        "fav": 6522000,
+        "like": 12134000,
+        "rating": 9.2,
+        "rating_count": 31951,
+        "review_count": 7040,
+        "date": "2026-11-25",
+        "ranks": {
+          "comic": 59
+        }
+      },
+      "observedRankedDays": 16,
+      "lastRankedDate": "2026-11-25",
+      "synopsis": "穿越者陈极流落玄天大陆，因目不识丁，以三枚包子换来《浩然正气诀》，看图逆修功法，正道浩然气转为魔气，遭到浩然宗追杀。逃亡时巧遇隐世的浩然老祖，得令牌与化龙\u0000\u0000功法。他持令牌入宗门被尊为圣子，图解自创掌法战胜首席剑修林琅天，揭穿洛青阴谋。二人携手参与苍山大比，与众天骄交锋，秘境合力迎战强敌，夺得通天建木树心，最终五人一同踏入青铜石门，奔赴上苍之上寻求机缘。"
+    }
+  ],
+  "incrementalReview": "data/scoring-runs/novels-9340a6a7132f-all50/market-incremental/7693602705957751833.json",
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.871542+00:00"
+}

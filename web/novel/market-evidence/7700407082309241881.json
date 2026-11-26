@@ -1,0 +1,47 @@
+{
+  "novelId": "7700407082309241881",
+  "novelSourceHash": "51a82bd705d832dac46c9543b170c596a1e06aafe79f855396dd9af6115cd83f",
+  "reviewedFetchedAt": "2026-11-07T20:59:46Z",
+  "reviewedAt": "2026-11-08T08:21:05.621443+00:00",
+  "verdict": "未找到直接匹配",
+  "summary": "赛博求生、反讽宽恕和女性信息互助是已采核心，缺少能确认相同冲突与兑现的榜内对照。",
+  "novelEvidence": [
+    {
+      "feature": "互惠修复",
+      "chapters": [
+        8,
+        13,
+        17
+      ],
+      "evidence": "朋友救治、补交易差价与视频验证能力具体建立信任。"
+    },
+    {
+      "feature": "能力伦理",
+      "chapters": [
+        19,
+        20
+      ],
+      "evidence": "升级剥夺自主使主角决定克制，追兵又考验界线。"
+    }
+  ],
+  "limits": [
+    "泛求生和系统标签不足以认定市场机制相近。",
+    "榜内观察不代表全市场成功率。"
+  ],
+  "comparables": [],
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.799568+00:00"
+}

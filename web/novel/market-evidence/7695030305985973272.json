@@ -1,0 +1,38 @@
+{
+  "novelId": "7695030305985973272",
+  "novelSourceHash": "232a6ac01b7a393e47558a84fed681ee149a4c27293c20f3375e00eed6e4b8e1",
+  "reviewedFetchedAt": "2026-11-07T20:59:46Z",
+  "reviewedAt": "2026-11-08T08:32:08.691258+00:00",
+  "verdict": "未找到直接匹配",
+  "summary": "同类穿越或系统元素不足以支持文明传播、授权争议及AI创作边界三者的直接对标。",
+  "novelEvidence": [
+    {
+      "feature": "文明传播与科技交换",
+      "chapters": [
+        17,
+        20
+      ],
+      "evidence": "系统设定文明传播达标后可将科技芯片送回地球；全息游戏引出传播新形式。"
+    }
+  ],
+  "limits": [
+    "当前快照的共同标签不足以证明具体机制相近。",
+    "榜内观察不代表全市场成功率。"
+  ],
+  "comparables": [],
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.842938+00:00"
+}

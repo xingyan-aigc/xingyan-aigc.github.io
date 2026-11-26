@@ -1,0 +1,44 @@
+{
+  "verdict": "未找到有充分剧情证据的直接可比剧",
+  "summary": "关键词榜一常是求生排行，和主播PK打赏、旧支持者转向及私人照护不同。当前快照缺可核对的直接题材参照。",
+  "novelEvidence": [
+    {
+      "feature": "旧榜一转身与复播",
+      "chapters": "第1章",
+      "evidence": "L49—98"
+    },
+    {
+      "feature": "惩罚买断及新用户",
+      "chapters": "第4章",
+      "evidence": "L350—449"
+    },
+    {
+      "feature": "私播却上公开榜",
+      "chapters": "第18章",
+      "evidence": "L1420—1455"
+    }
+  ],
+  "limits": [
+    "关注公域排名的作品不一定讲打赏关系，须比对剧情而非标题。"
+  ],
+  "novelId": "7701742035150982206",
+  "novelSourceHash": "6549ad9d85ad2b304d28af841ed044abc145e5b2fa909209492f66f0e809636d",
+  "reviewedFetchedAt": "2026-11-07T20:59:46Z",
+  "reviewedAt": "2026-11-08T06:42:30.080336+00:00",
+  "comparables": [],
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.867684+00:00"
+}

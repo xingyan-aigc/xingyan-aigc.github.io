@@ -1,0 +1,111 @@
+{
+  "verdict": "找到公路副本和队伍协作的局部可比漫剧",
+  "summary": "雷达有以车辆求生、沿路取资源和陌生人组队为驱动的剧集。本文相近的是水灾路线与队内信任，区别在老头乐局限及人物卡机制。",
+  "novelEvidence": [
+    {
+      "feature": "低速车入场并遇陌生人",
+      "chapters": "第2章",
+      "evidence": "L84—140"
+    },
+    {
+      "feature": "资源区黑水倒灌逃离",
+      "chapters": "第16章",
+      "evidence": "L1195—1216"
+    },
+    {
+      "feature": "用双方独立利益建立合作",
+      "chapters": "第20章",
+      "evidence": "L1536—1561"
+    }
+  ],
+  "limits": [
+    "样本只能支持公路求生题材的局部参照；榜位不能证明原作人物或道具玩法带来热度。"
+  ],
+  "novelId": "7704352009233124414",
+  "novelSourceHash": "839a9a3427b1e2d11aa57fa0fa9205f8e37f19a16afac77ebfca345fd0e87c40",
+  "reviewedFetchedAt": "2026-11-07T20:59:46Z",
+  "reviewedAt": "2026-11-08T06:49:29.859532+00:00",
+  "comparables": [
+    {
+      "recentRanks": {},
+      "id": "7699710971899546648",
+      "title": "车粉人狠4公路求生榜一说她要走到公路尽头",
+      "match": "同为规则危机下的公路队伍，互不信任者需要靠实际事件及交易达成合作",
+      "difference": "雷达剧靠藏宝图与强者同盟，本书靠极小载具、回收与召唤限制",
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 8,
+        "hot": 23
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7699710971899546648",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7699710971899546648",
+      "latest": {},
+      "bestRanks": {
+        "comic": 8,
+        "hot": 23
+      },
+      "lastPoint": {
+        "heat": 44975867,
+        "fav": 381000,
+        "like": 1521000,
+        "rating": 9.2,
+        "rating_count": 5303,
+        "review_count": 1421,
+        "date": "2026-11-14",
+        "ranks": {}
+      },
+      "observedRankedDays": 7,
+      "lastRankedDate": "2026-10-31",
+      "synopsis": "危机四伏的求生公路上，区榜一无敌黑旋风因一句随口谎言卷入藏宝图争夺战，与三位心怀鬼胎的强者结成临时同盟，嘴上结盟，心里算计，谁也不信谁。秘境里文言规则暗藏杀机，灵魂飘带夜夜索命，蓝色河怪杀之不死，报错颜色者死，选错路者死。从互相提防到托付性命，她一点点赢回人心。与此同时萌宠彩蛋破壳，全服首只霓鳞御空龙霓啾啾诞生，防御近万，还能逆转时空替主赴死。这求生游戏的尽头，是宝藏，还是更大的局？"
+    },
+    {
+      "recentRanks": {},
+      "id": "7702016333881281561",
+      "title": "末哥超凡公路第九季",
+      "match": "车队需要穿越异常天气或地形，并面对其他幸存者，分工保证生存",
+      "difference": "样本规模更大且偏对抗，本书以单辆老头乐、资源回收和伙伴磨合为主",
+      "observedLatest": {
+        "comic": 92
+      },
+      "observedBest": {
+        "comic": 16,
+        "hot": 26
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7702016333881281561",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7702016333881281561",
+      "latest": {},
+      "bestRanks": {
+        "comic": 16,
+        "hot": 26
+      },
+      "lastPoint": {
+        "heat": 42474527,
+        "fav": 226000,
+        "like": 574000,
+        "rating": 9.0,
+        "rating_count": 3362,
+        "review_count": 683,
+        "date": "2026-11-21",
+        "ranks": {}
+      },
+      "observedRankedDays": 6,
+      "lastRankedDate": "2026-11-07",
+      "synopsis": "末世降临，诡异横行，幸存者们组成的车队像老鼠一样的躲避危险，当他们面对恐怖的雾江大蛇、十死无生的规则母巢，以及暗处同类的险恶算计，看这支公平车队如何一路神挡杀神、诡挡劈诡，在血月末世中杀出一条求生之路！"
+    }
+  ],
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.809267+00:00"
+}

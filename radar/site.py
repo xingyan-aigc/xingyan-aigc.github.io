@@ -79,6 +79,10 @@ def build_site(config: Config, out: Path, sources: List[str], log: Callable[[str
         shutil.rmtree(out)
     # Novel assessments are published separately behind password protection.
     shutil.copytree(config.paths.web, out, ignore=shutil.ignore_patterns("novel"))
+    # Publish only the explicitly approved, frozen novel snapshot.
+    novel = config.paths.web / "novel"
+    if (novel / "snapshot-manifest.json").is_file():
+        shutil.copytree(novel, out / "novel")
     (out / ".nojekyll").write_text("")
     stamp = utc_stamp()
     _bust_cache(out, stamp)

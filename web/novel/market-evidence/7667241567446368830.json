@@ -1,0 +1,71 @@
+{
+  "novelId": "7667241567446368830",
+  "novelSourceHash": "6d6da083738941166e4e405a043899603ea4d2d19c246cf0ea5118b7324fbae0",
+  "reviewedFetchedAt": "2026-11-09T03:57:30Z",
+  "reviewedAt": "2026-11-09T04:42:21.193437+00:00",
+  "verdict": "partial",
+  "summary": "雷达有专业能力者兼顾校园生活与办案的组合，但现有可比是民俗奇事，并非写实法医刑侦；不能把怪谈热度等同本书案件机制验证。",
+  "novelEvidence": [
+    {
+      "feature": "专业能力与校园双场景",
+      "chapters": [
+        2,
+        12
+      ],
+      "evidence": "顾问既参与刑案又回医学院教学，监视事件由课堂连接。"
+    }
+  ],
+  "limits": [
+    "只有职业办案的外层交集，没有直接法医连环案样本。",
+    "不据雷达类型给严密性或合规性加分。",
+    "榜内观察不代表全市场成功率。"
+  ],
+  "comparables": [
+    {
+      "recentRanks": {},
+      "id": "7696822722717813785",
+      "title": "我只是大学生，办案才是副业",
+      "match": "校园身份与协助办案结合，以专业能力处理异常事件。",
+      "difference": "对标是大学生民俗本事和诡异传闻，本书是教授法医与具体命案侦查，不能混称同类已验证。",
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 61
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7696822722717813785",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7696822722717813785",
+      "latest": {},
+      "bestRanks": {
+        "comic": 61
+      },
+      "lastPoint": {
+        "heat": 44385802,
+        "fav": 802000,
+        "like": 1236000,
+        "rating": 6.0,
+        "rating_count": 1290,
+        "review_count": 302,
+        "date": "2026-11-08",
+        "ranks": {}
+      },
+      "observedRankedDays": 5,
+      "lastRankedDate": "2026-10-25",
+      "synopsis": "民俗世家的大一学生张维，只想安心读大学。一次意外任务惊动特情处置局，受邀协助调查民间奇事。常有人把他当成厉害异人，但张维始终强调我只是大学生，办案只是负责。他嘴贫爱钱，身怀民俗本事，和高冷的林晓搭档，一边上课一边破解各类诡异传闻。怪事接连上门，潜藏的危机悄然靠近。"
+    }
+  ],
+  "incrementalReview": "data/scoring-runs/novels-9340a6a7132f-all50/market-incremental/7667241567446368830.json",
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.798787+00:00"
+}

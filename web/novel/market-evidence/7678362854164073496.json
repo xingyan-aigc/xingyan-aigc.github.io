@@ -1,0 +1,142 @@
+{
+  "novelId": "7678362854164073496",
+  "novelSourceHash": "185bdea7baceca9181d6d3d167e3bb4e097ae5ca86fc97b1218f399e760fa931",
+  "reviewedFetchedAt": "2026-11-09T03:57:30Z",
+  "reviewedAt": "2026-11-09T04:53:06.320575+00:00",
+  "verdict": "partial",
+  "summary": "冻结雷达有偏执追逐与逃离困局的关系题材可观察，但本书是持续受害控制链，不能仅凭偏执标签推断其适合直接改编或市场支持。",
+  "novelEvidence": [
+    {
+      "feature": "拒绝与逃跑持续失败",
+      "chapters": [
+        14,
+        15,
+        17
+      ],
+      "evidence": "策略答应、奔逃和回校均无法脱离控制"
+    },
+    {
+      "feature": "亲密关系与权势控制",
+      "chapters": [
+        13,
+        19,
+        20
+      ],
+      "evidence": "以追求之名剥夺自主，求助也被压制"
+    }
+  ],
+  "limits": [
+    "双男主尚未出场完整",
+    "不将受困等同相互救赎或自愿宠爱",
+    "榜内观察不代表全市场成功率。"
+  ],
+  "comparables": [
+    {
+      "recentRanks": {
+        "ai": {
+          "best": 39,
+          "days": 7
+        }
+      },
+      "id": "7703109492040272921",
+      "title": "婚后娇养，偏执大佬的掌心宠",
+      "match": "真实简介写女配为求活命装乖跑路而被偏执男主步步逼近，均有策略顺从与逃跑失败。",
+      "difference": "对照有穿书冒领恩情背景和救赎悬念，本书是无辜毕业生遭监控侵害，不能混成同一价值或已成立爱情。",
+      "observedLatest": {
+        "hot": 45,
+        "comic": 25
+      },
+      "observedBest": {
+        "comic": 25,
+        "hot": 45
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7703109492040272921",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7703109492040272921",
+      "latest": {
+        "ranks": {
+          "hot": 89,
+          "ai": 45
+        },
+        "deltas": {
+          "hot": -3,
+          "ai": 0
+        },
+        "d_heat": -64883,
+        "d_fav": 47000,
+        "r_heat": -0.0012,
+        "age_days": 24,
+        "is_new": false,
+        "kind": "ai"
+      },
+      "bestRanks": {
+        "comic": 25,
+        "hot": 27,
+        "ai": 11
+      },
+      "lastPoint": {
+        "heat": 52903460,
+        "fav": 2317000,
+        "like": 2890000,
+        "rating": 9.0,
+        "rating_count": 8964,
+        "review_count": 2099,
+        "date": "2026-11-25",
+        "ranks": {
+          "ai": 45,
+          "hot": 89
+        }
+      },
+      "observedRankedDays": 20,
+      "lastRankedDate": "2026-11-25",
+      "synopsis": "阮玉真一朝穿书，成了冒领男主救命之恩的恶毒女配，按原书结局，她迟早要被男主清算。为求活命，她决定洗心革面、装乖卖怂，伺机跑路。可表面温润、实则偏执的贺珣将她步步紧逼、宠到极致，让她每次跑路都功亏一篑。谎言终有败露的一天，究竟是困局，还是真心救赎？"
+    },
+    {
+      "recentRanks": {},
+      "id": "7701199948087299096",
+      "title": "遇棠方知涉：被偏执大佬黏上了3",
+      "match": "真实简介涉及人物与既定命运博弈、挣脱束缚，可观察受困题材的脱身期待。",
+      "difference": "对照是两人并肩对抗规则，本书20章仍是施害与反抗关系，无并肩合作，匹配弱。",
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 3,
+        "hot": 6
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7701199948087299096",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7701199948087299096",
+      "latest": {},
+      "bestRanks": {
+        "comic": 3,
+        "hot": 6
+      },
+      "lastPoint": {
+        "heat": 44605859,
+        "fav": 695000,
+        "like": 1239000,
+        "rating": 7.6,
+        "rating_count": 8374,
+        "review_count": 3042,
+        "date": "2026-11-19",
+        "ranks": {}
+      },
+      "observedRankedDays": 7,
+      "lastRankedDate": "2026-11-05",
+      "synopsis": "当故事的剧本走向早已注定，柯眠棠和荣涉不断和既定命运博弈。历经一路辗转与重重考验，两人并肩对抗这个世界暗藏的规则，挣脱所有束缚他们的桎梏。那些跨越山海的奔赴、藏在时光里的执念，终有回响。命运的书页迎来新的篇章，这一次，故事由他们自己书写。"
+    }
+  ],
+  "incrementalReview": "data/scoring-runs/novels-9340a6a7132f-all50/market-incremental/7678362854164073496.json",
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.866563+00:00"
+}

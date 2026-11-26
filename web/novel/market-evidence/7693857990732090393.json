@@ -1,0 +1,39 @@
+{
+  "novelId": "7693857990732090393",
+  "novelSourceHash": "648bf93b603c1055cc37f7db2e9fa841861f2110fc5faa461864430cbf45812f",
+  "reviewedFetchedAt": "2026-11-07T20:59:46Z",
+  "reviewedAt": "2026-11-08T06:48:56.009789+00:00",
+  "verdict": "直接匹配证据不足",
+  "summary": "冻结雷达可见社恐婚恋以及含强制爱元素的都市爱情，但一个仅有社恐婚恋设定交集，另一个借共同创作及角色扮演推进，均不足以印证小说的黑产庇护、创伤依附与控制关系。",
+  "novelEvidence": [
+    {
+      "feature": "从黑产囚困转入首领控制",
+      "chapters": "2",
+      "evidence": "ch2/P3 L161–198"
+    },
+    {
+      "feature": "因创伤向带走她的人请求陪伴",
+      "chapters": "19",
+      "evidence": "ch19/P3 L1920–1962"
+    }
+  ],
+  "limits": [
+    "《坠入秩序之外》的强制爱属于共同创作的戏中戏；社恐闪婚系列不能作为武装黑产关系的热度证据。"
+  ],
+  "comparables": [],
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.874749+00:00"
+}

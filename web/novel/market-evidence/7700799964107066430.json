@@ -1,0 +1,115 @@
+{
+  "novelId": "7700799964107066430",
+  "novelSourceHash": "2d11b3e6f1be78ad31ed4b832023293483644ba52f3ed951c19cf30e2267dc6c",
+  "reviewedFetchedAt": "2026-11-09T03:57:30Z",
+  "reviewedAt": "2026-11-09T04:55:10.673379+00:00",
+  "verdict": "partial",
+  "summary": "冻结雷达未找到同型现代民俗职业单元的直接强对照；师徒救援与力量责任有相邻机制，可观察而不宣称这些榜单验证了本书民俗内容。",
+  "novelEvidence": [
+    {
+      "feature": "救人带代价的师徒成长",
+      "chapters": [
+        4,
+        11,
+        15,
+        17
+      ],
+      "evidence": "救师兄、失救园园与无偿救城构成成长"
+    },
+    {
+      "feature": "强者保护具体弱者",
+      "chapters": [
+        12,
+        20
+      ],
+      "evidence": "反轻女、动物救助与家庭控制议题"
+    }
+  ],
+  "limits": [
+    "修仙对照世界与本书现实纪年民俗不同",
+    "市场独立不计分",
+    "榜内观察不代表全市场成功率。"
+  ],
+  "comparables": [
+    {
+      "recentRanks": {},
+      "id": "7695984658428726296",
+      "title": "问鼎仙途：踏碎仙凡第三季",
+      "match": "真实简介中师父循踪救陷邪阵的弟子、巨手追杀下救回爱徒，均有师徒与追踪救援危机。",
+      "difference": "对照为修仙成长复仇、宝物升级，本书是城市乡村民俗职业单元，非同种世界机制。",
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 36,
+        "hot": 76
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7695984658428726296",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7695984658428726296",
+      "latest": {},
+      "bestRanks": {
+        "comic": 36,
+        "hot": 76
+      },
+      "lastPoint": {
+        "heat": 46986940,
+        "fav": 312000,
+        "like": 1115000,
+        "rating": 8.4,
+        "rating_count": 1882,
+        "review_count": 264,
+        "date": "2026-11-01",
+        "ranks": {}
+      },
+      "observedRankedDays": 3,
+      "lastRankedDate": "2026-10-18",
+      "synopsis": "山村少年苏十二满门被灭，携家传天地炉入云歌宗，以杂灵根蛰伏废丹房，把废丹淬成极品丹。正邪大战夺千年一击独战魔影宫，宗门覆灭后远走暮云州，为封家复仇，与被封四百年的金银圣手侯四海结盟，收孤女封绯为徒。他闯十年一开的夜摩云市拍下千年芝，遭截杀濒死，凭天衍令避入幻星宗，养神丹修复识海、塑灵丹重铸五灵根，借菩提花结成金丹、连诛叛徒。弟子封绯被诱入五柳原地底邪阵，循踪跃入怪阵，于巨手追杀下救回爱徒。"
+    },
+    {
+      "recentRanks": {},
+      "id": "7693909683811126296",
+      "title": "烛九阴第七季",
+      "match": "真实简介写为百姓讨公道、太平却有代价，可与救城担当及失救创伤做主题观察。",
+      "difference": "对照是古代官场权力与生计，本书是怪谈调查，匹配只在保护者代价。",
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 9,
+        "hot": 17
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7693909683811126296",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7693909683811126296",
+      "latest": {},
+      "bestRanks": {
+        "comic": 9,
+        "hot": 17
+      },
+      "lastPoint": {
+        "heat": 45668075,
+        "fav": 380000,
+        "like": 790000,
+        "rating": 8.7,
+        "rating_count": 3394,
+        "review_count": 503,
+        "date": "2026-11-02",
+        "ranks": {}
+      },
+      "observedRankedDays": 7,
+      "lastRankedDate": "2026-10-19",
+      "synopsis": "从戴枷囚徒到一县之主，韩香骨决意为百姓讨一个公道。可赴任之日，迎接他的却是八条人命和一碗逼他低头的接风酒。四大家族把持县衙，他便夺权、筹银、剿匪，不肯退让。山路渐渐太平，百姓终于敢独自出门，靠押镖谋生的人却失去了饭碗。当这些人也为生计加入杀他的密谋，韩香骨所求的太平，究竟要付出怎样的代价？"
+    }
+  ],
+  "incrementalReview": "data/scoring-runs/novels-9340a6a7132f-all50/market-incremental/7700799964107066430.json",
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.807575+00:00"
+}

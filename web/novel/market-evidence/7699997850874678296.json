@@ -1,0 +1,39 @@
+{
+  "novelId": "7699997850874678296",
+  "novelSourceHash": "2a07b08f351c12b1b8850e27951d95ec455e032c69e5f0bc0a84ab47287254dc",
+  "reviewedFetchedAt": "2026-11-07T20:59:46Z",
+  "reviewedAt": "2026-11-08T08:30:02.271026+00:00",
+  "verdict": "未找到直接匹配",
+  "summary": "卷轴任务与诡异师徒养育是具体机制，通用修仙标签不足。",
+  "novelEvidence": [
+    {
+      "feature": "师徒养育",
+      "chapters": [
+        6,
+        9,
+        19
+      ],
+      "evidence": "从喂养到认名，冬至饺子回扣长期依恋。"
+    }
+  ],
+  "limits": [
+    "暂以冻结快照为范围。",
+    "榜内观察不代表全市场成功率。"
+  ],
+  "comparables": [],
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.852313+00:00"
+}

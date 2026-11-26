@@ -1,0 +1,141 @@
+{
+  "novelId": "7692079416584653849",
+  "novelSourceHash": "26b6e194bb09608c2549555fb8ee7c1d864c7e65bca95c226292f6833846c766",
+  "reviewedFetchedAt": "2026-11-09T03:57:30Z",
+  "reviewedAt": "2026-11-09T04:53:06.324784+00:00",
+  "verdict": "partial",
+  "summary": "冻结雷达中偏执关系与恶女自我改变可作局部观察，本书重生供养者推动男方认亲与对照差异大，未找到相同事业与关系引擎的强匹配。",
+  "novelEvidence": [
+    {
+      "feature": "试图改变旧关系轨迹",
+      "chapters": [
+        1,
+        16,
+        20
+      ],
+      "evidence": "重生后由控制转向名义独立但仍以退为进"
+    },
+    {
+      "feature": "表面温顺与占有反差",
+      "chapters": [
+        17,
+        19
+      ],
+      "evidence": "男方克制外表和失控亲密并置"
+    }
+  ],
+  "limits": [
+    "不把口欲当成雷达验证过的卖点",
+    "认亲与复仇尚未兑现",
+    "榜内观察不代表全市场成功率。"
+  ],
+  "comparables": [
+    {
+      "recentRanks": {
+        "ai": {
+          "best": 39,
+          "days": 7
+        }
+      },
+      "id": "7703109492040272921",
+      "title": "婚后娇养，偏执大佬的掌心宠",
+      "match": "真实简介含女配改变作风、偏执男主表面温润与步步紧逼，可比较关系反差。",
+      "difference": "对照是穿书求生逃跑，本书女方重生作为供养者主动推进，非同一困局。",
+      "observedLatest": {
+        "hot": 45,
+        "comic": 25
+      },
+      "observedBest": {
+        "comic": 25,
+        "hot": 45
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7703109492040272921",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7703109492040272921",
+      "latest": {
+        "ranks": {
+          "hot": 89,
+          "ai": 45
+        },
+        "deltas": {
+          "hot": -3,
+          "ai": 0
+        },
+        "d_heat": -64883,
+        "d_fav": 47000,
+        "r_heat": -0.0012,
+        "age_days": 24,
+        "is_new": false,
+        "kind": "ai"
+      },
+      "bestRanks": {
+        "comic": 25,
+        "hot": 27,
+        "ai": 11
+      },
+      "lastPoint": {
+        "heat": 52903460,
+        "fav": 2317000,
+        "like": 2890000,
+        "rating": 9.0,
+        "rating_count": 8964,
+        "review_count": 2099,
+        "date": "2026-11-25",
+        "ranks": {
+          "ai": 45,
+          "hot": 89
+        }
+      },
+      "observedRankedDays": 20,
+      "lastRankedDate": "2026-11-25",
+      "synopsis": "阮玉真一朝穿书，成了冒领男主救命之恩的恶毒女配，按原书结局，她迟早要被男主清算。为求活命，她决定洗心革面、装乖卖怂，伺机跑路。可表面温润、实则偏执的贺珣将她步步紧逼、宠到极致，让她每次跑路都功亏一篑。谎言终有败露的一天，究竟是困局，还是真心救赎？"
+    },
+    {
+      "recentRanks": {},
+      "id": "7699782110483074072",
+      "title": "万人迷的男主们，开始为她失控第二季",
+      "match": "真实简介提恶女标签和复杂关系中自我提升守边界，可作为改变关系主题的相邻观察。",
+      "difference": "对照强调舞蹈成长与尊重，本书未形成稳定边界和相同事业机制，匹配弱。",
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 15,
+        "hot": 30
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7699782110483074072",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7699782110483074072",
+      "latest": {},
+      "bestRanks": {
+        "comic": 15,
+        "hot": 30
+      },
+      "lastPoint": {
+        "heat": 43718604,
+        "fav": 378000,
+        "like": 1024000,
+        "rating": 8.9,
+        "rating_count": 3298,
+        "review_count": 1166,
+        "date": "2026-11-18",
+        "ranks": {}
+      },
+      "observedRankedDays": 5,
+      "lastRankedDate": "2026-11-04",
+      "synopsis": "沈念禾曾因外界偏见被贴上“恶女”标签。经历人生转折后，她决定撕下定义自己的标签，凭借清醒、勇气与舞蹈才华，在校园与人生选择中不断成长。面对复杂关系，她守住边界、提升自我，终于赢得理解与尊重，也找到真正属于自己的方向。"
+    }
+  ],
+  "incrementalReview": "data/scoring-runs/novels-9340a6a7132f-all50/market-incremental/7692079416584653849.json",
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.845965+00:00"
+}

@@ -1,0 +1,106 @@
+{
+  "novelId": "7671292222995303486",
+  "novelSourceHash": "500f3871756556f030d7047331d6ff0c5e6287608c9e2173bf13b4e4a67b2541",
+  "reviewedFetchedAt": "2026-11-07T20:59:46Z",
+  "reviewedAt": "2026-11-08T05:58:52.382331+00:00",
+  "verdict": "救治专业能力与创伤照护各有远邻，战区军医关系直接证据不足",
+  "summary": "急诊题材可参照专业行动如何赢得信任，但这里持续钩子是被救者与医师互不放心。两人的旧伤与指挥体系带来的压力是额外前提。",
+  "novelEvidence": [
+    {
+      "feature": "两分心理测评与王牌重伤形成反差",
+      "chapters": "1",
+      "evidence": "ch1/P2–P3 L66–186"
+    },
+    {
+      "feature": "伤者挣扎导致开裂，医生用守护和边界接住",
+      "chapters": "5",
+      "evidence": "ch5/P3 L980–1061"
+    },
+    {
+      "feature": "医生受创伤影响仍选择留任",
+      "chapters": "9",
+      "evidence": "ch9/P2 L1770–1819"
+    }
+  ],
+  "limits": [
+    "医学操作应由专业团队核查，战争背景、恢复周期和感情线不能以纯急诊竞赛的热度代替。",
+    "榜内样本仅作机制参照，无法推断同题材成功率。"
+  ],
+  "comparables": [
+    {
+      "recentRanks": {},
+      "id": "7698639465039809598",
+      "title": "急诊摸鱼王4",
+      "match": "用具体专业动作表现救治者可信度，同时留一条旧事件的疑问。",
+      "difference": "对照是急诊履历与旧手术疑云；原著是持续医患控制权博弈和战区创伤。 观察期最高名次：漫剧榜第73。",
+      "observedLatest": {},
+      "observedBest": {
+        "comic": 73
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7698639465039809598",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7698639465039809598",
+      "latest": {},
+      "bestRanks": {
+        "comic": 73
+      },
+      "lastPoint": {
+        "heat": 46235382,
+        "fav": 385000,
+        "like": 562000,
+        "rating": 8.8,
+        "rating_count": 2055,
+        "review_count": 396,
+        "date": "2026-11-10",
+        "ranks": {}
+      },
+      "observedRankedDays": 4,
+      "lastRankedDate": "2026-10-27",
+      "synopsis": "贺知舟参加全国急诊医学技能大赛，凭顶尖实力拿下冠军，赛场片段流出，他霍普金斯博士学历随之曝光。旧同事联系他，曝出柏林旧手术遭人陷害疑点，缺少关键证据只能存档观望。省台拍急诊纪实，拍下他盲操REBOA抢救危重伤员。考虑执业风险，成片将他匿名打码。热度高涨，省市多家机构看中贺知舟，抛出创伤中心、人才津贴等条件，各方博弈拉扯，贺知舟仍守急诊科，暗流风波尚未平息。"
+    },
+    {
+      "recentRanks": {},
+      "id": "7694964426843114520",
+      "title": "偏爱晚风",
+      "match": "过去创伤会影响当下亲密与信任，需要多次行为逐步建立安全感。",
+      "difference": "对照是都市离婚后重新相爱，原著有军医身份、命令与治疗边界。 观察期最高名次：真人榜第98。",
+      "observedLatest": {},
+      "observedBest": {
+        "real": 98
+      },
+      "url": "https://hongguoduanju.com/detail?series_id=7694964426843114520",
+      "radarUrl": "https://xingyan-aigc.github.io/#/search?drama=7694964426843114520",
+      "latest": {},
+      "bestRanks": {
+        "real": 98
+      },
+      "lastPoint": {
+        "heat": 43297078,
+        "fav": 173000,
+        "like": 291000,
+        "rating": 8.0,
+        "rating_count": 1507,
+        "review_count": 170,
+        "date": "2026-11-01",
+        "ranks": {}
+      },
+      "observedRankedDays": 1,
+      "lastRankedDate": "2026-10-18",
+      "synopsis": "顶尖设计师池悦因原生家庭创伤，对亲密关系极度抗拒，和前夫三年婚姻有名无实，离婚后闺蜜陆晴舒带她求医，医生建议换个人尝试。恰逢留学归来的陆昀回国，少年时便深爱池悦的他，开启猛烈追爱。池悦深陷背德煎熬，一边抗拒一边心动。陆昀屡次为她化解前夫林贺的刁难、危难，慢慢治愈她心底伤痕。池悦放下年龄顾虑，正视心意，两人携手对抗过往阴影，最终求婚成婚，收获双向奔赴的治愈姐弟恋。"
+    }
+  ],
+  "radar": {
+    "latest_date": "2026-11-25",
+    "fetched_at": "2026-11-25T16:05:53Z",
+    "first_date": "2026-10-13",
+    "history_days": 44,
+    "tracked": 756,
+    "error_count": 6
+  },
+  "needsReview": true,
+  "recentWindow": {
+    "start": "2026-11-19",
+    "end": "2026-11-25",
+    "observedDays": 7
+  },
+  "syncedAt": "2026-11-25T16:05:55.817376+00:00"
+}
